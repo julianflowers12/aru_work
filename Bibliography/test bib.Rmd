@@ -4,11 +4,18 @@ output:
   html_document: 
     number_sections: yes
 bibliography: refs.bib
+link-citations: true
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+See
+
+-   <https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html>
+
+-   <https://rstudio.github.io/visual-markdown-editing/citations>
 
 ```{r}
 
@@ -19,5 +26,9 @@ blah said @forister2020
 @Rasmussen2019
 
 @Yu2018
+
+@ntprese2016
+
+[@hill2016; @flowers2016; @fox2017; @mayer2010; @flowers2005; @flowers2013; @soljak2008]
 
 ## References 
