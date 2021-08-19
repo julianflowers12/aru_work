@@ -3,6 +3,8 @@ title: "test_refs using visual rmd"
 output: 
   html_document: 
     number_sections: yes
+    toc: yes
+    keep_md: yes
 bibliography: refs.bib
 link-citations: true
 ---
@@ -18,10 +20,20 @@ See
 -   <https://rstudio.github.io/visual-markdown-editing/citations>
 
 ```{r}
+library(tidyverse)
+devtools::install_github("julianflowers/myScrapers")
+ss <- myScrapers::get_ss_data(search = "large blue butterfly reintroduction")
+ss$data |> 
+  filter(isOpenAccess == TRUE) %>%
+  DT::datatable(filter = "top")
 
+
+dois <- ss$data %>% pluck("externalIds.DOI")
 ```
 
 blah said @forister2020
+
+@kajzer-bonkRelativeContributionMatrix2016\
 
 @Rasmussen2019
 
@@ -31,4 +43,4 @@ blah said @forister2020
 
 [@hill2016; @flowers2016; @fox2017; @mayer2010; @flowers2005; @flowers2013; @soljak2008]
 
-## References 
+## References
