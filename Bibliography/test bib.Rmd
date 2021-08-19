@@ -1,0 +1,23 @@
+---
+title: "test_refs using visual rmd"
+output: 
+  html_document: 
+    number_sections: yes
+bibliography: refs.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+
+```
+
+blah said @forister2020
+
+@Rasmussen2019
+
+@Yu2018
+
+## References 
