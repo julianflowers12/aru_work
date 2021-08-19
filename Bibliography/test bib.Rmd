@@ -22,7 +22,7 @@ devtools::install_github("julianflowers/myScrapers")
 ss <- myScrapers::get_ss_data(search = "large blue butterfly reintroduction")
 ss$data |> 
   filter(isOpenAccess == TRUE) %>%
-  DT::datatable(filter = "top")
+ gt::gt()
 
 
 dois <- ss$data %>% pluck("externalIds.DOI")
