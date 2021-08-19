@@ -1,10 +1,7 @@
 ---
 title: "test_refs using visual rmd"
 output: 
-  html_document: 
-    number_sections: yes
-    toc: yes
-    keep_md: yes
+ github_document
 bibliography: refs.bib
 link-citations: true
 ---
