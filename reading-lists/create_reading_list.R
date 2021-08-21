@@ -12,7 +12,7 @@ create_reading_list <- function(){
   rl
 }
 
-rl <- create_reading_list()
+rl <- create_reading_list() %>%
+  write_csv("full-list.csv")
 
-rl %>%
-  tail()
+
