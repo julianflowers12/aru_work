@@ -1,0 +1,223 @@
+Column Name,Description
+LSOA11,Lower Super Output Area Name
+LSOA11NM,Lower Super Output Area ID Code
+SOAC11NM,ONS Area Classification
+LAD17CD,Local Authority Code 2017
+LAD17NM,Local Authority Name 2017
+WD18NM,Ward Name 2018
+gas_percap_2010,kgCO2e per person emissions from mains gas in 2010
+gas_percap_2011,kgCO2e per person emissions from mains gas in 2011
+gas_percap_2012,kgCO2e per person emissions from mains gas in 2012
+gas_percap_2013,kgCO2e per person emissions from mains gas in 2013
+gas_percap_2014,kgCO2e per person emissions from mains gas in 2014
+gas_percap_2015,kgCO2e per person emissions from mains gas in 2015
+gas_percap_2016,kgCO2e per person emissions from mains gas in 2016
+gas_percap_2017,kgCO2e per person emissions from mains gas in 2017
+gas_percap_2018,kgCO2e per person emissions from mains gas in 2018
+elec_percap_2010,kgCO2e per person emissions from mains electricity in 2010
+elec_percap_2011,kgCO2e per person emissions from mains electricity in 2011
+elec_percap_2012,kgCO2e per person emissions from mains electricity in 2012
+elec_percap_2013,kgCO2e per person emissions from mains electricity in 2013
+elec_percap_2014,kgCO2e per person emissions from mains electricity in 2014
+elec_percap_2015,kgCO2e per person emissions from mains electricity in 2015
+elec_percap_2016,kgCO2e per person emissions from mains electricity in 2016
+elec_percap_2017,kgCO2e per person emissions from mains electricity in 2017
+elec_percap_2018,kgCO2e per person emissions from mains electricity in 2018
+other_heat_percap_2011,estimated kgCO2e per person emissions from non-gas and non-electric domestic heating 
+flights_percap_2018,estimated kgCO2e per person emissions from domestic and international flights
+nutrition_kgco2e_percap,estimated kgCO2e per person emissions from food and drink
+other_shelter_kgco2e_percap,estimated kgCO2e per person emissions from other housing related sources
+consumables_kgco2e_percap,estimated kgCO2e per person emissions from consumption of goods
+recreation_kgco2e_percap,estimated kgCO2e per person emissions from recreation
+services_kgco2e_percap,estimated kgCO2e per person emissions from consumption of services
+commute_noncar_percap,
+car_percap_2010,kgCO2e per person emissions from cars in 2010
+car_percap_2011,kgCO2e per person emissions from cars in 2011
+car_percap_2012,kgCO2e per person emissions from cars in 2012
+car_percap_2013,kgCO2e per person emissions from cars in 2013
+car_percap_2014,kgCO2e per person emissions from cars in 2014
+car_percap_2015,kgCO2e per person emissions from cars in 2015
+car_percap_2016,kgCO2e per person emissions from cars in 2016
+car_percap_2017,kgCO2e per person emissions from cars in 2017
+car_percap_2018,kgCO2e per person emissions from cars in 2018
+van_percap_2010,kgCO2e per person emissions from vans in 2010
+van_percap_2011,kgCO2e per person emissions from vans in 2011
+van_percap_2012,kgCO2e per person emissions from vans in 2012
+van_percap_2013,kgCO2e per person emissions from vans in 2013
+van_percap_2014,kgCO2e per person emissions from vans in 2014
+van_percap_2015,kgCO2e per person emissions from vans in 2015
+van_percap_2016,kgCO2e per person emissions from vans in 2016
+van_percap_2017,kgCO2e per person emissions from vans in 2017
+van_percap_2018,kgCO2e per person emissions from vans in 2018
+cars_percap_2010,Number of cars per person in 2010
+cars_percap_2011,Number of cars per person in 2011
+cars_percap_2012,Number of cars per person in 2012
+cars_percap_2013,Number of cars per person in 2013
+cars_percap_2014,Number of cars per person in 2014
+cars_percap_2015,Number of cars per person in 2015
+cars_percap_2016,Number of cars per person in 2016
+cars_percap_2017,Number of cars per person in 2017
+cars_percap_2018,Number of cars per person in 2018
+AvgCO2_cars_2010,Average kgCO2e per km of cars in 2010
+AvgCO2_cars_2011,Average kgCO2e per km of cars in 2011
+AvgCO2_cars_2012,Average kgCO2e per km of cars in 2012
+AvgCO2_cars_2013,Average kgCO2e per km of cars in 2013
+AvgCO2_cars_2014,Average kgCO2e per km of cars in 2014
+AvgCO2_cars_2015,Average kgCO2e per km of cars in 2015
+AvgCO2_cars_2016,Average kgCO2e per km of cars in 2016
+AvgCO2_cars_2017,Average kgCO2e per km of cars in 2017
+AvgCO2_cars_2018,Average kgCO2e per km of cars in 2018
+pop_2011,Population in 2011 Census
+pop_2012,Estimated population in 2012
+pop_2013,Estimated population in 2013
+pop_2014,Estimated population in 2014
+pop_2015,Estimated population in 2015
+pop_2016,Estimated population in 2016
+pop_2017,Estimated population in 2017
+pop_2018,Estimated population in 2018
+pP1900,Number of homes built before 1900
+p1900_18,Number of homes built between 1900 and 1918
+p1919_29,Number of homes built between 1919 and 1929
+p1930_39,Number of homes built between 1930 and 1939
+p1945_54,Number of homes built between 1945 and 1954
+p1955_64,Number of homes built between 1955 and 1964
+p1965_72,Number of homes built between 1965 and 1972
+p1973_82,Number of homes built between 1973 and 1982
+p1983_92,Number of homes built between 1983 and 1992
+p1993_99,Number of homes built between 1993 and 1999
+p2000_09,Number of homes built between 2000 and 2009
+p2010_15,Number of homes built between 2010 and 2015
+pUNKNOWN,Number of homes Age unknown
+Whole_House_Detached,Number of homes detached
+Whole_House_Semi,Number of homes semi-detached
+Whole_House_Terraced,Number of homes Terraced
+Flat_PurposeBuilt,Number of homes Flat Purpose Built
+Flat_Converted,Number of homes Converted
+Flat_Commercial,Number of homes Flat above commercial property
+Caravan,Number of homes Caravan or mobile home
+epc_total,Number of homes with an EPC
+epc_newbuild,Number of homes with an EPC classed as new build
+epc_A,Number of EPCs Grade A
+epc_B,Number of EPCs Grade B
+epc_C,Number of EPCs Grade C
+epc_D,Number of EPCs Grade D
+epc_E,Number of EPCs Grade E
+epc_F,Number of EPCs Grade F
+epc_G,Number of EPCs Grade G
+epc_score_avg,Average EPC score
+type_house_semi,Number of EPCs with house type semi-detached
+type_house_midterrace,Number of EPCs with house type mid-terrace
+type_house_endterrace,Number of EPCs with house type end-terrace
+type_house_detached,Number of EPCs with house type detached
+type_flat,Number of EPCs with house type flat
+type_maisonette,Number of EPCs with house type maisonette
+type_parkhome,Number of EPCs with house type park home
+type_other,Number of EPCs with house type other
+type_bungalow,Number of EPCs with house type bungalow
+floor_area_avg,Average floor are of homes with an EPC
+low_energy_light,Average percentage of low energy lights in homes
+floor_verygood,Number of EPCs with Floor Rating of Very Good
+floor_good,Number of EPCs with Floor Rating of Good
+floor_average,Number of EPCs with Floor Rating of Average
+floor_poor,Number of EPCs with Floor Rating of Poor
+floor_verypoor,Number of EPCs with Floor Rating of Very Poor
+floor_other,Number of EPCs with Floor Rating of Other / Missing
+floor_below,Number of EPCs with another dwelling below (floor not rated)
+window_verygood,Number of EPCs with Window Rating of Very Good
+window_good,Number of EPCs with Window Rating of Good
+window_average,Number of EPCs with Window Rating of Average
+window_poor,Number of EPCs with Window Rating of Poor
+window_verypoor,Number of EPCs with Window Rating of Very Poor
+window_other,Number of EPCs with Window Rating of Other / Missing
+wall_verygood,Number of EPCs with Wall Rating of Very Good
+wall_good,Number of EPCs with Wall Rating of Good
+wall_average,Number of EPCs with Wall Rating of Average
+wall_poor,Number of EPCs with Wall Rating of Poor
+wall_verypoor,Number of EPCs with Wall Rating of Very Poor
+wall_other,Number of EPCs with Wall Rating of Other / Missing
+roof_verygood,Number of EPCs with Roof Rating of Very Good
+roof_good,Number of EPCs with Roof Rating of Good
+roof_average,Number of EPCs with Roof Rating of Average
+roof_poor,Number of EPCs with Roof Rating of Poor
+roof_verypoor,Number of EPCs with Roof Rating of Very Poor
+roof_other,Number of EPCs with Roof Rating of Other / Missing
+roof_above,Number of EPCs with another dwelling above (roof not rated)
+mainheat_verygood,Number of EPCs with Main Heating Efficiency Rating of Very Good
+mainheat_good,Number of EPCs with Main Heating Efficiency Rating of Good
+mainheat_average,Number of EPCs with Main Heating Efficiency Rating of Average
+mainheat_poor,Number of EPCs with Main Heating Efficiency Rating of Poor
+mainheat_verypoor,Number of EPCs with Main Heating Efficiency Rating of Very Poor
+mainheat_other,Number of EPCs with Main Heating Efficiency Rating of Other / Missing
+mainheatcontrol_verygood,Number of EPCs with Main Heating Controls Rating of Very Good
+mainheatcontrol_good,Number of EPCs with Main Heating Controls Rating of Good
+mainheatcontrol_average,Number of EPCs with Main Heating Controls Rating of Average
+mainheatcontrol_poor,Number of EPCs with Main Heating Controls Rating of Poor
+mainheatcontrol_verypoor,Number of EPCs with Main Heating Controls Rating of Very Poor
+mainheatcontrol_other,Number of EPCs with Main Heating Controls Rating of Other / Missing
+mainheatdesc_gasboiler,Number of EPCs with main heating description including gas boiler
+mainheatdesc_oilboiler,Number of EPCs with main heating description including oil boiler
+mainheatdesc_storageheater,Number of EPCs with main heating description including storage heater
+mainheatdesc_portableheater,Number of EPCs with main heating description including portable heater
+mainheatdesc_roomheater,Number of EPCs with main heating description including room heater
+mainheatdesc_heatpump,Number of EPCs with main heating description including heat pump
+mainheatdesc_community,Number of EPCs with main heating description including community heating
+mainheatdesc_other,Number of EPCs with main heating description missing or not covered by above categories
+mainfuel_mainsgas,Number of EPCs with main heating fuel mains gas
+mainfuel_electric,Number of EPCs with main heating fuel electricity
+mainfuel_oil,Number of EPCs with main heating fuel oil
+mainfuel_coal,Number of EPCs with main heating fuel coal
+mainfuel_lpg,Number of EPCs with main heating fuel LPG
+mainfuel_biomass,Number of EPCs with main heating fuel Biomass
+has_solarpv,Number of EPCs with Solar PV
+has_solarthermal,Number of EPCs with Solar Thermal
+T2W_WorkAtHome,Number of people who travel to work - work at home
+T2W_Underground,Number of people who travel to work - Underground / Tram / Metro
+T2W_Train,Number of people who travel to work -  Train
+T2W_Bus,Number of people who travel to work - Bus
+T2W_Taxi,Number of people who travel to work - Taxi
+T2W_Motorcycle,Number of people who travel to work - Motorbike
+T2W_CarOrVan,Number of people who travel to work - Car or Van
+T2W_Passenger,Number of people who travel to work - Passenger in Car
+T2W_Bicycle,Number of people who travel to work - Bicycle
+T2W_OnFoot,Number of people who travel to work - Walk
+T2W_OtherMethod,Number of people who travel to work - Other Method
+T2W_pct,Percentage of people who travel to work by bike in the PCT go Dutch scenario
+km_Underground,Kilometres travelled per year by people who travel to work by Underground / Tram / Metro
+km_Train,Kilometres travelled per year by people who travel to work by Train
+km_Bus,Kilometres travelled per year by people who travel to work by Bus
+km_Taxi,Kilometres travelled per year by people who travel to work by Taxi
+km_Motorcycle,Kilometres travelled per year by people who travel to work by Motorbike
+km_CarOrVan,Kilometres travelled per year by people who travel to work by Car or Van
+km_Passenger,Kilometres travelled per year by people who travel to work by Passenger in Car
+km_Bicycle,Kilometres travelled per year by people who travel to work by Bicycle
+km_OnFoot,Kilometres travelled per year by people who travel to work by Walking
+km_OtherMethod,Kilometres travelled per year by people who travel to work by Other method
+pHeating_None,Number of dwellings with no heating system
+pHeating_Gas,Number of dwellings with gas heating
+pHeating_Electric,Number of dwellings with electric heating
+pHeating_Oil,Number of dwellings with oil heating
+pHeating_Solid,Number of dwellings with solid fuel heating
+pHeating_Other,Number of dwellings with other heating
+T2S_bike,Number of children the travel to school by bike
+T2S_foot,Number of children the travel to school by foot
+T2S_car,Number of children the travel to school by car
+T2S_other,Number of children the travel to school by other mode including public transport
+T2S_pct,Number of children the travel to school by bike under the PCT Go Dutch scenario
+total_kgco2e_percap,Total carbon footprint per person kgCO2e
+cars_percap_grade,Grade for cars per person (A+ to F-)
+km_percap_grade,Grade for kilometres driven per person per year (A+ to F-)
+T2W_Car_grade,Grade for travel to work by car (A+ to F-)
+T2W_Cycle_grade,Grade for travel to work by bicycle (A+ to F-)
+T2W_Bus_grade,Grade for travel to work by bus (A+ to F-)
+T2W_Train_grade,Grade for travel to work by train (A+ to F-)
+T2W_Foot_grade,Grade for travel to work by foot (A+ to F-)
+T2W_Underground_grade,Grade for travel to work by underground / tram / metro (A+ to F-)
+elec_emissions_grade,Grade for electricity emissions (A+ to F-)
+gas_emissions_grade,Grade for mains gas emissions (A+ to F-)
+car_emissions_grade,Grade for cars emissions (A+ to F-)
+total_emissions_grade,Grade for total emissions (A+ to F-)
+flights_grade,Grade for flights emissions (A+ to F-)
+other_heating_grade,Grade for other (non gas/electric) heating emissions (A+ to F-)
+van_grade,Grade for vans emissions (A+ to F-)
+consumption_all_kgco2e_percap,Combined emissions per person from food recreation goods and services
+consumption_grade,Combined Grade for food recreation goods and services emissions (A+ to F-)
