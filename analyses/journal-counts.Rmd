@@ -1,10 +1,10 @@
 ---
-title: "annual-counts-1"
+title: "Title analysis of core wildlife conservation journals"
 author: "Julian Flowers"
 date: "31/08/2021"
 output: html_document
 params: 
-    search: "Ecology"
+    search: "Journal of applied ecology"
 ---
 
 ```{r}
@@ -16,10 +16,13 @@ devtools::install_github("julianflowers/myScrapers")
 library(myScrapers)
 
 library(tidyverse)
+
+library(tictoc)
 ```
 
 
 ```{r}
+tic()
 search <- paste0(params$search, "[ta]")
 
 ncbi_key <- Sys.getenv("ncbi_key")
@@ -31,6 +34,7 @@ start <- 2000
 end <- 2021
 
 test <- pubmedAbstractR(search = search, n = n, ncbi_key = ncbi_key, start = start, end = end)
+toc()
 ```
 
 ## annual counts
@@ -49,9 +53,7 @@ test$abstracts %>%
 
 ### simple title analysis
 
-
-
-```{r}
+```{r fig.height=8}
 
 
 library(tidytext); library(quanteda)
@@ -63,7 +65,7 @@ word_freq <- test$abstracts %>%
   count(journal, year, word, sort = T)
 
 word_freq %>%
-  filter(n > 10) %>%
+  filter(n > 4) %>%
   ggplot(aes(year, fct_rev(word), fill = n)) +
   geom_tile() +
   #facet_wrap(\~journal) +
@@ -78,7 +80,7 @@ big <- create_bigrams(test$abstracts, title)
 
 big <- big %>%
    count(year, bigram, sort = TRUE) %>%
-   filter(n > 3)
+   filter(n > 2)
 
 big %>%
   ggplot(aes(year, fct_rev(bigram), fill = n)) +
