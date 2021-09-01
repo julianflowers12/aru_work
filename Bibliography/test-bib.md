@@ -26,7 +26,7 @@ library(tidyverse)
 devtools::install_github("julianflowers/myScrapers")
 ```
 
-    ## Skipping install of 'myScrapers' from a github remote, the SHA1 (de52a605) has not changed since last install.
+    ## Skipping install of 'myScrapers' from a github remote, the SHA1 (dd420c38) has not changed since last install.
     ##   Use `force = TRUE` to force installation
 
 ``` r
@@ -61,12 +61,12 @@ ss$data |>
  gt::gt()
 ```
 
-<div id="tengqzxcez" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fdingazlxc" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tengqzxcez .gt_table {
+#fdingazlxc .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -91,7 +91,7 @@ ss$data |>
   border-left-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_heading {
+#fdingazlxc .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -103,7 +103,7 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_title {
+#fdingazlxc .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -113,23 +113,23 @@ ss$data |>
   border-bottom-width: 0;
 }
 
-#tengqzxcez .gt_subtitle {
+#fdingazlxc .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
   padding-top: 0;
-  padding-bottom: 6px;
+  padding-bottom: 4px;
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
 
-#tengqzxcez .gt_bottom_border {
+#fdingazlxc .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_col_headings {
+#fdingazlxc .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -144,7 +144,7 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_col_heading {
+#fdingazlxc .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -164,7 +164,7 @@ ss$data |>
   overflow-x: hidden;
 }
 
-#tengqzxcez .gt_column_spanner_outer {
+#fdingazlxc .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -176,27 +176,27 @@ ss$data |>
   padding-right: 4px;
 }
 
-#tengqzxcez .gt_column_spanner_outer:first-child {
+#fdingazlxc .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tengqzxcez .gt_column_spanner_outer:last-child {
+#fdingazlxc .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tengqzxcez .gt_column_spanner {
+#fdingazlxc .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
   vertical-align: bottom;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 6px;
   overflow-x: hidden;
   display: inline-block;
   width: 100%;
 }
 
-#tengqzxcez .gt_group_heading {
+#fdingazlxc .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -218,7 +218,7 @@ ss$data |>
   vertical-align: middle;
 }
 
-#tengqzxcez .gt_empty_group_heading {
+#fdingazlxc .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -233,15 +233,15 @@ ss$data |>
   vertical-align: middle;
 }
 
-#tengqzxcez .gt_from_md > :first-child {
+#fdingazlxc .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tengqzxcez .gt_from_md > :last-child {
+#fdingazlxc .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tengqzxcez .gt_row {
+#fdingazlxc .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -260,7 +260,7 @@ ss$data |>
   overflow-x: hidden;
 }
 
-#tengqzxcez .gt_stub {
+#fdingazlxc .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -272,7 +272,7 @@ ss$data |>
   padding-left: 12px;
 }
 
-#tengqzxcez .gt_summary_row {
+#fdingazlxc .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -282,7 +282,7 @@ ss$data |>
   padding-right: 5px;
 }
 
-#tengqzxcez .gt_first_summary_row {
+#fdingazlxc .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -292,7 +292,7 @@ ss$data |>
   border-top-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_grand_summary_row {
+#fdingazlxc .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -302,7 +302,7 @@ ss$data |>
   padding-right: 5px;
 }
 
-#tengqzxcez .gt_first_grand_summary_row {
+#fdingazlxc .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -312,11 +312,11 @@ ss$data |>
   border-top-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_striped {
+#fdingazlxc .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tengqzxcez .gt_table_body {
+#fdingazlxc .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -325,7 +325,7 @@ ss$data |>
   border-bottom-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_footnotes {
+#fdingazlxc .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -339,13 +339,13 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_footnote {
+#fdingazlxc .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tengqzxcez .gt_sourcenotes {
+#fdingazlxc .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -359,41 +359,41 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_sourcenote {
+#fdingazlxc .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tengqzxcez .gt_left {
+#fdingazlxc .gt_left {
   text-align: left;
 }
 
-#tengqzxcez .gt_center {
+#fdingazlxc .gt_center {
   text-align: center;
 }
 
-#tengqzxcez .gt_right {
+#fdingazlxc .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tengqzxcez .gt_font_normal {
+#fdingazlxc .gt_font_normal {
   font-weight: normal;
 }
 
-#tengqzxcez .gt_font_bold {
+#fdingazlxc .gt_font_bold {
   font-weight: bold;
 }
 
-#tengqzxcez .gt_font_italic {
+#fdingazlxc .gt_font_italic {
   font-style: italic;
 }
 
-#tengqzxcez .gt_super {
+#fdingazlxc .gt_super {
   font-size: 65%;
 }
 
-#tengqzxcez .gt_footnote_marks {
+#fdingazlxc .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -715,7 +715,7 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_left">Central European Journal of Biology</td>
 <td class="gt_row gt_right">2013</td>
 <td class="gt_row gt_right">54</td>
-<td class="gt_row gt_right">9</td>
+<td class="gt_row gt_right">10</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("4970957", "3693237", "134178140", "6344156", "5810768", "1757832", "2978867", "3681386"), c("P. Skórka", "P. Nowicki", "J. Kudłek", "A. Pępkowska", "E. Śliwińska", "M. Witek", "J. Settele", "M. Woyciechowski")</td></tr>
@@ -775,7 +775,7 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_left">Journal of Insect Conservation</td>
 <td class="gt_row gt_right">2019</td>
 <td class="gt_row gt_right">132</td>
-<td class="gt_row gt_right">7</td>
+<td class="gt_row gt_right">8</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("46811706", "2046570650", "66796610", "32783151", "88692697", "100959461", "49674554", "40488050", "12558761", "101297632", "144101650", "4013632", "1411378757", "35046663", "5442982"), c("D. Maes", "S. Ellis", "P. Goffart", "K. Cruickshanks", "C. V. Swaay", "R. Cors", "M. Herremans", "Kristijn R. R. Swinnen", "C. Wils", "Sofie Verhulst", "L. Bruyn", "E. Matthysen", "Susannah O’Riordan", "D. Hoare", "N. Bourn")</td></tr>
@@ -869,6 +869,21 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("2028116774", "47068228", "50158581", "46955518", "2557506"), c("A. Saito", "K. Ishibashi", "Junpei Ohga", "Y. Hirai", "Y. Kuwahara")</td></tr>
+    <tr><td class="gt_row gt_left">edfe97b3bc155a4a42a2853b85fa5a005b188378</td>
+<td class="gt_row gt_left">6028894</td>
+<td class="gt_row gt_left">2805049708</td>
+<td class="gt_row gt_left">10.1007/s00359-018-1267-z</td>
+<td class="gt_row gt_left">29869100</td>
+<td class="gt_row gt_left">https://www.semanticscholar.org/paper/edfe97b3bc155a4a42a2853b85fa5a005b188378</td>
+<td class="gt_row gt_left">The giant butterfly-moth Paysandisia archon has spectrally rich apposition eyes with unique light-dependent photoreceptor dynamics</td>
+<td class="gt_row gt_left">The palm borer moth Paysandisia archon (Burmeister, 1880) (fam. Castniidae) is a large, diurnally active palm pest. Its compound eyes consist of ~ 20,000 ommatidia and have apposition optics with interommatidial angles below 1°. The ommatidia contain nine photoreceptor cells and appear structurally similar to those in nymphalid butterflies. Two morphological ommatidial types were identified. Using the butterfly numbering scheme, in type I ommatidia, the distal rhabdom consists exclusively of the rhabdomeres of photoreceptors R1–2; the medial rhabdom has contributions from R1–8. The rhabdom in type II ommatidia is distally split into two sub-rhabdoms, with contributions from photoreceptors R2, R3, R5, R6 and R1, R4, R7, R8, respectively; medially, only R3–8 and not R1–2 contribute to the fused rhabdom. In both types, the pigmented bilobed photoreceptors R9 contribute to the rhabdom basally. Their nuclei reside in one of the lobes. Upon light adaptation, in both ommatidial types, the rhabdoms secede from the crystalline cones and pigment granules invade the gap. Intracellular recordings identified four photoreceptor classes with peak sensitivities in the ultraviolet, blue, green and orange wavelength regions (at 360, 465, 550, 580 nm, respectively). We discuss the eye morphology and optics, the photoreceptor spectral sensitivities, and the adaptation to daytime activity from a phylogenetic perspective.</td>
+<td class="gt_row gt_left">Journal of Comparative Physiology A</td>
+<td class="gt_row gt_right">2018</td>
+<td class="gt_row gt_right">92</td>
+<td class="gt_row gt_right">9</td>
+<td class="gt_row gt_right">0</td>
+<td class="gt_row gt_center">TRUE</td>
+<td class="gt_row gt_center">c("3067909", "46269818", "18097244", "4900499", "3524164", "3582785"), c("P. Pirih", "Marko Ilić", "Jerneja Rudolf", "K. Arikawa", "D. Stavenga", "G. Belušič")</td></tr>
   </tbody>
   
   

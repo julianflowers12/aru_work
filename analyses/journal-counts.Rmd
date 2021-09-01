@@ -4,7 +4,7 @@ author: "Julian Flowers"
 date: "31/08/2021"
 output: html_document
 params: 
-    search: "Journal of applied ecology"
+    search: "Population Ecology"
 ---
 
 ```{r}
@@ -53,7 +53,7 @@ test$abstracts %>%
 
 ### simple title analysis
 
-```{r fig.height=8}
+```{r fig.height=10}
 
 
 library(tidytext); library(quanteda)
@@ -65,7 +65,7 @@ word_freq <- test$abstracts %>%
   count(journal, year, word, sort = T)
 
 word_freq %>%
-  filter(n > 4) %>%
+  filter(n > 14) %>%
   ggplot(aes(year, fct_rev(word), fill = n)) +
   geom_tile() +
   #facet_wrap(\~journal) +
@@ -80,7 +80,7 @@ big <- create_bigrams(test$abstracts, title)
 
 big <- big %>%
    count(year, bigram, sort = TRUE) %>%
-   filter(n > 2)
+   filter(n > 9)
 
 big %>%
   ggplot(aes(year, fct_rev(bigram), fill = n)) +

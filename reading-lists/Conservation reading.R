@@ -18,6 +18,8 @@ rl <- reading_list |>
 
 #' ## Reading list
 
-rl 
+rl %>%
+  filter(Type == "Journal")
+  count(Type)
 
 
