@@ -1,0 +1,50 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
+params:
+  search: "wildlife conservation"
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE, cache = TRUE)
+
+
+```
+
+```{r libraries}
+
+library(guardianapi)
+library(lubridate)
+library(tidyverse)
+library(myScrapers)
+library(textrank)
+
+```
+
+```{r get articles}
+
+
+#key <- Sys.getenv("guardian_api")
+
+guardianapi::gu_api_key(check_env = TRUE)
+
+last_month <- guardianapi::gu_content(params$search, from_date = today() - days(30), to_date = today())
+
+#glimpse(last_month)
+
+last_month <- last_month %>%
+  mutate(date = ymd(str_sub(web_publication_date, 1, 10))) %>%
+  select(date, web_title, headline, body_text, short_url, section_name)
+
+tldr <- last_month %>%
+  .[1:178, ] %>%
+  mutate(tldr = map(body_text, text_summariser)) %>%
+  unnest(tldr)
+
+tldr$tldr
+```

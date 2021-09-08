@@ -1,0 +1,37 @@
+---
+title: "GoogledriveR"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+<https://googledrive.tidyverse.org/index.html>
+
+```{r}
+
+install.packages("googledrive"); install.packages("gargle")
+library(googledrive)
+library(gargle)
+library(tidyverse)
+
+```
+
+```{r}
+drive_auth(email = "julian.flowers12@gmail.com")
+
+gargle::gargle_oauth_sitrep()
+
+options(gargle_oauth_cache = ".secrets")
+gargle::gargle_oauth_cache()
+drive_auth(use_oob = TRUE)
+#list.files(".secrets/")
+
+
+```
+
+```{r}
+drive_ls("PCI")
+drive_download(path = "PCI", file = "mi data")
+
+drive_find(n_max = 10)
+```
