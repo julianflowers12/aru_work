@@ -30,12 +30,24 @@ dois <- ss$data %>% pluck("externalIds.DOI")
 
 blah said \@forister2020
 
+<<<<<<< HEAD
 \@kajzer-bonkRelativeContributionMatrix2016 \@Rasmussen2019
 
 \@Yu2018
 
 \@ntprese2016
 
+=======
+\@kajzer-bonkRelativeContributionMatrix2016
+\@Rasmussen2019
+
+\@Yu2018
+
+\@Yu2018  
+
+\@ntprese2016
+
+>>>>>>> 736c4cb1bbe9941d0735811e9e1a5a1bcc5da2d1
 [\@hill2016; \@flowers2016; \@fox2017; \@mayer2010; \@flowers2005; \@flowers2013; \@soljak2008]
 
 ## References
