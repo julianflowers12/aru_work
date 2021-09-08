@@ -11,14 +11,14 @@ See
 library(tidyverse)
 ```
 
-    ## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──
+    ## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
 
-    ## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
-    ## ✓ tibble  3.1.3     ✓ dplyr   1.0.7
-    ## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
-    ## ✓ readr   2.0.1     ✓ forcats 0.5.1
+    ## v ggplot2 3.3.3     v purrr   0.3.4
+    ## v tibble  3.1.2     v dplyr   1.0.6
+    ## v tidyr   1.1.3     v stringr 1.4.0
+    ## v readr   1.4.0     v forcats 0.5.1
 
-    ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+    ## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
     ## x dplyr::filter() masks stats::filter()
     ## x dplyr::lag()    masks stats::lag()
 
@@ -26,8 +26,34 @@ library(tidyverse)
 devtools::install_github("julianflowers/myScrapers")
 ```
 
-    ## Skipping install of 'myScrapers' from a github remote, the SHA1 (de52a605) has not changed since last install.
-    ##   Use `force = TRUE` to force installation
+    ## Downloading GitHub repo julianflowers/myScrapers@HEAD
+
+    ##       v  checking for file 'C:\Users\Julian\AppData\Local\Temp\Rtmp6DZAjO\remotes314c74677276\julianflowers-myScrapers-d651dd6/DESCRIPTION'
+    ##       -  preparing 'myScrapers':
+    ##    checking DESCRIPTION meta-information ...     checking DESCRIPTION meta-information ...   v  checking DESCRIPTION meta-information
+    ##       -  checking for LF line-endings in source and make files and shell scripts
+    ##       -  checking for empty or unneeded directories
+    ##      Omitted 'LazyData' from DESCRIPTION
+    ##      NB: this package now depends on R (>=        NB: this package now depends on R (>= 3.5.0)
+    ##        WARNING: Added dependency on R >= 3.5.0 because serialized objects in
+    ##      serialize/load version 3 cannot be read in older versions of R.
+    ##      File(s) containing such objects:
+    ##        'myScrapers/vignettes/annual-counts_cache/html/unnamed-chunk-1_ad4536896088afdadabfca30f1798fc4.RData'
+    ##        'myScrapers/vignettes/annual-counts_cache/html/unnamed-chunk-1_ad4536896088afdadabfca30f1798fc4.rdx'
+    ##        'myScrapers/vignettes/topic-models_cache/html/unnamed-chunk-2_f57582de137bcd4d9e8d344775c0ea4e.RData'
+    ##        'myScrapers/vignettes/topic-models_cache/html/unnamed-chunk-2_f57582de137bcd4d9e8d344775c0ea4e.rdx'
+    ##        'myScrapers/vignettes/topic-models_cache/html/unnamed-chunk-3_827896ea7558e7eccfebb30451ad8293.RData'
+    ##        'myScrapers/vignettes/topic-models_cache/html/unnamed-chunk-3_827896ea7558e7eccfebb30451ad8293.rdx'
+    ##      -  building 'myScrapers_0.1.0.tar.gz'
+    ##      
+    ## 
+
+    ## Installing package into 'C:/Users/Julian/OneDrive/Documents/R/win-library/4.1'
+    ## (as 'lib' is unspecified)
+
+    ## Warning in i.p(...): installation of package 'C:/Users/Julian/AppData/Local/
+    ## Temp/Rtmp6DZAjO/file314c59e4f0d/myScrapers_0.1.0.tar.gz' had non-zero exit
+    ## status
 
 ``` r
 ss <- myScrapers::get_ss_data(search = "large blue butterfly reintroduction")
@@ -61,12 +87,12 @@ ss$data |>
  gt::gt()
 ```
 
-<div id="tengqzxcez" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="upazmtfzfp" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tengqzxcez .gt_table {
+#upazmtfzfp .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -91,7 +117,7 @@ ss$data |>
   border-left-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_heading {
+#upazmtfzfp .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -103,7 +129,7 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_title {
+#upazmtfzfp .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -113,23 +139,23 @@ ss$data |>
   border-bottom-width: 0;
 }
 
-#tengqzxcez .gt_subtitle {
+#upazmtfzfp .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
   padding-top: 0;
-  padding-bottom: 6px;
+  padding-bottom: 4px;
   border-top-color: #FFFFFF;
   border-top-width: 0;
 }
 
-#tengqzxcez .gt_bottom_border {
+#upazmtfzfp .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_col_headings {
+#upazmtfzfp .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -144,7 +170,7 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_col_heading {
+#upazmtfzfp .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -164,7 +190,7 @@ ss$data |>
   overflow-x: hidden;
 }
 
-#tengqzxcez .gt_column_spanner_outer {
+#upazmtfzfp .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -176,27 +202,27 @@ ss$data |>
   padding-right: 4px;
 }
 
-#tengqzxcez .gt_column_spanner_outer:first-child {
+#upazmtfzfp .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tengqzxcez .gt_column_spanner_outer:last-child {
+#upazmtfzfp .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tengqzxcez .gt_column_spanner {
+#upazmtfzfp .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
   vertical-align: bottom;
   padding-top: 5px;
-  padding-bottom: 5px;
+  padding-bottom: 6px;
   overflow-x: hidden;
   display: inline-block;
   width: 100%;
 }
 
-#tengqzxcez .gt_group_heading {
+#upazmtfzfp .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -218,7 +244,7 @@ ss$data |>
   vertical-align: middle;
 }
 
-#tengqzxcez .gt_empty_group_heading {
+#upazmtfzfp .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -233,15 +259,15 @@ ss$data |>
   vertical-align: middle;
 }
 
-#tengqzxcez .gt_from_md > :first-child {
+#upazmtfzfp .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tengqzxcez .gt_from_md > :last-child {
+#upazmtfzfp .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tengqzxcez .gt_row {
+#upazmtfzfp .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -260,7 +286,7 @@ ss$data |>
   overflow-x: hidden;
 }
 
-#tengqzxcez .gt_stub {
+#upazmtfzfp .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -272,7 +298,7 @@ ss$data |>
   padding-left: 12px;
 }
 
-#tengqzxcez .gt_summary_row {
+#upazmtfzfp .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -282,7 +308,7 @@ ss$data |>
   padding-right: 5px;
 }
 
-#tengqzxcez .gt_first_summary_row {
+#upazmtfzfp .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -292,7 +318,7 @@ ss$data |>
   border-top-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_grand_summary_row {
+#upazmtfzfp .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -302,7 +328,7 @@ ss$data |>
   padding-right: 5px;
 }
 
-#tengqzxcez .gt_first_grand_summary_row {
+#upazmtfzfp .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -312,11 +338,11 @@ ss$data |>
   border-top-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_striped {
+#upazmtfzfp .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tengqzxcez .gt_table_body {
+#upazmtfzfp .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -325,7 +351,7 @@ ss$data |>
   border-bottom-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_footnotes {
+#upazmtfzfp .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -339,13 +365,13 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_footnote {
+#upazmtfzfp .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#tengqzxcez .gt_sourcenotes {
+#upazmtfzfp .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -359,41 +385,41 @@ ss$data |>
   border-right-color: #D3D3D3;
 }
 
-#tengqzxcez .gt_sourcenote {
+#upazmtfzfp .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#tengqzxcez .gt_left {
+#upazmtfzfp .gt_left {
   text-align: left;
 }
 
-#tengqzxcez .gt_center {
+#upazmtfzfp .gt_center {
   text-align: center;
 }
 
-#tengqzxcez .gt_right {
+#upazmtfzfp .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tengqzxcez .gt_font_normal {
+#upazmtfzfp .gt_font_normal {
   font-weight: normal;
 }
 
-#tengqzxcez .gt_font_bold {
+#upazmtfzfp .gt_font_bold {
   font-weight: bold;
 }
 
-#tengqzxcez .gt_font_italic {
+#upazmtfzfp .gt_font_italic {
   font-style: italic;
 }
 
-#tengqzxcez .gt_super {
+#upazmtfzfp .gt_super {
   font-size: 65%;
 }
 
-#tengqzxcez .gt_footnote_marks {
+#upazmtfzfp .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -435,7 +461,7 @@ ss$data |>
 <td class="gt_row gt_right">6</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
-<td class="gt_row gt_center">c("1422225208", "4970957", "3693237", "4253531", "39052340", "1422224817", "3681386"), c("Joanna Kajzer-Bonk", "P. Skórka", "P. Nowicki", "M. Bonk", "W. Król", "Damian Szpiłyk", "M. Woyciechowski")</td></tr>
+<td class="gt_row gt_center">c("1422225208", "4970957", "3693237", "4253531", "39052340", "1422224817", "3681386"), c("Joanna Kajzer-Bonk", "P. Skórka", "P. Nowicki", "M. Bonk", "W. Król", "Damian Szpilyk", "M. Woyciechowski")</td></tr>
     <tr><td class="gt_row gt_left">d39481fc57fa522a82b1636d0a8f1f9b0b759113</td>
 <td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_left">2050548898</td>
@@ -450,7 +476,7 @@ ss$data |>
 <td class="gt_row gt_right">22</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
-<td class="gt_row gt_center">c("21461283", "5264162", "5755383", "4265014", "5402902", "6786398"), c("Á. Kőrösi", "I. Szentirmai", "P. Batáry", "S. Kövér", "Noémi Örvössy", "L. Peregovits")</td></tr>
+<td class="gt_row gt_center">c("21461283", "5264162", "5755383", "4265014", "5402902", "6786398"), c("Á. Korösi", "I. Szentirmai", "P. Batáry", "S. Kövér", "Noémi Örvössy", "L. Peregovits")</td></tr>
     <tr><td class="gt_row gt_left">4662567d0f4368f69d363cc55fae5d42c4d2ee50</td>
 <td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_left">1975288302</td>
@@ -465,7 +491,7 @@ ss$data |>
 <td class="gt_row gt_right">36</td>
 <td class="gt_row gt_right">1</td>
 <td class="gt_row gt_center">TRUE</td>
-<td class="gt_row gt_center">c("4970957", "3693237", "3901377", "1757832", "5810768", "2978867", "3681386"), c("P. Skórka", "P. Nowicki", "Magdalena Lenda", "M. Witek", "E. Śliwińska", "J. Settele", "M. Woyciechowski")</td></tr>
+<td class="gt_row gt_center">c("4970957", "3693237", "3901377", "1757832", "5810768", "2978867", "3681386"), c("P. Skórka", "P. Nowicki", "Magdalena Lenda", "M. Witek", "E. Sliwinska", "J. Settele", "M. Woyciechowski")</td></tr>
     <tr><td class="gt_row gt_left">c70ec06e1dbb4fac4b7447b5a233dbbc31b1c466</td>
 <td class="gt_row gt_left">3146443</td>
 <td class="gt_row gt_left">1993987263</td>
@@ -688,7 +714,7 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("3716971", "1723382444", "40121015", "66729774", "153294100", "86909624", "1723382417", "25569857", "8741278", "87837090", "6918116", "5135017", "6583213", "152211092", "87397919", "143775658", "13301336", "1708159481", "34469574", "78568827", "10797528", "30460752", "48043487", "5977613", "145595337", "1723387250", "8971187", "49278065", "1405217025", "89145887", "21689530", "34570415", "13714153", "2917396", "9781630", "90263878", "34978880", "40701004", "6948882", "152541725", "9906952", "88500230", 
 "1723388703", "89054825", "20800877", "32185320", "91132259", "31929851", "4567271", "1780651", "13978578", "152523440", "88617175", "90034230", "2097005849", "48609808", "6415992", "100647618", "145413129", "2564370"), c("C. Mancusi", "R. Baino", "C. Fortuna", "L. G. Sola", "G. Morey", "M. Bradai", "Argyrios Kallianotis", "A. Soldo", "F. Hemida", "A. Saad", "M. Dimech", "P. Peristeraki", "M. Bariche", "S. Clò", "E. D. Sabata", "L. Castellano", "F. Garibaldi", "L. Lanteri", "F. Tinti", "A. Pais", "E. Sperone", "P. Micarelli", "F. Poisson", "L. Sion", "R. Carlucci", "Daniel Cebrian-Menchero", "B. Séret", "F. Ferretti", "Alaa M. El-Far", "I. Saygu", "E. Shakman", "Àlex Bartolí", "J. Guallart", "D. Damalas", "P. Megalofonou", 
-"M. Vacchi", "M. Bottaro", "G. Sciara", "M. C. Follesa", "R. Cannas", "H. Kabasakal", "B. Zava", "Graziella Cavlan", "A. Jung", "Mohammed Abudaya", "J. Kolitari", "A. Barash", "A. Joksimovic", "B. Marčeta", "L. Vilas", "F. Tiralongo", "I. Giovos", "F. Bargnesi", "S. Lelli", "M. Barone", "S. Moro", "C. Mazzoldi", "Charilaou Charis", "Á. Abella", "F. Serena")</td></tr>
+"M. Vacchi", "M. Bottaro", "G. Sciara", "M. C. Follesa", "R. Cannas", "H. Kabasakal", "B. Zava", "Graziella Cavlan", "A. Jung", "Mohammed Abudaya", "J. Kolitari", "A. Barash", "A. Joksimovic", "B. Marceta", "L. Vilas", "F. Tiralongo", "I. Giovos", "F. Bargnesi", "S. Lelli", "M. Barone", "S. Moro", "C. Mazzoldi", "Charilaou Charis", "Á. Abella", "F. Serena")</td></tr>
     <tr><td class="gt_row gt_left">ca77f6aa89ae804a122c801240749f510a3257c5</td>
 <td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_left">2118607377</td>
@@ -703,7 +729,7 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_right">64</td>
 <td class="gt_row gt_right">4</td>
 <td class="gt_row gt_center">TRUE</td>
-<td class="gt_row gt_center">c("1757832", "5810768", "4970957", "3693237", "3877455", "4013332", "2978867", "3681386"), c("M. Witek", "E. Śliwińska", "P. Skórka", "P. Nowicki", "M. Wantuch", "V. Vrabec", "J. Settele", "M. Woyciechowski")</td></tr>
+<td class="gt_row gt_center">c("1757832", "5810768", "4970957", "3693237", "3877455", "4013332", "2978867", "3681386"), c("M. Witek", "E. Sliwinska", "P. Skórka", "P. Nowicki", "M. Wantuch", "V. Vrabec", "J. Settele", "M. Woyciechowski")</td></tr>
     <tr><td class="gt_row gt_left">859bf05e3246b592e11e301aa622705265478e34</td>
 <td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_left">1981622039</td>
@@ -715,10 +741,10 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_left">Central European Journal of Biology</td>
 <td class="gt_row gt_right">2013</td>
 <td class="gt_row gt_right">54</td>
-<td class="gt_row gt_right">9</td>
+<td class="gt_row gt_right">10</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
-<td class="gt_row gt_center">c("4970957", "3693237", "134178140", "6344156", "5810768", "1757832", "2978867", "3681386"), c("P. Skórka", "P. Nowicki", "J. Kudłek", "A. Pępkowska", "E. Śliwińska", "M. Witek", "J. Settele", "M. Woyciechowski")</td></tr>
+<td class="gt_row gt_center">c("4970957", "3693237", "134178140", "6344156", "5810768", "1757832", "2978867", "3681386"), c("P. Skórka", "P. Nowicki", "J. Kudlek", "A. Pepkowska", "E. Sliwinska", "M. Witek", "J. Settele", "M. Woyciechowski")</td></tr>
     <tr><td class="gt_row gt_left">1074e74a72977098f091a2dfbd125f6b5d1f69dd</td>
 <td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_left">2160399100</td>
@@ -775,7 +801,7 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_left">Journal of Insect Conservation</td>
 <td class="gt_row gt_right">2019</td>
 <td class="gt_row gt_right">132</td>
-<td class="gt_row gt_right">7</td>
+<td class="gt_row gt_right">8</td>
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("46811706", "2046570650", "66796610", "32783151", "88692697", "100959461", "49674554", "40488050", "12558761", "101297632", "144101650", "4013632", "1411378757", "35046663", "5442982"), c("D. Maes", "S. Ellis", "P. Goffart", "K. Cruickshanks", "C. V. Swaay", "R. Cors", "M. Herremans", "Kristijn R. R. Swinnen", "C. Wils", "Sofie Verhulst", "L. Bruyn", "E. Matthysen", "Susannah O’Riordan", "D. Hoare", "N. Bourn")</td></tr>
@@ -869,6 +895,21 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 <td class="gt_row gt_right">0</td>
 <td class="gt_row gt_center">TRUE</td>
 <td class="gt_row gt_center">c("2028116774", "47068228", "50158581", "46955518", "2557506"), c("A. Saito", "K. Ishibashi", "Junpei Ohga", "Y. Hirai", "Y. Kuwahara")</td></tr>
+    <tr><td class="gt_row gt_left">edfe97b3bc155a4a42a2853b85fa5a005b188378</td>
+<td class="gt_row gt_left">6028894</td>
+<td class="gt_row gt_left">2805049708</td>
+<td class="gt_row gt_left">10.1007/s00359-018-1267-z</td>
+<td class="gt_row gt_left">29869100</td>
+<td class="gt_row gt_left">https://www.semanticscholar.org/paper/edfe97b3bc155a4a42a2853b85fa5a005b188378</td>
+<td class="gt_row gt_left">The giant butterfly-moth Paysandisia archon has spectrally rich apposition eyes with unique light-dependent photoreceptor dynamics</td>
+<td class="gt_row gt_left">The palm borer moth Paysandisia archon (Burmeister, 1880) (fam. Castniidae) is a large, diurnally active palm pest. Its compound eyes consist of ~ 20,000 ommatidia and have apposition optics with interommatidial angles below 1°. The ommatidia contain nine photoreceptor cells and appear structurally similar to those in nymphalid butterflies. Two morphological ommatidial types were identified. Using the butterfly numbering scheme, in type I ommatidia, the distal rhabdom consists exclusively of the rhabdomeres of photoreceptors R1–2; the medial rhabdom has contributions from R1–8. The rhabdom in type II ommatidia is distally split into two sub-rhabdoms, with contributions from photoreceptors R2, R3, R5, R6 and R1, R4, R7, R8, respectively; medially, only R3–8 and not R1–2 contribute to the fused rhabdom. In both types, the pigmented bilobed photoreceptors R9 contribute to the rhabdom basally. Their nuclei reside in one of the lobes. Upon light adaptation, in both ommatidial types, the rhabdoms secede from the crystalline cones and pigment granules invade the gap. Intracellular recordings identified four photoreceptor classes with peak sensitivities in the ultraviolet, blue, green and orange wavelength regions (at 360, 465, 550, 580 nm, respectively). We discuss the eye morphology and optics, the photoreceptor spectral sensitivities, and the adaptation to daytime activity from a phylogenetic perspective.</td>
+<td class="gt_row gt_left">Journal of Comparative Physiology A</td>
+<td class="gt_row gt_right">2018</td>
+<td class="gt_row gt_right">92</td>
+<td class="gt_row gt_right">9</td>
+<td class="gt_row gt_right">0</td>
+<td class="gt_row gt_center">TRUE</td>
+<td class="gt_row gt_center">c("3067909", "46269818", "18097244", "4900499", "3524164", "3582785"), c("P. Pirih", "Marko Ilic", "Jerneja Rudolf", "K. Arikawa", "D. Stavenga", "G. Belušic")</td></tr>
   </tbody>
   
   
@@ -879,132 +920,15 @@ Although E. pallescens may be a vagile species, we find that persistence on iso
 dois <- ss$data %>% pluck("externalIds.DOI")
 ```
 
-blah said [Forister et al.](#ref-forister2020)
-([2020](#ref-forister2020))
+blah said @forister2020
 
-[Kajzer-Bonk et al.](#ref-kajzer-bonkRelativeContributionMatrix2016)
-([2016](#ref-kajzer-bonkRelativeContributionMatrix2016))  
+@kajzer-bonkRelativeContributionMatrix2016 @Rasmussen2019
 
-[Rasmussen et al.](#ref-Rasmussen2019) ([2019](#ref-Rasmussen2019))
+@Yu2018
 
-[Yu et al.](#ref-Yu2018) ([2018](#ref-Yu2018))
+@ntprese2016
 
-[“NTP Research Report on Systematic Literature Review on the Effects of
-Fluoride on Learning and Memory in Animal Studies”](#ref-ntprese2016)
-([2016](#ref-ntprese2016))
-
-([Hill and Flowers 2016](#ref-hill2016); [Flowers and Johnson
-2016](#ref-flowers2016); [Fox et al. 2017](#ref-fox2017); [Mayer and
-Flowers 2010](#ref-mayer2010); [Flowers, Hall, and Pencheon
-2005](#ref-flowers2005); [Flowers 2013](#ref-flowers2013);
-[n.d.](#ref-soljak2008))
+\[@hill2016; @flowers2016; @fox2017; @mayer2010; @flowers2005;
+@flowers2013; @soljak2008\]
 
 ## References
-
-<div id="refs" class="references csl-bib-body hanging-indent">
-
-<div id="ref-soljak2008" class="csl-entry">
-
-n.d.
-
-</div>
-
-<div id="ref-flowers2013" class="csl-entry">
-
-Flowers, Julian. 2013. “Assessing Health Status.” In, 28–37. Oxford
-University Press. <https://doi.org/10.1093/med/9780199586301.003.0003>.
-
-</div>
-
-<div id="ref-flowers2005" class="csl-entry">
-
-Flowers, Julian, Pamela Hall, and David Pencheon. 2005. “Mini-Symposium
-Public Health Observatories.” *Public Health* 119 (4): 239–45.
-<https://doi.org/10.1016/j.puhe.2005.01.003>.
-
-</div>
-
-<div id="ref-flowers2016" class="csl-entry">
-
-Flowers, Julian, and Katie Johnson. 2016. “Data Presentation.” In,
-203–23. Springer International Publishing.
-<https://doi.org/10.1007/978-3-319-28326-5_11>.
-
-</div>
-
-<div id="ref-forister2020" class="csl-entry">
-
-Forister, Matthew L., Su’ad A. Yoon, Casey S. Philbin, Craig D. Dodson,
-Bret Hart, Joshua G. Harrison, Oren Shelef, et al. 2020. “Caterpillars
-on a phytochemical landscape: The case of alfalfa and the Melissa blue
-butterfly.” *Ecology and Evolution* 10 (10): 4362–74.
-<https://doi.org/10.1002/ece3.6203>.
-
-</div>
-
-<div id="ref-fox2017" class="csl-entry">
-
-Fox, Sebastian, Julian Flowers, Simon Thelwall, Daniel Flint, and Doris
-Hain. 2017. “fingertipsR: An r Package for Accessing Population Health
-Information in England.” <http://dx.doi.org/10.1101/189167>.
-
-</div>
-
-<div id="ref-hill2016" class="csl-entry">
-
-Hill, Alison, and Julian Flowers. 2016. “The Future Directions of Health
-Intelligence.” In, 225–40. Springer International Publishing.
-<https://doi.org/10.1007/978-3-319-28326-5_12>.
-
-</div>
-
-<div id="ref-kajzer-bonkRelativeContributionMatrix2016"
-class="csl-entry">
-
-Kajzer-Bonk, Joanna, Piotr Skórka, Piotr Nowicki, Maciej Bonk, Wiesław
-Król, Damian Szpiłyk, and Michal Woyciechowski. 2016. “Relative
-Contribution of Matrix Structure, Patch Resources and Management to the
-Local Densities of Two Large Blue Butterfly Species.” *PLoS One* 11
-(12): e0168679. <https://doi.org/10.1371/journal.pone.0168679>.
-
-</div>
-
-<div id="ref-mayer2010" class="csl-entry">
-
-Mayer, Erik, and Julian Flowers. 2010. “How to Measure Inequality in
-Health Care Delivery.” In, 175–93. Springer Berlin Heidelberg.
-<https://doi.org/10.1007/978-3-540-71915-1_15>.
-
-</div>
-
-<div id="ref-ntprese2016" class="csl-entry">
-
-“NTP Research Report on Systematic Literature Review on the Effects of
-Fluoride on Learning and Memory in Animal Studies.” 2016.
-<https://doi.org/10.22427/ntp-rr-1>.
-
-</div>
-
-<div id="ref-Rasmussen2019" class="csl-entry">
-
-Rasmussen, Sophie Lund, Jesper Larsen, Rien E. van Wijk, Owen R. Jones,
-Thomas Bjørneboe Berg, Øystein Angen, and Anders Rhod Larsen. 2019.
-“European Hedgehogs (Erinaceus Europaeus) as a Natural Reservoir of
-Methicillin-Resistant Staphylococcus Aureus Carrying mecC in Denmark.”
-Edited by Herminia de Lencastre. *PLOS ONE* 14 (9): e0222031.
-<https://doi.org/10.1371/journal.pone.0222031>.
-
-</div>
-
-<div id="ref-Yu2018" class="csl-entry">
-
-Yu, Xingchen, Jingwen Chen, Yonggang Li, Hongliang Liu, Changchun Hou,
-Qiang Zeng, Yushan Cui, et al. 2018. “Threshold Effects of Moderately
-Excessive Fluoride Exposure on Children’s Health: A Potential
-Association Between Dental Fluorosis and Loss of Excellent
-Intelligence.” *Environment International* 118 (September): 116–24.
-<https://doi.org/10.1016/j.envint.2018.05.042>.
-
-</div>
-
-</div>
