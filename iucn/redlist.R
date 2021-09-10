@@ -1,19 +1,19 @@
 ## redlist data
 
-install.packages(c("rredlist", "tidyverse", "ritis", "taxize"))
+install.packages(c("rredlist", "dplyr", "ritis"))
 library(rredlist)
-library(tidyverse)
+library(dplyr)
 library(ritis)
+install.packages("taxize", clean = TRUE)
 library(taxize)
-
 taxize::use_entrez()
 
-x <- comm2sci(get_uid("eurasian wryneck", modifier = "Common Name"))
+x <- comm2sci(get_uid("quail", modifier = "Common Name"))
 
 enframe(x) %>%
   unnest()
 
-taxize::comm2sci("eurasian wryneck", db  = "itis" )
+taxize::comm2sci(" quail", db  = "itis" )
 
 rredlist::rl_use_iucn()
 
