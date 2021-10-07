@@ -1,0 +1,309 @@
+text
+"Global Change Biology (2006) 12, 450–455, doi: 10.1111/j.1365-2486.2006.01116.x
+
+
+
+The distributions of a wide range of taxonomic groups are
+expanding polewards
+R A C H A E L H I C K L I N G *w , D AV I D B . R O Y *, J A N E K . H I L L w , R I C H A R D F O X z and
+CHRIS D. THOMASw
+*NERC Centre for Ecology and Hydrology: Monks Wood, Abbots Ripton, Huntingdon, Cambridgeshire PE28 2LS, UK,
+wDepartment of Biology, University of York, PO Box 373, York YO10 5YW, UK, zButterfly Conservation, Manor Yard,
+East Lulworth, Wareham, Dorset BH20 5QP, UK
+
+            Abstract
+            Evidence is accumulating of shifts in species’ distributions during recent climate
+            warming. However, most of this information comes predominantly from studies of a
+            relatively small selection of taxa (i.e., plants, birds and butterflies), which may not be
+            representative of biodiversity as a whole. Using data from less well-studied groups, we
+            show that a wide variety of vertebrate and invertebrate species have moved northwards
+            and uphill in Britain over approximately 25 years, mirroring, and in some cases
+            exceeding, the responses of better-known groups.
+            Keywords: climate change, distributions, range shifts
+
+            Received 17 September 2005; revised version received 26 October 2005; accepted 17 October 2005
+
+
+
+                                                                    we analyse distributional changes across a wide range
+Introduction
+                                                                    of animal groups to investigate whether responses of
+Global climates are warming (IPCC, 2001) and many                   less well-studied groups to recent climate warming are
+species are responding to these changes by shifting their           qualitatively similar to those for better-studied groups.
+distributions to higher latitudes and/or altitudes
+(Walther et al., 2002; Parmesan & Yohe, 2003; Root
+                                                                    Methods
+et al., 2003). However, evidence for these range changes
+comes predominantly from studies of plants, birds and
+                                                                    Species selection
+butterflies, for which historical data are available (Par-
+mesan & Yohe, 2003; Root et al., 2003). It is not clear             We analysed distribution data sets for 16 taxonomic
+whether responses of these well-studied taxa are repre-             groups that occur in terrestrial and/or freshwater en-
+sentative of biodiversity as a whole (Prendergast et al.,           vironments in Great Britain, at a 10 km grid square
+1993; Thomas et al., 2004) given that the prewarming                resolution. The groups analysed were dragonflies and
+distributions of different taxonomic groups may vary,               damselflies (Odonata), grasshoppers and allies
+and that species with different generation times, habitat           (Orthoptera), lacewings (Neuroptera), butterflies (Rho-
+associations, dispersal capacities or thermal physiolo-             palocera), spiders (Araneae), herptiles (Amphibia and
+gies might show very different responses to changing                Squamata), freshwater fish (Teleostei), mammals (Mam-
+climate (Thomas et al., 2001; Warren et al., 2001; Hill             malia), woodlice (Isopoda), ground beetles (Carabidae),
+et al., 2002; Kullman, 2002).                                       harvestmen (Opiliones), millipedes (Diplopoda), long-
+   Britain has extensive fine-scale and long-term distri-           horn beetles (Cerambycidae), soldier beetles and allies
+bution data for a wide range of taxa and, thus, is                  (Cantharoidea and Buprestoidea), aquatic bugs (Het-
+probably the only region in the world where it is                   eroptera) and birds (Aves).
+possible to assess whether comparable range margin                    For each group, species were only included in ana-
+shifts are taking place in many different groups. Here,             lyses if they were southern/low-elevation species; these
+                                                                    species would be expected to increase their range sizes,
+Correspondence: Rachael Hickling, NERC Centre for Ecology           move northwards, and/or shift to higher elevations if
+and Hydrology: Monks Wood, Abbots Ripton, Huntingdon,               they were responding solely to temperature. Northern
+Cambridgeshire PE28 2LS, UK, tel: 1 01487772412,                    species were excluded from our analyses because of a
+e-mail: rhic@ceh.ac.uk                                              lack of data; with the exception of birds, the taxa
+
+450                                                                                            r 2006 Blackwell Publishing Ltd
+
+                                                  TA X O N O M I C G R O U P S S H I F T I N G P O L E WA R D S                451
+
+included in our study contain very few species which                  The time periods for each group were chosen so as to
+reach the southern (warm) boundary of their distribu-                 maximize the number of records available for analysis
+tions in Britain and generally these species are poorly               while still maintaining a substantial time interval be-
+recorded, precluding the possibility of making among-                 tween recording periods (Fig. 1). In most cases, each
+taxon comparisons. Species were classified as southern                recording period was 11 years long, with a 14-year gap
+if, according to UK or European distribution maps, they               in between, corresponding with a 25-year period
+reached their northern range margin in Britain. For each              between the mid-points of the two recording periods.
+group, species classifications were checked by an ex-                    In each time period, the location of the northern range
+pert. Species were excluded from analyses if they were                margin of a species was defined as the mean latitude of
+found only on the Channel Islands (close to the coast of              the 10 most northerly occupied 10 km grid squares (on
+northern France), were migratory, were clearly synan-                 the Ordnance Survey National Grid of Great Britain).
+thropic, were introduced, if their taxonomy was still                 The shift of the range margin was calculated as the
+under debate, or if, after squares had been excluded by               difference in these mean latitudes between the second
+recorder effort and date, the species occupied fewer                  and the first time period. Shift in altitude was calculated
+than twenty 10 km grid squares (i.e., less than approxi-              in a similar way to latitudinal shift. The mean altitude
+mately 1% of all 10 km grid squares) across the two time              of the 10 highest elevation occupied 10 km grid squares
+periods. Thus, we excluded species which may be                       was calculated in the two time periods. The altitudinal
+expanding as a consequence of human activities (i.e.,                 shift was calculated as the difference in the mean
+through recent introductions or because of their close                altitude between the second and the first time period.
+associations with humans), as well as migrant species                 The 95% confidence limits of the mean values for each
+where records may not reflect the extent of their breed-              group were calculated, and used to determine if shifts
+ing distributions We excluded poorly recorded species                 were significantly different from zero.
+because our method of identifying the northern margin                    To take account of changes in recorder effort over
+would be likely to be unreliable for such species, and                time, all calculations were first made for a subset of
+susceptible to sampling error.                                        10 km grid squares for which at least one species of a
+                                                                      given taxonomic group was recorded present in both
+                                                                      time periods (subsequently termed ‘recorded’ squares).
+Analysis of range changes
+                                                                      Analyses were repeated by selecting only those grid
+For each taxonomic group, two distinct time periods                   squares with higher levels of recording, defined as grid
+within the past 40 years (coincident with global (IPCC,               squares with at least 10% (subsequently termed ‘well-
+2001) and regional (CIP, 2005) warming) were selected.                recorded’ squares) and 25% (‘heavily recorded’ squares)
+
+
+
+
+Fig. 1 Time periods chosen for analysis (solid black) for each taxonomic group, and time gap in between (speckled black). The exact
+years (inclusive) within which records were analysed are shown in yellow.
+
+
+r 2006 Blackwell Publishing Ltd, Global Change Biology, 12, 450–455
+
+452 R . H I C K L I N G et al.
+
+
+
+
+Fig. 2 Latitudinal shifts in northern range margins for 16 taxonomic groups during recent climate warming. Results are given for three
+levels of subsampling of data (recorded, blue; well-recorded, yellow; heavily recorded, red). Only species occupying more than twenty
+10 km grid squares across the two time periods are included in analyses; for several of the species-poor groups, these criteria excluded all
+species from the analysis of ‘heavily recorded’ squares.
+
+
+
+of species for a particular taxonomic group recorded                     to higher elevation during a period of climate warming.
+present in both time periods.                                            For taxonomic groups which have been studied pre-
+                                                                         viously, our results show comparable northward shifts
+Results                                                                  with those already documented (Parmesan et al., 1999;
+                                                                         Thomas & Lennon, 1999; Warren et al., 2001) although
+Out of a total of 329 species analysed across 16 taxa, 275
+                                                                         the rates of range extension have been somewhat faster
+species shifted northwards at their range margin, 52
+                                                                         than reported in Parmesan & Yohe’s (2003) broader
+species shifted southwards, and two species’ range
+                                                                         analysis. We found northwards shifts of 12.5–19 km
+margins did not move, with an average northwards
+                                                                         decade1 (mean of 10 and 16 taxonomic groups) and
+shift across all species of 31–60 km (depending on level
+                                                                         13.7–24.8 km decade1 (mean of 137 and 329 species) for
+of subsampling of data). Comparable findings were
+                                                                         heavily recorded and recorded squares, respectively. It
+obtained with respect to elevation shifts: 227 species
+                                                                         has been suggested that groups with extensive record-
+shifted to higher altitude and 102 species shifted to
+                                                                         ing could reflect changes in other taxonomic groups
+lower altitude, resulting in a mean increase of 25 m
+                                                                         (Thomas et al., 2004) but empirical support for this
+overall. Twelve of the 16 taxonomic groups showed
+                                                                         contention has been scarce. Our analysis suggests that
+significant (Po0.05) northwards shifts (Fig. 2) and shifts
+                                                                         the rates of range shifting are not significantly different
+to higher elevation (Table 1). Only three species of
+                                                                         for birds and butterflies compared with other taxa
+amphibians and reptiles shifted significantly south-
+                                                                         (given the current data), even though some of the less
+wards and to lower elevation. For most groups, taking
+                                                                         well-studied taxa give the appearance of showing an
+account of recording effort decreased the number of
+                                                                         even stronger response to climate change (Fig. 2). Our
+species available for analysis, but had little qualitative
+                                                                         results for altitudinal shifts are also comparable with
+impact on our findings (Table 1; Fig. 2). Species from
+                                                                         previous studies (Kullman, 2002; Konvicka et al., 2003;
+well-studied groups (butterflies, mammals and birds)
+                                                                         Penuelas & Boada, 2003; Wilson et al., 2005; Table 1) and
+on average moved north by 30–32 km, whereas pre-
+                                                                         show that most groups have shifted to higher elevation.
+viously less well-studied groups moved north by
+                                                                         We found uphill shifts of 4.7–10.7 m decade1 (mean of
+32–66 km (depending on level of subsampling of data).
+                                                                         10 and 16 taxonomic groups) and 2.8–10.1 m decade1
+                                                                         (mean of 137 and 329 species) for heavily recorded and
+Discussion
+                                                                         recorded squares, respectively. Increased recorder effort
+Our results show that most taxonomic groups have                         over time may have led to some over-estimation of
+shown significant distributional shifts northwards and                   range changes in analyses of the full data sets (‘re-
+
+                                                                   r 2006 Blackwell Publishing Ltd, Global Change Biology, 12, 450–455
+
+                                                                      Table 1 Data show the number of species available for analysis, the mean northward shift at the range margin (km), the mean altitudinal shift (m) and the time period of
+                                                                      analysis (years), for 16 taxonomic groups included in our analyses
+
+                                                                                         Recorded squares                                     Well-recorded squares                                 Heavily-recorded squares
+
+                                                                                                                                                                                                               Mean north-
+                                                                                                   Mean northward Mean                                  Mean northward Mean                                    ward shift      Mean                Time
+                                                                      Taxonomic          Number of shift at the range altitudinal             Number of shift at the range altitudinal              Number at the range        altitudinal         period
+                                                                      group              species   margin, km (SE) shift, m (SE)              species   margin, km (SE) shift, m (SE)               of species margin, km (SE) shift, m (SE)       (years)
+
+
+                                                                      Dragonflies and    20           104 (17.0)*        61.9 (13.08)*        19             80 (11.3)*          31.1 (8.47)*       19           36 (8.9)*         16.8 (6.17)*    25
+                                                                      damselflies
+                                                                      Grasshoppers       22             34 (8.0)*         30.5 (7.48)*        22              21 (6.3)*          18.8 (5.30)*       19           11 (4.3)*          6.1 (4.25)     25
+                                                                      and allies
+                                                                      Lacewings           6           44 (27.9)*           7.4 (13.46)         1                 –                  –                0             –                   –           25
+                                                                      Butterflies        29            37 (9.7)*           11.1 (6.75)        29             35 (9.6)*            7.4 (5.71)        29           30 (9.0)*        1.2 (6.06)      21
+
+
+
+
+r 2006 Blackwell Publishing Ltd, Global Change Biology, 12, 450–455
+                                                                      Spiders            85            84 (8.0)*          24.3 (4.97)*        54             59 (7.2)*          15.5 (4.92)*        15           68 (10.5)*       0.9 (7.54)      25
+                                                                      Herptiles           3          83 (29.8)*        33.0 (27.14)          3           68 (28.5)*        22.8 (10.76)*         3         45 (44.0)        22.9 (5.93)*     25
+                                                                      Fish               15           47 (15.4)*        32.7 (12.71)*         15            51 (15.7)*         22.0 (11.12)*        15           33 (9.3)*          9.0 (8.68)     25
+                                                                      Mammals             9            22 (38.4)          31.0 (27.70)         8             24 (33.0)          41.0 (29.11)         5           37 (13.7)*       103.9 (22.65)*   25
+                                                                      Woodlice           8            79 (18.4)*        55.3 (12.02)*          7            65 (12.1)*         37.9 (11.52)*        2              –                   –           25
+                                                                      Ground beetles     59            55 (8.4)*          12.7 (6.31)*        28            47 (12.4)*            7.3 (8.04)        6          0 (28.6)          0.2 (28.55)       25
+                                                                      Harvestmen          4             8 (29.9)         35.8 (11.22)*         2                 –                  –                0             –                   –           20
+                                                                      Millipedes          6           74 (17.0)*        24.0 (10.21)*          3             48 (26.8)         5.7 (12.76)          1             –                   –           25
+                                                                      Longhorn beetles   11           40 (10.4)*          39.3 (9.24)*         8             43 (7.3)*          26.1 (6.37)*         0             –                   –           25
+                                                                      Soldier beetles    16           91 (13.3)*          62.1 (9.89)*         5            50 (22.1)*         41.3 (18.37)*         0             –                   –           25
+                                                                      and allies
+                                                                      Aquatic bugs       14            64 (19.7)*         19.2(8.49)*          8             84 (24.4)*         25.6 (9.35)*         4           81 (13.2)*        8.4 (7.76)      20
+                                                                      Birds              22             29 (20.0)        2.1 (13.14)         22              29 (20.0)         2.1 (13.14)        22           28 (20.0)        2.1 (13.14)     19.5
+
+                                                                      Results are presented for three levels of subsampling of data, analysing ‘recorded’, ‘well-recorded’ or ‘heavily recorded’ grid squares (see text for details). Asterisks indicate
+                                                                      significant range shifts (Po0.05).
+                                                                                                                                                                                                                                                             TA X O N O M I C G R O U P S S H I F T I N G P O L E WA R D S
+                                                                                                                                                                                                                                                              453
+
+454 R . H I C K L I N G et al.
+
+corded’ squares), but qualitatively similar results were           which lack the dispersal ability to persist in fragmented
+obtained with more stringent criteria for inclusion of             habitats (Hill et al., 1999b; Honnay et al., 2002). Most
+data, which suggests that our general conclusions are              previous studies of range shifts focused on species
+robust.                                                            which are particularly limited by climate, or are highly
+   Our results for latitudinal shifts appear stronger than         mobile (Hughes, 2000) and excluded species whose
+those for elevation shifts, where most of the significant          distributions were likely to have been greatly affected
+shifts uphill were restricted to analyses of the full data         by habitat changes (Parmesan et al., 1999). In our
+set (i.e., not taking account of recording effort). This           analyses, species were excluded only if recording effort
+may be due to several reasons. First, the elevation range          was poor. Thus, the fact that species’ distributions are
+of Britain is not great, and so there are relatively few           also responding to other factors makes it all the more
+high elevation areas for southerly species to colonize             impressive that it is possible to identify a significant
+near their range boundaries. Second, higher elevation              average northwards shift in the distributions of almost
+locations tend to be less well recorded than lowland               all taxonomic groups for which a sample size of more
+sites and, thus, these areas will disproportionately be            than 10 species could be analysed.
+excluded from analyses which take account of recorder
+effort. In addition, high and low elevation sites often
+                                                                   Conclusion
+occur in close geographic proximity to one another,
+such that individuals or populations moving to higher              Species from a wide range of taxonomic groups are mov-
+elevations within 10 km grid cells would not be de-                ing north and to higher elevations, during a period of
+tected in our relatively course-resolution analyses. This          regional (CIP, 2005) climate warming. For some less well-
+is likely to lead to underestimates of the true elevation          known groups, these responses may even be greater than
+shift. Our estimates of latitudinal shifts should be far           those already observed for more widely studied groups.
+more reliable: latitudinal shifts of 30–60 km clearly
+represent the establishment of large numbers of new
+northern populations over a succession of generations.
+                                                                   Acknowledgements
+Few of the species considered are likely to colonize               We thank all the recording schemes and societies, and the
+more than a few kilometres per generation. Thus, the               recorders who contributed their data sets to the Biological
+latitudinal shifts reveal substantial changes to species’          Records Centre and the British Trust for Ornithology. We also
+                                                                   thank Henry Arnold and Richard Ostler for assistance with the
+breeding ranges.                                                   database, Mark Hill and Chris Preston for advice on analysis,
+   Despite the wide range of taxonomic groups consid-              and Shelley Hinsley, Paul Harding, Mark Telfer, Steve Brooks,
+ered, our results show no clear taxonomic, ecological or           Paul Lee, Peter Sutton and Peter Harvey for advice on selection
+physiological pattern in terms of the response of groups           of species. This work was funded by NERC, Grant number
+to climate warming. A wide range of responses were                 NER/A/S/2002/01002.
+found among species within almost all taxonomic
+groupings, which suggests that within-taxon variation              References
+in ecological traits such as habitat requirements and
+                                                                   CIP (2005) UK Climate Impacts Program. http://www.ukcip.
+dispersal capacity (Warren et al., 2001), and longevity
+                                                                     org.uk.
+and body size (Perry et al., 2005) may preclude broader
+                                                                   Hill JK, Thomas CD, Fox R et al. (2002) Responses of butterflies to
+taxonomic generalizations. This suggests that further                twentieth century climate warming: implications for future
+within-taxon comparisons are necessary for revealing                 ranges. Proceedings of the Royal Society of London Series B, 269,
+the importance of different ecological traits and the                2163–2172.
+potential mechanisms responsible for range shifts. All             Hill JK, Thomas CD, Huntley B (1999) Climate and habitat
+distribution changes are taking place not only in the                availability determine 20th century changes in a butterfly’s
+context of climate warming but also in the context of                range margin. Proceedings of the Royal Society of London Series B,
+land use and other environmental changes. This is best               266, 1197–1206.
+exemplified by the three amphibian/reptile species that            Honnay O, Verheyen K, Butaye J et al. (2002) Possible effects of
+were included in the analysis. Each of them is at the                habitat fragmentation and climate change on the range of
+                                                                     forest plant species. Ecology Letters, 5, 525–530.
+north–western edge of its distribution in Britain and
+                                                                   Hughes L (2000) Biological consequences of global warming: is
+should, in principle, have benefited from the warming
+                                                                     the signal already apparent? Trends in Ecology and Evolution, 15,
+that has been experienced in recent decades. Nonethe-                56–61.
+less, their distributions have collapsed southwards,               IPCC (2001) Climate Change 2001: The Scientific Basis. Cambridge
+each species surviving in remnant populations re-                    University Press, Cambridge.
+stricted to only a small fraction of their former distribu-        Konvicka M, Maradova M, Benes J et al. (2003) Uphill shifts in
+tion. This trend has been documented in other species                distribution of butterflies in the Czech Republic: effects of
+
+                                                              r 2006 Blackwell Publishing Ltd, Global Change Biology, 12, 450–455
+
+                                                   TA X O N O M I C G R O U P S S H I F T I N G P O L E WA R D S                   455
+
+  changing climate detected on a regional scale. Global Ecology       Root TL, Price JT, Hall KR et al. (2003) Fingerprints of
+  and Biogeography, 12, 403–410.                                        global warming on wild animals and plants. Nature, 421,
+Kullman L (2002) Rapid recent range-margin rise of tree and             57–59.
+  shrub species in the Swedish Scandes. Journal of Ecology, 90,       Thomas CD, Bodsworth EJ, Wilson RJ et al. (2001) Ecological and
+  68–77.                                                                evolutionary processes at expanding range margins. Nature,
+Parmesan C, Ryrholm N, Stefanescu C et al. (1999) Poleward              411, 577–580.
+  shifts in geographical ranges of butterfly species associated       Thomas CD, Lennon JJ (1999) Birds extend their ranges north-
+  with regional warming. Nature, 399, 579–583.                          wards. Nature, 399, 213.
+Parmesan C, Yohe G (2003) A globally coherent fingerprint of          Thomas JA, Telfer MG, Roy DB et al. (2004) Comparative losses
+  climate change impacts across natural systems. Nature, 421,           of British butterflies, birds, and plants and the global extinc-
+  37–42.                                                                tion crisis. Science, 303, 1879–1881.
+Penuelas J, Boada M (2003) A global change-induced biome shift        Walther GR, Post E, Convey P et al. (2002) Ecological responses to
+  in the Montseny mountains (NE Spain). Global Change Biology,          recent climate change. Nature, 416, 389–395.
+  9, 131–140.                                                         Warren MS, Hill JK, Thomas JA et al. (2001) Rapid responses of
+Perry AL, Low PJ, Ellis JR et al. (2005) Climate change and             British butterflies to opposing forces of climate and habitat
+  distribution shifts in marine fishes. Science, 308, 1912–1915.        change. Nature, 414, 65–68.
+Prendergast JR, Quinn RM, Lawton JH et al. (1993) Rare species,       Wilson RJ, Gutierrez D, Gutierrez J et al. (2005) Changes to the
+  the coincidence of diversity hotspots and conservation strate-        elevational limits and extent of species ranges associated with
+  gies. Nature, 365, 335–337.                                           climate change. Ecology Letters, 8, 1138–1146.
+
+
+
+
+r 2006 Blackwell Publishing Ltd, Global Change Biology, 12, 450–455
+"
