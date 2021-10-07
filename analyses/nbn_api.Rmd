@@ -1,0 +1,39 @@
+---
+title: "NBN Atlas API"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+# What is NBN?
+
+## The API
+
+<https://api.nbnatlas.org/>
+
+A web service giving access to a wide range of UK biodiversity data resources
+
+We can use the api
+
+### Data resources
+
+```{r}
+
+library(tidyverse); library(jsonlite)
+
+## api call is https://registry.nbnatlas.org/ws/dataResource
+## to extract data resources as a table
+
+data_resource <- fromJSON("https://registry.nbnatlas.org/ws/dataResource", simplifyDataFrame = TRUE)
+
+data_resource <- data_resource %>%
+  mutate(meta = map(uri, possibly(fromJSON, otherwise = NA_real_))) 
+
+safe_unnest <- safely(unnest)
+
+data_resource %>%
+  mutate(list = map(meta, safe_unnest)) %>%
+  unnest("list")
+  mutate(meta1 = map(list, "result"))
+
+```

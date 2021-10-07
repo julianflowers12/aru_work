@@ -1,0 +1,59 @@
+---
+title: "Climate change and birds"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+Based on a datacamp project using data on climate from the met office, and species occurrence information from GBIF (<https://www.metoffice.gov.uk/climate/uk/data/ukcp09>, <https://www.gbif.org/>)
+
+## Install and load packages
+
+```{r}
+
+#install.packages(c("raster", "sf", "pacman", "tidyverse", "taxize", "spocc"))
+
+library(pacman)
+
+p_load(raster, tidyverse, sf, taxize, spocc, mapr)
+```
+
+
+## Greenfinch
+
+```{r}
+
+# scientific name = Chloris chloris
+
+scientific_name <- taxize::comm2sci("European Greenfinch")
+
+scientific_name$`European Greenfinch`
+
+```
+
+```{r}
+
+# occurrence data
+
+s1 <- spocc::occ_names(query = "European Greenfinch")
+s1$gbif
+
+## note  - produces no records for Chloris chloris
+
+s2 <- spocc::occ(query = "Carduelis chloris", has_coords = TRUE, limit = 100000)
+
+s2
+
+```
+
+```{r}
+
+s2$gbif$data %>%
+  data.frame() %>%
+  count(Carduelis_chloris.publishingCountry)
+  filter(Carduelis_chloris.publishingCountry == "GB")
+
+map_leaflet(s2)
+
+```
+
