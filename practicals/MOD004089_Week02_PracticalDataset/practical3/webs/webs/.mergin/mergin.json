@@ -1,0 +1,18 @@
+{
+  "name": "jflowers/webs",
+  "version": "v1",
+  "files": [
+    {
+      "checksum": "42ebaa873bb0ab19f9e47e9288d4842efa0f3633",
+      "mtime": "2021-10-06T09:45:33.872774Z",
+      "path": "Survey.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "6ff7cdd07f80e4464a3e84a57c5ffbc75c88ed57",
+      "mtime": "2021-10-06T09:45:33.872777Z",
+      "path": "webs.qgz",
+      "size": 6334
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+InputID,TargetID,Distance
+Song thrush,Dove,50.0787814796448
+Song thrush,Crow,131.123498274343
+Song thrush,Robin,153.649859038977
+Song thrush,House sparrow,249.879686396443
+Song thrush,Blackbird,175.935788450099
+Song thrush,Goldfinch ,65.9527433200642
+Dove,Song thrush,50.0787814796353
+Dove,Crow,95.2049435314964
+Dove,Robin,106.667694420281
+Dove,House sparrow,204.280819812071
+Dove,Blackbird,126.29042612937
+Dove,Goldfinch ,63.5557540893748
+Crow,Song thrush,131.123498274225
+Crow,Dove,95.2049435313912
+Crow,Robin,52.3893605349045
+Crow,House sparrow,126.667036388019
+Crow,Blackbird,118.392827753699
+Crow,Goldfinch ,157.290361451431
+Robin,Song thrush,153.649859039368
+Robin,Dove,106.667694420471
+Robin,Crow,52.3893605349044
+Robin,House sparrow,97.8583593058262
+Robin,Blackbird,69.5350046038858
+Robin,Goldfinch ,157.961613182558
+House sparrow,Song thrush,249.879686396556
+House sparrow,Dove,204.280819812273
+House sparrow,Crow,126.667036387887
+House sparrow,Robin,97.858359306148
+House sparrow,Blackbird,126.428535258827
+House sparrow,Goldfinch ,254.706329776853
+Blackbird,Song thrush,175.935788450268
+Blackbird,Dove,126.290426129426
+Blackbird,Crow,118.392827753547
+Blackbird,Robin,69.5350046039798
+Blackbird,House sparrow,126.428535258948
+Blackbird,Goldfinch ,152.083501681596
+Goldfinch ,Song thrush,65.952743320069
+Goldfinch ,Dove,63.5557540894472
+Goldfinch ,Crow,157.290361451205
+Goldfinch ,Robin,157.961613182783
+Goldfinch ,House sparrow,254.706329777198
+Goldfinch ,Blackbird,152.083501681879

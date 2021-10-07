@@ -1,0 +1,406 @@
+﻿IDObservation,Date,Time,ColourRing,Easting,Northing,PlantSP,HeightCode,Substrate,Behavior
+95,09/04/2008,12:25:00,R-B/P,545347,256965,Acer pseudoplatanus,5,Bud,Gleaning
+96,10/04/2008,14:55:00,O/G-B,545405,257239,Acer sempervirens,3,Leaf,Searching
+98,14/04/2008,11:42:00,R+G,545657,257098,Acer pseudoplatanus 'purpureum',5,Bark,Gleaning
+101,17/04/2008,11:26:00,R+G,545641,257096,Acer pseudoplatanus 'purpureum',5,Bud,Gleaning
+102,17/04/2008,11:30:00,W/G-O,545642,257097,Acer pseudoplatanus 'purpureum',5,Bark,Gleaning
+104,21/04/2008,13:15:00,R+G,545651,257090,Acer pseudoplatanus 'purpureum',5,Leaf,Gleaning
+105,21/04/2008,12:53:00,R-W/Y,545649,257091,Acer pseudoplatanus 'purpureum',3,Bud,Gleaning
+109,23/04/2008,17:22:00,R+G,545673,257117,Acer platanoides 'Goldsworth Purple',3,Bark,Probing
+110,23/04/2008,17:34:00,R+G,545655,257103,Acer pseudoplatanus 'purpureum',5,Leaf,Gleaning
+111,23/04/2008,17:26:00,R-W/Y,545670,257118,Acer platanoides 'Goldsworth Purple',3,Bark,Probing
+113,28/04/2008,15:30:00,R-W/R,545707,257159,Acer opalus,3,Bud,Gleaning
+114,29/04/2008,10:37:00,R+G,545650,257099,Acer pseudoplatanus 'purpureum',3,Bark,Probing
+115,29/04/2008,10:32:00,R-B/G,545650,257098,Acer pseudoplatanus 'purpureum',,Leaf,Gleaning
+116,29/04/2008,10:35:00,R-W/Y,545651,257096,Acer pseudoplatanus 'purpureum',,Bark,Probing
+117,29/04/2008,10:30:00,W/G-O,545652,257097,Acer pseudoplatanus 'purpureum',,Leaf,Gleaning
+118,01/05/2008,12:41:00,P/G-B,545545,257149,Acer campestre,5,Leaf,Gleaning
+119,01/05/2008,12:58:00,R-B/G,545651,257102,Acer pseudoplatanus 'purpureum',3,Leaf,Gleaning
+120,01/05/2008,12:53:00,W/G-O,545650,257099,Acer pseudoplatanus 'purpureum',5,Leaf,Gleaning
+122,08/05/2008,12:40:00,P/R-B,545463,257102,Acer saccharium,5,Bark,Gleaning
+123,14/05/2008,10:07:00,R+G,545658,257097,Acer pseudoplatanus 'purpureum',5,Bark,Gleaning
+124,20/05/2008,11:23:00,Y/W-R,545718,257235,Acer cappadocicum,5,Leaf,Searching
+125,23/05/2008,10:04:00,R-B/Y,545615,257210,Acer pseudoplatanus,5,Leaf,Gleaning
+126,23/05/2008,11:39:00,Y/W-R,545720,257282,Acer pseudoplatanus,5,Leaf,Searching
+127,01/06/2008,13:19:00,P/R-B,545463,257108,Acer saccharium,3,Leaf,Searching
+128,02/06/2008,11:35:00,R+B,545613,257211,Acer pseudoplatanus,5,Leaf,Gleaning
+129,02/06/2008,11:36:00,R-B/Y,545613,257210,Acer pseudoplatanus,5,Leaf,Gleaning
+130,03/06/2008,13:54:00,R+B,545612,257214,Acer pseudoplatanus,5,Leaf,Searching
+131,04/06/2008,11:43:00,G/R-B,545418,257027,Acer pseudoplatanus,5,Leaf,Gleaning
+134,06/06/2008,17:12:00,O/W-M,545423,257014,Acer pseudoplatanus,5,Leaf,Searching
+135,06/06/2008,15:55:00,R+B,545885,257121,Acer pseudoplatanus,5,Leaf,Searching
+137,21/04/2008,07:47:00,R+G,545658,257097,Acer pseudoplatanus,,Leaf,Gleaning
+138,05/05/2008,09:20:00,P/R-B,545452,257112,Acer campestre,5,Leaf,Gleaning
+139,07/05/2008,07:45:00,Y/W-R,545716,257287,Acer,5,Leaf,Gleaning
+152,24/04/2008,15:40:00,R-B/P,545243,257168,Aesculus x carnea,5,Bark,Probing
+153,22/05/2008,14:12:00,R-B/P,545261,257154,Aesculus flava,5,Leaf,Searching
+166,14/04/2008,11:52:00,R+G,545661,257074,Alnus glutinosa,5,Leaf,Gleaning
+167,16/04/2008,12:50:00,R+G,545655,257090,Alnus glutinosa,5,Bark,Gleaning
+169,05/05/2008,12:45:00,R+G,545642,257081,Alnus glutinosa,5,Leaf,Prey handling
+215,21/04/2008,15:37:00,Y/W-R,545698,257234,Anthriscus sylvestris,1,Leaf,Gleaning
+216,22/04/2008,12:25:00,O/G-B,545455,257140,Anthriscus sylvestris,1,Flower,Gleaning
+217,23/04/2008,17:24:00,R-W/Y,545670,257117,Anthriscus sylvestris,1,Flower,Gleaning
+219,28/04/2008,15:25:00,R+B,545686,257143,Anthriscus sylvestris,1,Leaf,Gleaning
+220,28/04/2008,10:45:00,R-B/O,545439,257122,Anthriscus sylvestris,1,Leaf,Gleaning
+221,28/04/2008,15:25:00,R-B/Y,545684,257142,Anthriscus sylvestris,1,Leaf,Gleaning
+222,29/04/2008,12:26:00,R-B/O,545455,257114,Anthriscus sylvestris,1,Leaf,Gleaning
+223,29/04/2008,12:36:00,R-B/O,545428,257130,Anthriscus sylvestris,1,Flower,Gleaning
+225,02/05/2008,15:58:00,P/R-B,545451,257075,Anthriscus sylvestris,1,Leaf,Gleaning
+226,02/05/2008,15:30:00,R-B/O,545466,257085,Anthriscus sylvestris,1,Flower,Gleaning
+228,06/05/2008,13:55:00,Y+B,545737,257141,Anthriscus sylvestris,1,Flower,Gleaning
+230,08/05/2008,13:11:00,O/G-B,545439,257102,Anthriscus sylvestris,1,Leaf,Gleaning
+231,08/05/2008,12:46:00,P/R-B,545464,257084,Anthriscus sylvestris,1,Leaf,Gleaning
+232,08/05/2008,12:46:00,R-B/O,545465,257088,Anthriscus sylvestris,1,Leaf,Gleaning
+233,13/05/2008,11:15:00,P/R-B,545451,257108,Anthriscus sylvestris,1,Leaf,Gleaning
+234,13/05/2008,11:15:00,R-B/O,545454,257097,Anthriscus sylvestris,1,Leaf,Gleaning
+235,16/05/2008,12:05:00,O/G-B,545440,257130,Anthriscus sylvestris,1,Leaf,Searching
+236,16/05/2008,11:41:00,P/R-B,545450,257081,Anthriscus sylvestris,1,Leaf,Searching
+237,19/05/2008,14:00:00,Y+B,545718,257198,Anthriscus sylvestris,1,Leaf,Searching
+238,19/05/2008,14:04:00,Y+B,545715,257198,Anthriscus sylvestris,1,Leaf,Searching
+239,20/05/2008,13:02:00,Y+B,545719,257144,Anthriscus sylvestris,1,Leaf,Searching
+240,21/05/2008,13:24:00,O/G-B,545447,257117,Anthriscus sylvestris,1,Leaf,Gleaning
+241,21/05/2008,11:45:00,R-B/G,545587,257073,Anthriscus sylvestris,1,Leaf,Gleaning
+242,23/05/2008,13:08:00,G-O/B,545732,257113,Anthriscus sylvestris,1,Leaf,Gleaning
+243,23/05/2008,12:07:00,W/B,545695,257223,Anthriscus sylvestris,1,Leaf,Searching
+244,23/05/2008,13:08:00,W+B,545730,257114,Anthriscus sylvestris,1,Leaf,Gleaning
+245,25/05/2008,14:04:00,W/B,545704,257274,Anthriscus sylvestris,1,Leaf,Searching
+246,27/05/2008,11:13:00,P/R-B,545470,257095,Anthriscus sylvestris,1,Other,Gleaning
+247,27/05/2008,11:30:00,R-B/O,545450,257088,Anthriscus sylvestris,1,Leaf,Searching
+248,02/06/2008,13:41:00,B+P,545496,257066,Anthriscus sylvestris,1,Leaf,Gleaning
+249,02/06/2008,14:56:00,O/W-M,545437,257044,Anthriscus sylvestris,1,Leaf,Gleaning
+250,03/06/2008,11:45:00,B+P,545512,257098,Anthriscus sylvestris,1,Leaf,Gleaning
+251,03/06/2008,11:27:00,R-B/O,545462,257107,Anthriscus sylvestris,1,Leaf,Gleaning
+252,05/06/2008,15:27:00,P/R-B,545499,257054,Anthriscus sylvestris,1,Leaf,Searching
+253,05/06/2008,11:55:00,R-B/O,545392,256982,Anthriscus sylvestris,1,Leaf,Searching
+254,05/06/2008,14:25:00,R-B/O,545400,257004,Anthriscus sylvestris,1,Leaf,Searching
+255,05/06/2008,15:35:00,W/G-R,545556,257066,Anthriscus sylvestris,1,Leaf,Searching
+256,06/06/2008,15:04:00,P/R-B,545460,257039,Anthriscus sylvestris,1,Leaf,Gleaning
+257,09/06/2008,11:38:00,P/R-B,545286,257096,Anthriscus sylvestris,1,Leaf,Searching
+258,09/06/2008,11:39:00,R-B/O,545291,257095,Anthriscus sylvestris,1,Other,Gleaning
+260,10/06/2008,11:43:00,P/R-B,545470,257050,Anthriscus sylvestris,1,Other,Gleaning
+261,10/06/2008,12:02:00,P/R-B,545499,257088,Anthriscus sylvestris,1,Other,Gleaning
+262,10/06/2008,12:25:00,R-B/G,545436,257101,Anthriscus sylvestris,1,Other,Gleaning
+263,10/06/2008,12:01:00,R-B/O,545499,257087,Anthriscus sylvestris,1,Other,Gleaning
+264,10/06/2008,12:16:00,R-B/O,545452,257107,Anthriscus sylvestris,1,Flower,Gleaning
+266,11/06/2008,14:05:00,P/R-B,545492,257142,Anthriscus sylvestris,1,Leaf,Gleaning
+267,11/06/2008,13:35:00,R-B/O,545480,257101,Anthriscus sylvestris,1,Leaf,Gleaning
+268,11/06/2008,13:51:00,R-B/O,545449,257084,Anthriscus sylvestris,1,Leaf,Gleaning
+270,12/06/2008,12:36:00,P/R-B,545658,257115,Anthriscus sylvestris,1,Leaf,Searching
+271,12/06/2008,12:12:00,R-B/O,545729,257141,Anthriscus sylvestris,1,Leaf,Gleaning
+272,12/06/2008,12:38:00,R-B/O,545656,257109,Anthriscus sylvestris,1,Leaf,Gleaning
+273,12/06/2008,14:12:00,R-B/O,545463,257100,Anthriscus sylvestris,1,Leaf,Gleaning
+275,21/04/2008,09:28:00,W+W,545320,257236,Anthriscus sylvestris,1,Leaf,Gleaning
+276,22/05/2008,09:14:00,Y+B,545720,257152,Anthriscus sylvestris,1,Leaf,Gleaning
+281,24/04/2008,17:25:00,Y+B,545681,257199,Berberis crataegina,3,Leaf,Gleaning
+374,04/04/2008,11:40:00,P/G-B,545596,257119,Betula coerulea-grandis,5,Flower,Gleaning
+375,04/04/2008,13:58:00,R-B/G,545601,257073,Betula pubescens,5,Other,Prey handling
+376,04/04/2008,14:05:00,W/G-O,545588,257074,Betula pubescens,5,Flower,Gleaning
+377,04/04/2008,11:35:00,Y/G-R,545598,257119,Betula coerulea-grandis,5,Flower,Searching
+378,04/04/2008,12:42:00,Y+B,545727,257212,Betula pendula,5,Flower,Gleaning
+379,10/04/2008,13:45:00,R-B/G,545640,257071,Betula pubescens,5,Flower,Gleaning
+380,10/04/2008,13:51:00,R-B/G,545616,257063,Betula pubescens,5,Flower,Gleaning
+381,10/04/2008,13:48:00,W/G-O,545641,257070,Betula pubescens,5,Flower,Gleaning
+382,10/04/2008,13:49:00,W/G-O,545624,257066,Betula pubescens,5,Flower,Gleaning
+383,14/04/2008,11:05:00,P/G-B,545602,257121,Betula coerulea-grandis,5,Flower,Gleaning
+384,14/04/2008,12:55:00,P/G-B,545558,257121,Betula pendula,5,Flower,Gleaning
+385,14/04/2008,11:27:00,R-B/G,545587,257073,Betula pubescens,5,Flower,Gleaning
+386,14/04/2008,11:48:00,R-B/G,545641,257073,Betula pubescens,5,Flower,Gleaning
+387,14/04/2008,10:00:00,R-B/Y,545635,257184,Betula intermedia,5,Leaf,Gleaning
+388,14/04/2008,11:08:00,Y/G-R,545601,257122,Betula coerulea-grandis,5,Flower,Gleaning
+389,14/04/2008,12:56:00,Y/G-R,545557,257111,Betula pendula,5,Leaf,Gleaning
+390,15/04/2008,11:57:00,P/G-B,545557,257125,Betula pendula,5,Flower,Gleaning
+391,15/04/2008,13:36:00,R-B/O,545479,257148,Betula pendula,5,Bud,Gleaning
+392,15/04/2008,13:37:00,R-B/O,545457,257150,Betula pubescens,5,Leaf,Gleaning
+393,15/04/2008,11:59:00,Y/G-R,545556,257122,Betula pendula,5,Flower,Gleaning
+394,16/04/2008,13:59:00,R-B/G,545640,257069,Betula pubescens,5,Flower,Gleaning
+395,16/04/2008,13:54:00,W/G-O,545638,257074,Betula pubescens,5,Flower,Gleaning
+396,17/04/2008,08:42:00,P/G-B,545573,257136,Betula pubescens,5,Flower,Gleaning
+397,17/04/2008,08:47:00,R-B/Y,545655,257184,Betula pendula,5,Flower,Gleaning
+398,21/04/2008,14:58:00,R+B,545638,257184,Betula intermedia,5,Leaf,Gleaning
+399,21/04/2008,12:47:00,R+G,545651,257082,Betula pendula,5,Flower,Gleaning
+400,21/04/2008,15:17:00,W/B,545676,257210,Betula pendula,5,Leaf,Gleaning
+401,21/04/2008,13:25:00,W/G-O,545644,257070,Betula pendula,5,Leaf,Gleaning
+402,22/04/2008,12:33:00,P/R-B,545480,257146,Betula papyrifera,5,Bark,Gleaning
+403,22/04/2008,12:44:00,P/R-B,545487,257143,Betula pubescens,5,Leaf,Gleaning
+404,22/04/2008,13:31:00,R-B/G,545588,257067,Betula pubescens,5,Leaf,Gleaning
+405,22/04/2008,12:29:00,R-B/O,545479,257145,Betula pendula,5,Leaf,Gleaning
+406,22/04/2008,12:42:00,R-B/O,545486,257143,Betula pubescens,5,Leaf,Gleaning
+407,22/04/2008,13:34:00,W/G-O,545584,257071,Betula pubescens,5,Leaf,Gleaning
+408,23/04/2008,17:42:00,R+G,545663,257081,Betula pendula,5,Flower,Gleaning
+409,23/04/2008,17:47:00,R-B/G,545626,257066,Betula pubescens,5,Flower,Gleaning
+410,23/04/2008,17:46:00,W/G-O,545624,257067,Betula pubescens,5,Leaf,Gleaning
+411,24/04/2008,16:25:00,P/G-B,545580,257142,Betula pubescens,5,Leaf,Searching
+412,24/04/2008,17:27:00,Y+B,545683,257213,Betula pendula,5,Flower,Gleaning
+413,28/04/2008,14:12:00,R+G,545670,257075,Betula pendula,5,Flower,Gleaning
+414,30/04/2008,16:07:00,Y+B,545788,257151,Betula utilis var. jacquemontii,3,Bark,Probing
+415,01/05/2008,13:06:00,P/G-B,545572,257107,Betula Pendula 'Dalecarica',5,Bud,Searching
+416,01/05/2008,13:05:00,R-B/G,545582,257096,Betula szechuanica,5,Bark,Gleaning
+417,05/05/2008,12:30:00,R+G,545666,257079,Betula pendula,5,Leaf,Gleaning
+418,05/05/2008,11:50:00,W/G-R,545584,257061,Betula pubescens,5,Bark,Gleaning
+419,08/05/2008,10:15:00,R+G,545606,257129,Betula pubescens ssp. tortuosa,3,Leaf,Gleaning
+420,08/05/2008,10:30:00,R-B/G,545580,257074,Betula pubescens,5,Leaf,Gleaning
+421,08/05/2008,10:31:00,W/G-O,545577,257075,Betula pubescens,5,Leaf,Gleaning
+422,13/05/2008,10:31:00,Y+B,545674,257211,Betula pendula,3,Bark,Gleaning
+423,16/05/2008,09:05:00,P/G-B,545574,257135,Betula pubescens,5,Leaf,Gleaning
+424,16/05/2008,10:11:00,R+B,545634,257179,Betula intermedia,3,Leaf,Searching
+427,19/05/2008,14:29:00,R-W/R,545739,257218,Betula pendula,5,Leaf,Searching
+428,19/05/2008,14:31:00,R-W/R,545737,257217,Betula pendula,5,Leaf,Searching
+429,20/05/2008,09:18:00,P/R-B,545476,257146,Betula pendula,3,Leaf,Searching
+430,21/05/2008,12:16:00,R-B/G,545564,257133,Betula pubescens,3,Leaf,Searching
+431,02/06/2008,11:20:00,R+B,545626,257185,Betula pubescens,3,Leaf,Gleaning
+432,02/06/2008,11:21:00,R+B,545625,257186,Betula pubescens,3,Leaf,Gleaning
+433,03/06/2008,14:31:00,W/G-R,545555,257118,Betula pendula,5,Leaf,Gleaning
+434,04/06/2008,09:47:00,R+B,545658,257185,Betula pendula,3,Leaf,Gleaning
+435,04/06/2008,09:49:00,R-B/Y,545657,257185,Betula pendula,5,Leaf,Searching
+436,05/06/2008,10:53:00,G-O/B,545787,257148,Betula utilis var. jacquemontii,5,Bark,Searching
+438,16/04/2008,15:30:00,Y/G-R,545578,257136,Betula,5,Leaf,Gleaning
+439,16/04/2008,15:30:00,P/G-B,545578,257136,Betula,5,Flower,Gleaning
+440,16/04/2008,15:52:00,R+B,545640,257183,Betula intermedia,5,Flower,Gleaning
+442,28/04/2008,08:15:00,R-B/G,545592,257087,Betula Hergest,5,Bark,Gleaning
+443,21/05/2008,07:55:00,R+G,545571,257127,Betula pubescens,5,Bark,Searching
+445,05/06/2008,08:35:00,R+B,545583,257074,Betula pubescens,5,Leaf,Gleaning
+446,05/06/2008,08:45:00,P+W,545585,257107,Betula papyrifera,5,Leaf,Gleaning
+447,10/06/2008,08:26:00,R-B/G,545583,257074,Betula pubescens,5,Leaf,Gleaning
+460,28/04/2008,14:07:00,R-W/Y,545686,257075,Buxus sempervirens,3,Leaf,Searching
+462,14/05/2008,10:10:00,W-R/Y,545321,257256,Buxus sempervirens,5,Leaf,Gleaning
+470,09/04/2008,12:35:00,R-B/P,545334,256992,Carpinus betulus,5,Bark,Probing
+471,06/05/2008,13:01:00,P+W,545514,257236,Carpinus betulus 'Quercifolia',3,Bark,Gleaning
+474,04/06/2008,13:14:00,R+B,545781,257139,Carya cordiformis,5,Bark,Gleaning
+480,12/06/2008,12:09:00,P/R-B,545722,257139,Castanea sativa,3,Leaf,Searching
+490,02/05/2008,11:45:00,R+B,545585,257189,Catalpa speciosa,5,Bark,Prey handling
+491,02/05/2008,13:28:00,R+B,545589,257185,Catalpa speciosa,5,Bark,Gleaning
+492,02/05/2008,13:27:00,R-B/Y,545590,257185,Catalpa speciosa,5,Bark,Gleaning
+493,09/05/2008,09:42:00,O/G-B,545409,257184,Catalpa ovata,5,Leaf,Gleaning
+494,12/05/2008,08:58:00,O/G-B,545392,257180,Catalpa bignonioides,3,Bark,Gleaning
+495,14/05/2008,08:55:00,P/G-B,545583,257196,Catalpa speciosa,5,Leaf,Searching
+497,28/04/2008,08:00:00,R+B,545694,257147,Catalpa erubescens,5,Bark,Gleaning
+498,28/04/2008,08:00:00,R-B/Y,545694,257147,Catalpa erubescens,5,Bark,Gleaning
+503,06/05/2008,14:43:00,O/G-B,545448,257128,Cedrus deodara,3,Bark,Gleaning
+510,20/05/2008,10:01:00,R-B/O,545428,257073,Cercis siliquastrum,5,Flower,Probing
+518,21/05/2008,12:33:00,G/R-B,545411,257033,Chamaecyparis lawsoniana 'Allumii',5,Leaf,Searching
+520,04/06/2008,11:30:00,O/W-M,545408,257018,Chamaecyparis lawsoniana 'Allumii',5,Leaf,Searching
+532,15/04/2008,13:42:00,O/G-B,545438,257138,Cornus rugosa,3,Bark,Gleaning
+533,15/04/2008,13:58:00,O/G-B,545420,257147,Cornus mas,3,Bark,Searching
+534,17/04/2008,11:52:00,O/G-B,545437,257139,Cornus rugosa,3,Bark,Gleaning
+536,22/04/2008,14:40:00,O/G-B,545414,257153,Cornus mas,3,Leaf,Gleaning
+537,24/04/2008,17:18:00,R-W/R,545700,257185,Cornus mas 'Variegata',3,Leaf,Gleaning
+540,19/05/2008,14:02:00,Y+B,545705,257189,Cornus mas,5,Leaf,Searching
+547,15/04/2008,11:53:00,P/G-B,545544,257158,Corylus avellana,3,Leaf,Gleaning
+548,08/05/2008,13:13:00,O/G-B,545439,257105,Corylus avellana,1,Leaf,Gleaning
+552,10/06/2008,13:29:00,Y/W-R,545695,257253,Cotinus coggygria,3,Leaf,Searching
+575,09/04/2008,13:26:00,W/B,545690,257238,Cotoneaster villosulus ,3,Leaf,Gleaning
+576,09/04/2008,13:25:00,Y/W-R,545690,257233,Cotoneaster villosulus ,3,Flower,Probing
+577,24/04/2008,17:10:00,Y/W-R,545692,257241,Cotoneaster villosulus ,1,Flower,Gleaning
+578,02/05/2008,15:45:00,P/R-B,545472,257046,Cotoneaster bullatus f. floribundus,3,Leaf,Gleaning
+581,04/06/2008,14:52:00,R-B/O,545469,257045,Cotoneaster bullatus f. floribundus,3,Leaf,Searching
+582,06/06/2008,14:52:00,R-B/O,545483,257049,Cotoneaster ignotus,3,Leaf,Gleaning
+583,10/06/2008,11:45:00,P/R-B,545479,257050,Cotoneaster ignotus,3,Leaf,Searching
+614,22/05/2008,09:32:00,O/G-B,545403,257082,Crataegus x lavallei ,3,Leaf,Probing
+615,23/05/2008,10:05:00,R+B,545619,257212,Crataegus monogyna ssp. Nordica,5,Leaf,Searching
+616,27/05/2008,11:28:00,O/G-B,545379,257066,Crataegus laevigata 'Punicea',3,Leaf,Prey handling
+617,03/06/2008,14:03:00,R-B/Y,545619,257211,Crataegus monogyna ssp. Nordica,5,Leaf,Searching
+618,06/06/2008,16:50:00,G/R-B,545449,257037,Crataegus pinnatifida var. major,3,Leaf,Searching
+619,14/05/2008,10:25:00,O/G-B,545320,257138,Crataegus laevigata,5,Leaf,Searching
+620,31/05/2008,09:50:00,O/G-B,545382,257127,Crataegus prunifolia,5,Leaf,Gleaning
+626,02/04/2008,15:29:00,R-B/O,545479,257049,Cydonia oblonga,3,Bark,Gleaning
+627,17/04/2008,08:00:00,R-B/O,545477,257050,Cydonia oblonga,3,Leaf,Gleaning
+676,21/05/2008,12:32:00,G/R-B,545412,257027,Fagus sylvatica,3,Leaf,Searching
+677,21/05/2008,12:58:00,O/W-M,545421,257026,Fagus sylvatica,5,Leaf,Gleaning
+678,27/05/2008,11:38:00,G/R-B,545419,256959,Fagus sylvatica,5,Leaf,Gleaning
+679,27/05/2008,11:44:00,G/R-B,545418,256962,Fagus sylvatica,5,Bark,Gleaning
+680,27/05/2008,12:00:00,O/G-B,545328,257020,Fagus sylvatica,3,Leaf,Gleaning
+681,27/05/2008,11:38:00,O/W-M,545419,256957,Fagus sylvatica,3,Bark,Gleaning
+682,27/05/2008,11:43:00,O/W-M,545418,256960,Fagus sylvatica,3,Bark,Gleaning
+683,05/06/2008,11:47:00,O/W-M,545419,256957,Fagus sylvatica,3,Leaf,Gleaning
+685,16/06/2008,13:48:00,O/W-M,545418,256961,Fagus sylvatica,3,Bark,Gleaning
+700,08/05/2008,10:11:00,R+G,545635,257149,Fraxinus excelsior 'Pendula',3,Bark,Probing
+701,09/05/2008,08:42:00,R+G,545635,257149,Fraxinus excelsior 'Pendula',5,Flower,Probing
+702,22/05/2008,08:41:00,R+G,545631,257146,Fraxinus excelsior 'Pendula',5,Leaf,Probing
+703,09/06/2008,14:56:00,O/W-M,545355,256948,Fraxinus excelsior,5,Leaf,Searching
+704,07/05/2008,07:20:00,R-W/Y,545639,257142,Fraxinus excelsior,5,Flower,Gleaning
+705,07/05/2008,07:20:00,R+G,545639,257142,Fraxinus excelsior,5,Flower,Gleaning
+706,19/05/2008,16:05:00,R-B/P,545357,257019,Fraxinus ornus,5,Leaf,Gleaning
+715,22/05/2008,09:15:00,O/G-B,545416,257106,Gleditsia caspica,3,Leaf,Searching
+719,30/04/2008,16:10:00,Y+B,545792,257168,Hedera helix,5,Leaf,Searching
+745,09/06/2008,11:26:00,R-B/O,545284,257120,Ilex aquifolium 'ferox',5,Leaf,Searching
+756,10/04/2008,14:12:00,P/R-B,545485,257116,Juglans elaeopyren,5,Bark,Gleaning
+757,10/04/2008,14:10:00,R-B/O,545485,257114,Juglans elaeopyren,5,Bark,Gleaning
+758,22/04/2008,12:40:00,R-B/O,545484,257122,Juglans elaeopyren,5,Bark,Searching
+759,21/05/2008,13:51:00,R-B/O,545494,257116,Juglans elaeopyren,5,Leaf,Gleaning
+760,22/05/2008,08:25:00,Y+B,545746,257174,Juglans regia,5,Leaf,Searching
+784,05/06/2008,10:52:00,G-O/B,545792,257148,Lonicera insularis,3,Leaf,Searching
+819,17/04/2008,09:27:00,W/B,545707,257308,Malus tschonoskii,5,Bark,Gleaning
+820,18/04/2008,15:07:00,Y/G-R,545590,257213,Malus transitoria,3,Bud,Gleaning
+822,01/05/2008,14:32:00,Y/W-R,545714,257318,Malus tschonoskii,5,Bark,Gleaning
+823,02/05/2008,11:22:00,P+W,545559,257203,Malus floribunda,3,Leaf,Searching
+824,05/05/2008,11:58:00,B+P,545559,257057,Malus domestica x malus sylvestris,5,Leaf,Searching
+825,09/05/2008,10:59:00,P/G-B,545560,257210,Malus floribunda,3,Leaf,Gleaning
+827,18/06/2008,09:52:00,R+G,545671,257160,Malus x robusta,5,Bark,Gleaning
+830,28/04/2008,07:47:00,Y+B,545706,257185,Malus x robusta,5,Flower,Gleaning
+831,07/05/2008,07:06:00,P+W,545559,257208,Malus floribunda,5,Flower,Gleaning
+838,09/06/2008,13:58:00,P/R-B,545347,257047,Morus alba,5,Leaf,Searching
+851,14/05/2008,11:10:00,G-O/B,545852,257111,Philadelphus hirsutus,1,Leaf,Other
+860,01/05/2008,15:50:00,O/G-B,545393,257193,Phillyrea angustifolia,3,Bark,Searching
+861,01/05/2008,16:33:00,O/G-B,545432,257145,Phillyrea angustifolia,3,Bark,Prey handling
+863,16/05/2008,12:02:00,O/G-B,545443,257146,Phillyrea latifolia,3,Leaf,Searching
+866,01/06/2008,13:16:00,P/R-B,545471,257095,Picrasma quassioides,5,Leaf,Searching
+888,22/04/2008,11:48:00,W-R/Y,545316,257192,Pinus nigra spp salzmanni,5,Leaf,Gleaning
+891,22/05/2008,10:00:00,B+P,545510,257069,Pinus sylvestris,5,Leaf,Searching
+893,04/06/2008,11:32:00,G/R-B,545408,257006,Pinus densiflora,5,Leaf,Gleaning
+894,06/06/2008,16:45:00,O/W-M,545441,257054,Pinus sylvestris,5,Leaf,Searching
+950,15/04/2008,10:27:00,R-W/R,545712,257204,Populus x canadensis 'Serotina',5,Flower,Probing
+951,15/04/2008,11:13:00,W/B,545704,257247,Populus alba,5,Flower,Gleaning
+952,15/04/2008,11:10:00,Y/W-R,545698,257241,Populus alba,5,Flower,Gleaning
+953,15/04/2008,10:25:00,Y+B,545715,257202,Populus x canadensis 'Serotina',5,Flower,Probing
+954,18/04/2008,14:28:00,W-R/Y,545306,257251,Populus tremula,5,Flower,Gleaning
+955,21/04/2008,15:01:00,R-W/R,545718,257195,Populus canadensis 'Serotina',5,Flower,Gleaning
+956,21/04/2008,15:03:00,Y+B,545722,257196,Populus canadensis 'Serotina',5,Flower,Gleaning
+957,24/04/2008,17:28:00,Y+B,545696,257216,Populus alba,5,Flower,Gleaning
+958,01/05/2008,14:57:00,Y/W-R,545697,257218,Populus alba,5,Bark,Gleaning
+959,06/05/2008,13:34:00,Y+B,545700,257221,Populus alba,5,Flower,Gleaning
+960,08/05/2008,11:37:00,Y/W-R,545709,257244,Populus nigra spp betulifolia,3,Bark,Gleaning
+962,23/05/2008,11:55:00,Y+B,545700,257216,Populus alba,5,Leaf,Searching
+963,23/05/2008,11:58:00,Y+B,545702,257212,Populus nigra spp betulifolia var. Viridis,5,Leaf,Gleaning
+964,25/05/2008,14:08:00,W/B,545699,257279,Populus x canadensis 'Eugenei',5,Leaf,Searching
+965,25/05/2008,14:10:00,W/B,545692,257278,Populus simonii 'Fastigiata',5,Leaf,Gleaning
+969,08/04/2008,07:48:00,W-R/Y,545308,257254,Populus tremula,5,Bark,Gleaning
+970,16/04/2008,16:15:00,Y+B,545717,257209,Populus canadensis,5,Flower,Gleaning
+971,22/05/2008,08:06:00,Y/W-R,545691,257274,Populus simonii,3,Leaf,Gleaning
+972,11/06/2008,07:42:00,W-R/Y,545695,257214,Populus alba,5,Leaf,Gleaning
+1068,04/04/2008,13:35:00,G-O/B,545769,257094,Prunus padus,5,Leaf,Gleaning
+1069,04/04/2008,12:08:00,R-W/Y,545690,257100,Prunus padus,5,Leaf,Searching
+1070,14/04/2008,12:08:00,R+G,545707,257119,Prunus sargentii,3,Bark,Gleaning
+1071,14/04/2008,12:09:00,R-W/Y,545707,257122,Prunus sargentii,5,Leaf,Probing
+1072,16/04/2008,10:55:00,W+W,545315,257245,Prunus pseudocerasus var. cantabrigiensis,3,Leaf,Prey handling
+1073,21/04/2008,12:15:00,G-O/B,545754,257088,Prunus mahaleb,5,Flower,Gleaning
+1076,22/04/2008,11:27:00,W-R/Y,545315,257226,Prunus avium,5,Flower,Probing
+1077,22/04/2008,11:45:00,W-R/Y,545315,257197,Prunus avium,5,Flower,Gleaning
+1078,23/04/2008,16:26:00,G-O/B,545847,257120,Prunus avium 'Plena',3,Flower,Gleaning
+1080,24/04/2008,17:41:00,Y/G-R,545562,257164,Prunus avium 'Gean',5,Flower,Probing
+1081,01/05/2008,13:41:00,G-O/B,545736,257085,Prunus spinosa,3,Leaf,Gleaning
+1084,13/05/2008,10:34:00,Y+B,545692,257196,Prunus laurocerasus 'Reynvaanii',3,Leaf,Searching
+1085,13/05/2008,10:58:00,Y+B,545711,257120,Prunus maackii,3,Bud,Searching
+1089,16/05/2008,12:41:00,W-R/Y,545307,257182,Prunus avium 'Gean',3,Leaf,Prey handling
+1090,20/05/2008,12:45:00,R-B/Y,545708,257144,Prunus lusitanica spp azorica,1,Leaf,Searching
+1092,23/05/2008,13:06:00,G-O/B,545751,257094,Prunus cerasifera forma cerasifera,5,Leaf,Searching
+1093,23/05/2008,13:07:00,G-O/B,545736,257101,Prunus x dasycarpa,5,Leaf,Searching
+1095,02/06/2008,12:47:00,W+B,545732,257079,Prunus spinosa,5,Bark,Gleaning
+1097,04/06/2008,13:28:00,G-O/B,545751,257099,Prunus mahaleb,5,Leaf,Searching
+1098,04/06/2008,12:41:00,P/G-B,545748,257096,Prunus cerasifera forma cerasifera,5,Bark,Searching
+1099,09/06/2008,12:45:00,G-O/B,545770,257090,Prunus padus,3,Leaf,Gleaning
+1100,09/06/2008,10:20:00,Y/W-R,545689,257101,Prunus padus,3,Leaf,Gleaning
+1101,10/06/2008,10:51:00,G-O/B,545780,257101,Prunus padus,5,Leaf,Gleaning
+1102,10/06/2008,10:40:00,W+B,545779,257098,Prunus padus,3,Leaf,Gleaning
+1103,11/06/2008,11:55:00,G-O/B,545728,257084,Prunus avium 'Plena',5,Bark,Searching
+1104,11/06/2008,12:16:00,R+G,545689,257076,Prunus cerasifera forma cerasifera,5,Leaf,Searching
+1105,11/06/2008,11:54:00,W+B,545726,257084,Prunus avium 'Plena',5,Bark,Searching
+1106,16/06/2008,11:36:00,G-O/B,545751,257090,Prunus mahaleb,5,Leaf,Searching
+1108,22/05/2008,09:00:00,G-O/B,545779,257104,Prunus laurocerasus,5,Flower,Gleaning
+1109,31/05/2008,08:55:00,W+B,545743,257119,Prunus cerasifera,5,Leaf,Gleaning
+1148,30/04/2008,16:32:00,R+B,545652,257179,Pyrus cordata,3,Leaf,Searching
+1149,05/05/2008,12:14:00,B+P,545554,257082,Pyrus communis,5,Leaf,Gleaning
+1150,05/05/2008,11:32:00,W/G-R,545556,257075,Pyrus communis,5,Leaf,Gleaning
+1151,05/05/2008,12:10:00,W/G-R,545556,257078,Pyrus communis,5,Leaf,Gleaning
+1152,04/06/2008,09:46:00,R+B,545653,257177,Pyrus cordata,3,Leaf,Searching
+1153,04/06/2008,14:25:00,W/G-R,545528,257068,Pyrus amygdaliformis,5,Leaf,Searching
+1222,04/04/2008,11:50:00,P+W,545516,257271,Quercus robur,5,Bud,Gleaning
+1223,04/04/2008,11:50:00,W/Y-B,545515,257277,Quercus robur,5,Bud,Probing
+1228,09/04/2008,13:06:00,P+W,545518,257227,Quercus robur,5,Bud,Probing
+1229,09/04/2008,13:07:00,W/Y-B,545516,257230,Quercus robur,5,Bud,Gleaning
+1232,15/04/2008,11:50:00,P/G-B,545566,257182,Quercus robur,3,Bud,Probing
+1233,16/04/2008,14:10:00,P/G-B,545567,257177,Quercus robur,3,Bud,Gleaning
+1234,17/04/2008,07:50:00,P/G-B,545542,257190,Quercus petraea,5,Bud,Gleaning
+1235,17/04/2008,09:56:00,P/G-B,545567,257184,Quercus robur,3,Bud,Probing
+1236,17/04/2008,11:12:00,P/R-B,545463,257080,Quercus x warburgii,5,Bud,Gleaning
+1237,17/04/2008,10:02:00,P+W,545523,257215,Quercus robur,5,Bud,Gleaning
+1238,17/04/2008,11:14:00,R-B/O,545461,257079,Quercus x warburgii,5,Bud,Gleaning
+1239,17/04/2008,09:58:00,Y/G-R,545567,257181,Quercus robur,3,Bud,Gleaning
+1240,18/04/2008,15:14:00,P/G-B,545574,257205,Quercus pubescens,3,Bark,Gleaning
+1241,22/04/2008,10:13:00,P/G-B,545538,257203,Quercus petraea,5,Bud,Prey handling
+1242,22/04/2008,10:20:00,P+W,545527,257214,Quercus trojana,5,Leaf,Gleaning
+1243,22/04/2008,10:42:00,P+W,545510,257271,Quercus robur,5,Leaf,Gleaning
+1244,22/04/2008,10:23:00,W/Y-B,545523,257229,Quercus robur,5,Leaf,Gleaning
+1245,22/04/2008,10:38:00,W/Y-B,545513,257272,Quercus robur,5,Leaf,Gleaning
+1246,22/04/2008,10:15:00,Y/G-R,545537,257202,Quercus petraea,5,Bud,Gleaning
+1248,24/04/2008,18:03:00,P+W,545518,257224,Quercus robur,5,Leaf,Gleaning
+1249,24/04/2008,18:00:00,W/Y-B,545520,257221,Quercus robur,5,Leaf,Gleaning
+1250,28/04/2008,09:55:00,P+W,545531,257214,Quercus robur,5,Flower,Searching
+1251,29/04/2008,14:28:00,P+W,545482,257278,Quercus suber,5,Bark,Searching
+1252,29/04/2008,14:50:00,P+W,545525,257208,Quercus trojana,5,Leaf,Gleaning
+1253,29/04/2008,14:51:00,P+W,545529,257220,Quercus robur,5,Bark,Gleaning
+1255,01/05/2008,15:20:00,O/G-B,545425,257227,Quercus faginea,3,Leaf,Gleaning
+1256,02/05/2008,14:27:00,P+W,545519,257228,Quercus robur,5,Leaf,Searching
+1257,06/05/2008,12:58:00,P+W,545509,257250,Quercus ilex,5,Leaf,Searching
+1258,06/05/2008,13:48:00,Y+B,545713,257152,Quercus frainetto,3,Leaf,Searching
+1259,08/05/2008,12:26:00,P/R-B,545474,257097,Quercus cerris,5,Leaf,Gleaning
+1260,08/05/2008,12:27:00,R-B/O,545474,257099,Quercus cerris,5,Leaf,Gleaning
+1261,09/05/2008,11:02:00,P/G-B,545585,257212,Quercus x warburgii,3,Leaf,Gleaning
+1262,12/05/2008,08:45:00,O/G-B,545474,257202,Quercus agrifolia,5,Leaf,Searching
+1263,13/05/2008,08:50:00,P+W,545525,257211,Quercus trojana,5,Bark,Searching
+1264,14/05/2008,08:02:00,P+W,545495,257199,Quercus canariensis,5,Leaf,Prey handling
+1265,16/05/2008,11:40:00,P/R-B,545461,257082,Quercus x warburgii,3,Leaf,Searching
+1266,18/05/2008,16:16:00,P/R-B,545468,257081,Quercus x warburgii,5,Leaf,Prey handling
+1267,18/05/2008,16:43:00,P/R-B,545450,257081,Quercus x warburgii,5,Leaf,Prey handling
+1268,19/05/2008,14:33:00,Y+B,545739,257201,Quercus robur,5,Leaf,Searching
+1269,20/05/2008,12:03:00,Y+B,545709,257151,Quercus frainetto,5,Leaf,Searching
+1270,21/05/2008,09:30:00,P+W,545513,257263,Quercus robur,5,Leaf,Searching
+1271,21/05/2008,10:56:00,P+W,545528,257207,Quercus trojana,5,Leaf,Searching
+1272,21/05/2008,09:31:00,W/Y-B,545522,257256,Quercus x hispanica,5,Leaf,Searching
+1273,21/05/2008,10:55:00,W/Y-B,545528,257207,Quercus trojana,5,Leaf,Searching
+1274,22/05/2008,12:35:00,P/G-B,545570,257211,Quercus pubescens,5,Leaf,Prey handling
+1275,01/06/2008,13:17:00,P/R-B,545467,257100,Quercus ilex,3,Leaf,Searching
+1276,02/06/2008,10:38:00,R-B/O,545463,257086,Quercus x warburgii,5,Leaf,Gleaning
+1277,11/06/2008,13:40:00,R-B/O,545473,257102,Quercus cerris,5,Leaf,Searching
+1278,12/06/2008,14:10:00,P/R-B,545467,257099,Quercus ilex,5,Leaf,Searching
+1279,12/06/2008,14:16:00,R-B/O,545473,257095,Quercus cerris,5,Leaf,Gleaning
+1280,18/06/2008,12:27:00,P+W,545506,257262,Quercus ilex,5,Leaf,Searching
+1282,21/04/2008,08:10:00,R-W/R,545714,257156,Quercus frainetto,5,Leaf,Gleaning
+1284,26/04/2008,06:55:00,Y/G-R,545540,257198,Quercus petraea,5,Leaf,Gleaning
+1285,26/04/2008,06:55:00,P/G-B,545540,257198,Quercus petraea,5,Leaf,Probing
+1286,22/05/2008,07:18:00,R+B,545585,257212,Quercus warburgii,5,Flower,Searching
+1292,29/04/2008,12:24:00,R-B/O,545457,257114,Rhamnus cathartica,1,Bark,Gleaning
+1293,06/05/2008,16:12:00,P/R-B,545473,257113,Rhamnus alaternus 'Argentovariegata',3,Leaf,Gleaning
+1295,08/05/2008,10:32:00,R-B/G,545577,257069,Rhus potaninii,3,Leaf,Gleaning
+1302,06/06/2008,15:35:00,R+B,545862,257126,Ribes sanguineum,3,Leaf,Gleaning
+1304,20/05/2008,10:00:00,R-B/O,545426,257085,Robinia pseudoacacia 'Decaisneana',5,Leaf,Searching
+1336,21/04/2008,09:20:00,W-R/Y,545283,257228,Salix x sepulcralis,5,Bark,Gleaning
+1339,15/06/2008,09:32:00,Y+B,545280,257226,Salix x sepulcralis,5,Leaf,Searching
+1343,09/06/2008,12:46:00,W+B,545769,257086,Sambucus nigra ,3,Leaf,Searching
+1344,16/06/2008,10:59:00,R+G,545711,257080,Sambucus nigra ,3,Bark,Searching
+1351,02/05/2008,13:25:00,R-B/Y,545599,257186,Sophora microphylla,5,Leaf,Searching
+1394,08/05/2008,12:34:00,P/R-B,545499,257098,Sorbus americana,5,Leaf,Searching
+1395,18/05/2008,16:45:00,R-B/O,545473,257078,Sorbus aria,5,Leaf,Searching
+1396,23/05/2008,09:05:00,P/R-B,545491,257094,Sorbus americana,5,Leaf,Searching
+1397,23/05/2008,09:14:00,R-B/O,545501,257078,Sorbus pseudofennica,5,Leaf,Searching
+1398,23/05/2008,09:16:00,R-B/O,545505,257082,Sorbus croceocarpa,3,Leaf,Gleaning
+1399,23/05/2008,09:48:00,R-B/O,545505,257093,Sorbus anglica,5,Leaf,Searching
+1400,23/05/2008,09:46:00,W/G-R,545507,257088,Sorbus croceocarpa,5,Leaf,Prey handling
+1401,27/05/2008,10:25:00,W/G-R,545499,257072,Sorbus bristoliensis,5,Leaf,Searching
+1404,03/06/2008,14:25:00,P/R-B,545490,257100,Sorbus americana,5,Leaf,Gleaning
+1405,03/06/2008,11:38:00,W/G-R,545502,257081,Sorbus croceocarpa,5,Leaf,Searching
+1406,03/06/2008,11:39:00,W/G-R,545501,257101,Sorbus rupicola,5,Leaf,Gleaning
+1408,06/06/2008,15:05:00,P/R-B,545459,257043,Sorbus aucuparia,3,Leaf,Gleaning
+1409,10/06/2008,12:09:00,R-B/G,545470,257073,Sorbus umbellata,3,Leaf,Searching
+1411,11/06/2008,06:45:00,P/G-B,545580,257163,Sorbus devoniensis,5,Flower,Gleaning
+1435,07/05/2008,07:35:00,Y/W-R,545698,257288,Thuja plicata,5,Leaf,Gleaning
+1467,21/04/2008,13:46:00,R-B/P,545255,257127,Tilia x europaea,3,Bark,Gleaning
+1469,20/05/2008,09:19:00,P/R-B,545468,257140,Tilia x euchlora,5,Leaf,Searching
+1470,09/06/2008,11:27:00,P/R-B,545281,257117,Tilia platyphyllos,5,Leaf,Gleaning
+1471,09/06/2008,11:28:00,R-B/O,545282,257119,Tilia platyphyllos,5,Leaf,Searching
+1472,13/04/2008,08:27:00,R-B/O,545473,257138,Tilia,5,Bark,Searching
+1495,23/05/2008,11:17:00,W/B,545717,257263,Ulmus hollandica 'Vegeta',5,Leaf,Prey handling
+1496,23/05/2008,11:36:00,W/B,545721,257274,Ulmus hollandica 'Vegeta',5,Leaf,Gleaning
+1497,23/05/2008,11:15:00,Y/W-R,545717,257258,Ulmus hollandica,5,Leaf,Searching
+1498,23/05/2008,11:40:00,Y/W-R,545720,257284,Ulmus hollandica,5,Leaf,Gleaning
+1499,27/05/2008,12:10:00,Y/W-R,545717,257280,Ulmus hollandica,5,Leaf,Prey handling
+1500,06/06/2008,15:50:00,R-B/Y,545880,257131,Ulmus hollandica,5,Leaf,Searching
+1511,03/06/2008,12:30:00,R-B/Y,545685,257172,Viburnum foetens,3,Leaf,Gleaning
+1516,03/06/2008,12:31:00,R+B,545685,257175,Viburnum x bodnantense,3,Leaf,Searching
+1529,30/04/2008,14:42:00,R+G,545662,257121,Alianthus altissima,5,Bark,Searching
+1540,21/05/2008,10:35:00,R-B/Y,545588,257126,Euonymus fortunei,3,Leaf,Gleaning
+1545,21/05/2008,10:32:00,R-B/Y,545612,257156,Juniperus communis,3,Leaf,Gleaning
+1551,20/05/2008,12:13:00,R-B/G,545558,257128,Nothofagus obliqua,5,Leaf,Searching
+1552,05/05/2008,09:08:00,R-B/O,545536,257121,Nothofagus obliqua,5,Leaf,Gleaning
+1553,05/05/2008,09:08:00,P/R-B,545536,257121,Nothofagus obliqua,3,Leaf,Gleaning
+1559,14/04/2008,13:58:00,R-B/O,545438,257062,Syringa 'General Pershing',3,Leaf,Searching
+1561,29/04/2008,11:59:00,G/R-B,545361,257027,Torreya californica,5,Leaf,Gleaning

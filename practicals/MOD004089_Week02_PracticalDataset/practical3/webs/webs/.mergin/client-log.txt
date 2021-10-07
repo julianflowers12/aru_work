@@ -1,0 +1,29 @@
+2021-10-06 10:45:33,473 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 10:45:33,474 --- start push jflowers/webs
+2021-10-06 10:45:33,605 got project info: local version v0 / server version v0
+2021-10-06 10:45:33,609 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/MOD004089_Week02_PracticalDataset/practical3/webs/webs/Survey.gpkg
+2021-10-06 10:45:33,614 checkpoint - return value: (0, 1, 1)
+2021-10-06 10:45:33,620 checkpoint - new size 98304 checksum db90367321cf3cc3f3ddb63bf266bdd3b869fe58
+2021-10-06 10:45:33,622 push changes:
+{'added': [{'checksum': 'db90367321cf3cc3f3ddb63bf266bdd3b869fe58',
+            'chunks': ['abaf0eb7-4c81-48c3-8f46-910d5d00ebb6'],
+            'mtime': datetime.datetime(2021, 10, 6, 10, 45, 32, 755184, tzinfo=tzlocal()),
+            'path': 'Survey.gpkg',
+            'size': 98304},
+           {'checksum': '6ff7cdd07f80e4464a3e84a57c5ffbc75c88ed57',
+            'chunks': ['5ec2af6c-5659-44f2-bce1-a1f29bb261ee'],
+            'mtime': datetime.datetime(2021, 10, 6, 10, 45, 32, 772244, tzinfo=tzlocal()),
+            'path': 'webs.qgz',
+            'size': 6334}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2021-10-06 10:45:33,623 Making a temporary copy (full upload): Survey.gpkg
+2021-10-06 10:45:33,911 got transaction ID 0936598f-a118-431e-8b42-3e8a4d839c5c
+2021-10-06 10:45:33,911 will upload 2 items with total size 104638
+2021-10-06 10:45:33,914 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-ksajd9n7/Survey.gpkg part=0
+2021-10-06 10:45:33,915 Uploading /Users/julianflowers/aru_work/practicals/MOD004089_Week02_PracticalDataset/practical3/webs/webs/webs.qgz part=0
+2021-10-06 10:45:34,055 Upload finished: /Users/julianflowers/aru_work/practicals/MOD004089_Week02_PracticalDataset/practical3/webs/webs/webs.qgz
+2021-10-06 10:45:34,142 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-ksajd9n7/Survey.gpkg
+2021-10-06 10:45:34,203 Finishing transaction 0936598f-a118-431e-8b42-3e8a4d839c5c
+2021-10-06 10:45:34,471 --- push finished - new project version v1

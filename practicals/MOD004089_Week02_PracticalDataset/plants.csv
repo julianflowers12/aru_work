@@ -1,0 +1,377 @@
+﻿PlantID,PlantSP,Genus,Native,Type
+1,Abelia triblora,Abelia,No,Shrub
+2,Abies homolepis,Abies,No,Tree
+3,Acer cappadocicum,Acer,No,Tree
+4,Acer carpinifolium,Acer,No,Shrub
+5,Acer circinatum,Acer,No,Tree
+6,Acer Davidii,Acer,No,Shrub
+7,Acer Davidii spp grosseri,Acer,No,Shrub
+8,Acer floridanum,Acer,No,Tree
+9,Acer griseum,Acer,No,Tree
+10,Acer heldreichii,Acer,No,Shrub
+11,Acer lobellii,Acer,No,Tree
+12,Acer monspessulanum,Acer,No,Tree
+13,Acer obtusatum,Acer,No,Tree
+14,Acer opalus,Acer,No,Tree
+15,Acer saccharium,Acer,No,Tree
+16,Acer sempervirens,Acer,No,Tree
+17,Acer tataricum,Acer,No,Tree
+18,Acer velutinum,Acer,No,Tree
+19,Aesculus flava,Aesculus,No,Tree
+20,Aesculus indica,Aesculus,No,Tree
+21,Aesculus neglecta,Aesculus,No,Tree
+22,Aesculus neglecta 'Erythroblastos',Aesculus,No,Tree
+23,Aesculus pavia,Aesculus,No,Shrub
+24,Aesculus x carnea,Aesculus,No,Tree
+25,Alianthus altissima,Alianthus,No,Tree
+26,Alnus cordata,Alnus,No,Tree
+27,Alnus subcordata,Alnus,No,Tree
+28,Amelanchier florida,Amelanchier,No,Shrub
+29,Arbutus unedo,Arbutus,No,Shrub
+30,Berberis bretschneideri,Berberis,No,Shrub
+31,Berberis crataegina,Berberis,No,Shrub
+32,Berberis francisci-ferdinandi,Berbis,No,Tree
+33,Berberis hakeoides,Berberis,No,Shrub
+34,Berberis jamesiana,Berberis,No,Shrub
+35,Berberis ludlowii var. deleica,Berberis,No,Shrub
+36,Berberis x lologensis,Berberis,No,Shrub
+37,Betula alleghaniensis,Betula,No,Tree
+38,Betula celtiberica,Betula,No,Tree
+39,Betula ermanii,Betula,No,Tree
+40,Betula Hergest,Betula,No,Tree
+41,Betula platyphylla,Betula,No,Tree
+42,Betula szechuaniaca,Betula,No,Tree
+43,Betula szechuanica,Betula,No,Tree
+44,Betula utahensis,Betula,No,Tree
+45,Betula utilis,Betula,No,Tree
+46,Betula utilis var. jacquemontii,Betula,No,Tree
+47,Buddleja x wegeriana 'Golden Glow',Buddleja,No,Shrub
+48,Carpinus caroliniana,Carpinus,No,Shrub
+49,Carpinus orientalis,Carpinus,No,Shrub
+50,Carya cordiformis,Carya,No,Tree
+51,Castanea sativa,Castanea,No,Tree
+52,Catalpa bignonioides,Catalpa,No,Tree
+53,Catalpa erubescens,Catalpa,No,Tree
+54,Catalpa ovata,Catalpa,No,Tree
+55,Catalpa speciosa,Catalpa,No,Tree
+56,Catalpa x erubescens,Catalpa,No,Tree
+57,Cedrus atlantica,Cedrus,No,Tree
+58,Cedrus deodara,Cedrus,No,Tree
+59,Cedrus libani,Cedrus,No,Tree
+60,Celtis occidentalis,Celtis,No,Tree
+61,Cercis siliquastrum,Cercis,No,Tree
+62,Chaenomeles speciosa,Chaenomeles,No,Shrub
+63,Chamaecyparis lawsoniana,Chameacyparis ,No,Tree
+64,Chamaecyparis lawsoniana 'Allumii',Chameacyparis ,No,Tree
+65,Chamaecyparis lawsoniana 'Triomphe de Boskoop',Chameacyparis ,No,Tree
+66,Chimonanthus praecox var praecox,Chimonanthus,No,Shrub
+67,Cornus controversa,Cornus,No,Tree
+68,Cornus 'Norman Hadden',Cornus,No,Shrub
+69,Cornus rugosa,Cornus,No,Shrub
+70,Corylus colurna,Corylus,No,Tree
+71,Corylus maxima,Corylus,No,Shrub
+72,Cotinus coggygria,Cotinus,No,Shrub
+73,Cotinus coggygria x obovatus 'Flame',Cotinus,No,Shrub
+74,Cotoneaster,Cotoneaster,No,Shrub
+75,Cotoneaster acuminatus,Cotoneaster,No,Shrub
+76,Cotoneaster bullatus f. floribundus,Cotoneaster,No,Shrub
+77,Cotoneaster divaricatus,Cotoneaster,No,Shrub
+78,Cotoneaster hebephyllus,Cotoneaster,No,Shrub
+79,Cotoneaster ignotus,Cotoneaster,No,Shrub
+80,Cotoneaster melanocarpus,Cotoneaster,No,Shrub
+81,Cotoneaster pannosus,Cotoneaster,No,Shrub
+82,Cotoneaster rehderi,Cotoneaster,No,Shrub
+83,Cotoneaster tengyeuhensis,Cotoneaster,No,Shrub
+84,Cotoneaster villosulus ,Cotoneaster,No,Shrub
+85,Cotoneaster x watereri,Cotoneaster,No,Shrub
+86,Crataegus atrosanguinea,Crataegus,No,Shrub
+87,Crataegus crus-galli,Crataegus,No,Shrub
+88,Crataegus persimilis,Crataegus,No,Tree
+89,Crataegus pinnatifida var. major,Crataegus,No,Shrub
+90,Crataegus x lavallei ,Crataegus,No,Shrub
+91,Cryptomeria japonica,Cryptomeria,No,Tree
+92,Cupressocyparis leylandii,Cupressocyparis ,No,Tree
+93,Diospyrus lotus,Diospyrus,No,Tree
+94,Distylium racemosum,Distylium,No,Shrub
+95,Elaeagnus angustifolia,Elaeagnus,No,Shrub
+96,Eucommia ulmoides,Eucommia,No,Tree
+97,Euonymus fortunei,Euonymus ,No,Shrub
+98,Fagus orientalis,Fagus,No,Tree
+99,Fraxinus angustifolia ,Fraxinus,No,Tree
+100,Fraxinus angustifolia var australis,Fraxinus,No,Tree
+101,Fraxinus ornus,Fraxinus,No,Tree
+102,Fraxinus pensylvanica,Fraxinus,No,Tree
+103,Fraxinus spaethiana,Fraxinus,No,Shrub
+104,Garrya elliptica,Garrya,No,Shrub
+105,Gleditsia caspica,Gleditsia,No,Tree
+106,Gleditsia sinensis,Gleditsia,No,Tree
+107,Gleditsia triacanthos,Gleditsia,No,Tree
+108,Gymnocladus dioicus,Gymnocladus,No,Tree
+109,Ilex aquifolia,Ilex,No,Shrub
+110,Ilex aquifolium forma balearica,Ilex,No,Shrub
+111,Ilex pernyi,Ilex,No,Shrub
+112,Ilex x altaclerensis,Ilex,No,Shrub
+113,Ilex x altaclerensis 'Hendersonii',Ilex,No,Shrub
+114,Ilex x altaclerensis 'Hodginsii',Ilex,No,Shrub
+115,Juglans,Juglans,No,Tree
+116,Juglans cinerea,Juglans,No,Tree
+117,Juglans elaeopyren,Juglans,No,Tree
+118,Juglans nigra,Juglans,No,Tree
+119,Juglans regia,Juglans,No,Tree
+120,Kolkwitzia amabilis 'Pink Cloud',Kolkwitzia,No,Shrub
+121,Laurus nobilis,Laurus,No,Shrub
+122,Liriodendron tulipifera,Liriodendron,No,Tree
+123,Lonicera insularis,Lonicera,No,Shrub
+124,Lonicera korolkowii,Lonicera,No,Shrub
+125,Lonicera maackii,Lonicera,No,Shrub
+126,Lonicera maackii forma podocarpa,Lonicera,No,Shrub
+127,Lonicera quinquelocularis,Lonicera,No,Shrub
+128,Lonicera quinquelocularis forma translucens,Lonicera,No,Shrub
+129,Lonicera ruprechtiana,Lonicera,No,Shrub
+130,Lonicera tatarica,Lonicera,No,Shrub
+131,Lonicera x muendeniensis,Lonicera,No,Shrub
+132,Magnolia kobus,Magnolia,No,Tree
+133,Malus floribunda,Malus,No,Tree
+134,Malus halliana var spontanea,Malus,No,Tree
+135,Malus niedzwetzkyana,Malus,No,Tree
+136,Malus 'Red Sentinel',Malus,No,Tree
+137,Malus robusta,Malus,No,Tree
+138,Malus sieboldii 'Red Crabs',Malus,No,Shrub
+139,Malus toringoides,Malus,No,Shrub
+140,Malus transitoria,Malus,No,Shrub
+141,Malus tschonoski,Malus,No,Tree
+142,Malus tschonoskii,Malus,No,Tree
+143,Malus x robusta,Malus,No,Tree
+144,Morus alba,Morus,No,Tree
+145,Nothofagus obliqua,Nothofagus,No,Tree
+146,Orixa japonica,Orixa,No,Shrub
+147,Ostrya carpinifolia,Ostrya,No,Tree
+148,Ostrya virginiana,Ostrya,No,Tree
+149,Parrotia persica,Parrotia,No,Shrub
+150,Phellodendron amurense,Phellodendron,No,Tree
+151,Phellodendron japonicum,Phellodendron,No,Tree
+152,Philadelphus caucasicus,Philadelphus,No,Shrub
+153,Philadelphus hirsutus,Philadelphus,No,Shrub
+154,Philadelphus pendulifolius,Philadelphus,No,Shrub
+155,Phillyrea angustifolia,Phillyrea,No,Shrub
+156,Phillyrea latifolia,Phillyrea,No,Shrub
+157,Physocarpus opulifolius,Physocarpus ,No,Shrub
+158,Picrasma quassioides,Picrasma,No,Tree
+159,Pinus contorta,Pinus,No,Tree
+160,Pinus densiflora,Pinus,No,Tree
+161,Pinus nigra spp salzmanni,Pinus,No,Tree
+162,Pinus pinea,Pinus,No,Tree
+163,Platanus orientalis,Platanus,No,Tree
+164,Platanus x acerifolia 'Cantabrigiensis',Platanus,No,Tree
+165,Populus acuminata,Populus,No,Tree
+166,Populus canadensis,Populus,No,Tree
+167,Populus canadensis 'Serotina',Populus,No,Tree
+168,Populus simonii,Populus,No,Tree
+169,Populus simonii 'Fastigiata',Populus,No,Tree
+170,Populus tremuloides,Populus,No,Shrub
+171,Populus x canadensis,Populus,No,Tree
+172,Populus x canadensis 'Eugenei',Populus,No,Tree
+173,Populus x canadensis 'Serotina',Populus,No,Tree
+174,Prunus cerasifera,Prunus,No,Tree
+175,Prunus cerasifera forma cerasifera,Prunus,No,Tree
+176,Prunus cerasifera 'Nigra',Prunus,No,Tree
+177,Prunus cerisifera,Prunus,No,Tree
+178,Prunus dasycarpa,Prunus,No,Tree
+179,Prunus dulcis,Prunus,No,Tree
+180,Prunus incisa 'February Pink',Prunus,No,Shrub
+181,Prunus laureliensis,Prunus,No,Shrub
+182,Prunus laurocerasus,Prunus,No,Shrub
+183,Prunus laurocerasus 'Reynvaanii',Prunus,No,Shrub
+184,Prunus lusitanica,Prunus,No,Shrub
+185,Prunus lusitanica spp azorica,Prunus,No,Shrub
+186,Prunus maackii,Prunus,No,Shrub
+187,Prunus pseudocerasus var. cantabrigiensis,Prunus,No,Shrub
+188,Prunus pseudocerasus var. pseudocerasus,Prunus,No,Shrub
+189,Prunus sargentii,Prunus,No,Tree
+190,Prunus 'Shogetsu',Prunus,No,Shrub
+191,Prunus virginiana var demissa,Prunus,No,Shrub
+192,Prunus x dasycarpa,Prunus,No,Shrub
+193,Prunus x hillieri ‘Spire’,Prunus,No,Tree
+194,Prunus x incam,Prunus,No,Shrub
+195,Prunus x incam 'okame',Prunus,No,Shrub
+196,Prunus x yedoensis,Prunus,No,Tree
+197,Pseudosasa japonica,Pseudosasa,No,Other
+198,Pterocarya fraxinifolia,Pterocarya,No,Tree
+199,Pyrus amygdaliformis,Pyrus,No,Tree
+200,Quercus agrifolia,Quercus,No,Shrub
+201,Quercus canariensis,Quercus,No,Tree
+202,Quercus castaneifolia,Quercus,No,Tree
+203,Quercus cerris,Quercus,No,Tree
+204,Quercus coccifera,Quercus,No,Shrub
+205,Quercus faginea,Quercus,No,Tree
+206,Quercus frainetto,Quercus,No,Tree
+207,Quercus ilex,Quercus,No,Tree
+208,Quercus suber,Quercus,No,Tree
+209,Quercus trojana,Quercus,No,Tree
+210,Quercus x hispanica,Quercus,No,Tree
+211,Quercus x warburgii,Quercus,No,Tree
+212,Rhamnus alaternus 'Argentovariegata',Rhamnus,No,Shrub
+213,Rhamnus imeretinus,Rhamnus,No,Shrub
+214,Rhus potaninii,Rhus,No,Tree
+215,Ribes sanguineum,Ribes,No,Shrub
+216,Ribes x innominatum,Ribes,No,Shrub
+217,Robinia pseudoacacia,Robinia,No,Tree
+218,Robinia pseudoacacia 'Decaisneana',Robinia,No,Tree
+219,Rosa 'Golden Wings',Rosa,No,Shrub
+220,Rosa sericea var pteracantha,Rosa,No,Shrub
+221,Rosa sweginzowii,Rosa,No,Shrub
+222,Rosa woodsii,Rosa,No,Shrub
+223,Rosa xanthina,Rosa,No,Shrub
+224,Salix exigua,Salix,No,Shrub
+225,Salix x chrysocoma,Salix,No,Tree
+226,Salix x sepulcralis var chyrosocoma,Salix,No,Tree
+227,Salix x sepulcralis var chyrosocoma 'Glauca',Salix,No,Tree
+228,Sinojackia rehderiana,Sinojackia,No,Shrub
+229,Sophora japonica,Sophora,No,Tree
+230,Sophora microphylla,Sophora,No,Shrub
+231,Sorbus americana,Sorbus,No,Tree
+232,Sorbus cashmiriana,Sorbus,No,Shrub
+233,Sorbus decora,Sorbus,No,Shrub
+234,Sorbus domesticus,Sorbus,No,Tree
+235,Sorbus umbellata,Sorbus,No,Shrub
+236,Syringa 'General Pershing',Syringa,No,Shrub
+237,Syringa reflexa,Syringa,No,Shrub
+238,Thuja plicata,Thuja,No,Tree
+239,Tilia americana,Tilia,No,Tree
+240,Tilia cordata x dasystyla,Tilia,No,Shrub
+241,Tilia dasystyla spp caucasica ,Tilia,No,Tree
+242,Tilia henryana,Tilia,No,Shrub
+243,Tilia tomentosa,Tilia,No,Tree
+244,Tilia x euchlora,Tilia,No,Tree
+245,Torreya californica,Torreya,No,Tree
+246,Umbellularia californica,Umbellularia ,No,Tree
+247,Viburnum 'Chenaultii',Virburnum,No,Shrub
+248,Viburnum cylindricum,Viburnum,No,Shrub
+249,Viburnum dentatum,Viburnum,No,Shrub
+250,Viburnum farreri,Viburnum,No,Shrub
+251,Viburnum foetens,Viburnum,No,Shrub
+252,Viburnum hupehense,Viburnum,No,Shrub
+253,Viburnum lentago,Viburnum,No,Shrub
+254,Viburnum tinus,Virburnum,No,Shrub
+255,Viburnum x bodnantense,Virburnum,No,Shrub
+256,Wisteria Sp,Wisteria,No,Tree
+257,Zelkova carpinifolia,Zelkova,No,Tree
+258,Zelkova serrata,Zelkova,No,Tree
+259,Acer,Acer,Yes,Tree
+260,Acer campestre,Acer,Yes,Tree
+261,Acer platanoides,Acer,Yes,Tree
+262,Acer platanoides 'Goldsworth Purple',Acer,Yes,Tree
+263,Acer pseudoplatanus,Acer,Yes,Tree
+264,Acer pseudoplatanus 'purpureum',Acer,Yes,Tree
+265,Aesculus hippocastanum,Aesculus,Yes,Tree
+266,Alnus glutinosa,Alnus,Yes,Tree
+267,Anthriscus sylvestris,Anthriscus,Yes,Other
+268,Betula,Betula,Yes,Tree
+269,Betula  pendula,Betula,Yes,Tree
+270,Betula  pubescens,Betula,Yes,Tree
+271,Betula coerulea-grandis,Betula,Yes,Tree
+272,Betula intermedia,Betula,Yes,Tree
+273,Betula papyrifera,Betula,Yes,Tree
+274,Betula pendula,Betula,Yes,Tree
+275,Betula Pendula 'Dalecarica',Betula,Yes,Tree
+276,Betula pubescens,Betula,Yes,Tree
+277,Betula pubescens ssp. tortuosa,Betula,Yes,Shrub
+278,Buxus sempervirens,Buxus,Yes,Tree
+279,Carpinus betulus,Carpinus,Yes,Tree
+280,Carpinus betulus 'Quercifolia',Carpinus,Yes,Tree
+281,Cornus mas,Cornus,Yes,Shrub
+282,Cornus mas 'Variegata',Cornus,Yes,Shrub
+283,Cornus sanguinea  ,Cornus,Yes,Shrub
+284,Corylus avellana,Corylus,Yes,Tree
+285,Crataegus,Crataegus,Yes,Other
+286,Crataegus hedge,Crataegus,Yes,Other
+287,Crataegus laevigata,Crataegus,Yes,Tree
+288,Crataegus laevigata 'Punicea',Crataegus,Yes,Shrub
+289,Crataegus monogyna,Crataegus,Yes,Shrub
+290,Crataegus monogyna ssp. Nordica,Crataegus,Yes,Tree
+291,Crataegus prunifolia,Crataegus,Yes,Shrub
+292,Cydonia oblonga,Cydonia,Yes,Shrub
+293,Fagus,Fagus,Yes,Tree
+294,Fagus sylvatica,Fagus,Yes,Tree
+295,Fagus sylvatica 'Dawyck',Fagus,Yes,Tree
+296,Fagus sylvatica forma pupurea,Fagus,Yes,Tree
+297,Fraxinus excelsior,Fraxinus,Yes,Tree
+298,Fraxinus excelsior 'Pendula',Fraxinus,Yes,Tree
+299,Hedera helix,Hedera,Yes,Other
+300,Ilex altaclarensis,Ilex,Yes,Shrub
+301,Ilex aquifolium,Ilex,Yes,Shrub
+302,Ilex aquifolium 'Crispa',Ilex,Yes,Shrub
+303,Ilex aquifolium 'ferox',Ilex,Yes,Shrub
+304,Juniperus communis,Juniperus,Yes,Shrub
+305,Larix decidua,Larix,Yes,Tree
+306,Ligustrum vulgare,Ligustrum,Yes,Shrub
+307,Lonicera caerulea var glabrescens,Lonicera,Yes,Shrub
+308,Malus (Newton's apple),Malus,Yes,Tree
+309,Malus domestica,Malus,Yes,Tree
+310,Malus domestica 'flower of kent',Malus,Yes,Tree
+311,Malus domestica x malus sylvestris,Malus,Yes,Shrub
+312,Malus sylvestris,Malus,Yes,Tree
+313,Phragmites,Phragmites,Yes,Other
+314,Pinus nigra,Pinus,Yes,Tree
+315,Pinus sylvestris,Pinus,Yes,Tree
+316,Populus alba,Populus,Yes,Tree
+317,Populus nigra,Populus,Yes,Tree
+318,Populus nigra 'gigantea',Populus,Yes,Tree
+319,Populus nigra spp betulifolia,Populus,Yes,Tree
+320,Populus nigra spp betulifolia var. Viridis,Populus,Yes,Tree
+321,Populus tremula,Populus,Yes,Tree
+322,Populus tremula 'Pendula',Populus,Yes,Shrub
+323,Populus x canescens,Populus,Yes,Tree
+324,Prunus avium,Prunus,Yes,Tree
+325,Prunus avium 'Gean',Prunus,Yes,Shrub
+326,Prunus avium 'Plena',Prunus,Yes,Tree
+327,Prunus cornuta,Prunus,Yes,Shrub
+328,Prunus domestica,Prunus,Yes,Tree
+329,Prunus mahaleb,Prunus,Yes,Tree
+330,Prunus padus,Prunus,Yes,Tree
+331,Prunus spinosa,Prunus,Yes,Shrub
+332,Pyrus communis,Pyrus,Yes,Tree
+333,Pyrus cordata,Pyrus,Yes,Tree
+334,Quercus,Quercus,Yes,Tree
+335,Quercus petraea,Quercus,Yes,Tree
+336,Quercus pubescens,Quercus,Yes,Tree
+337,Quercus robur,Quercus,Yes,Tree
+338,Quercus robur 'Fastigiata',Quercus,Yes,Tree
+339,Quercus rosacea,Quercus,Yes,Tree
+341,Quercus warburgii,Quercus,Yes,Tree
+342,Rhamnus cathartica,Rhamnus,Yes,Shrub
+343,Ribes alpinum 'pumilium',Ribes,Yes,Shrub
+344,Rosa canina,Rosa,Yes,Shrub
+345,Rubus fruticosus ,Rubus,Yes,Shrub
+346,Salix alba,Salix,Yes,Tree
+347,Salix x fruticosa,Salix,Yes,Tree
+348,Salix x sepulcralis,Salix,Yes,Tree
+349,Salix x supulcralis,Salix,Yes,Tree
+350,Sambucus nigra ,Sambucus,Yes,Shrub
+351,Sorbus,Sorbus,Yes,Shrub
+352,Sorbus anglica,Sorbus,Yes,Tree
+353,Sorbus aria,Sorbus,Yes,Shrub
+354,Sorbus aucuparia,Sorbus,Yes,Shrub
+355,Sorbus bristeniensis,Sorbus,Yes,Tree
+356,Sorbus bristoliensis,Sorbus,Yes,Tree
+357,Sorbus croceocarpa,Sorbus,Yes,Tree
+358,Sorbus decipiens,Sorbus,Yes,Tree
+359,Sorbus devoniensis,Sorbus,Yes,Tree
+360,Sorbus hibernica,Sorbus,Yes,Tree
+361,Sorbus intermedia,Sorbus,Yes,Tree
+362,Sorbus leyana,Sorbus,Yes,Tree
+363,Sorbus pseudofennica,Sorbus,Yes,Tree
+364,Sorbus rupicola,Sorbus,Yes,Tree
+365,Sorbus torminalis,Sorbus,Yes,Tree
+366,Taxus baccata,Taxus,Yes,Tree
+367,Tilia,Tilia,Yes,Tree
+368,Tilia cordata,Tilia,Yes,Tree
+369,Tilia euchlora,Tilia,Yes,Tree
+370,Tilia europea,Tilia,Yes,Tree
+371,Tilia platyphyllos,Tilia,Yes,Tree
+372,Tilia x europaea,Tilia,Yes,Tree
+373,Ulmus,Ulmus,Yes,Tree
+374,Ulmus hollandica,Ulmus,Yes,Tree
+375,Ulmus hollandica 'Vegeta',Ulmus,Yes,Tree
+376,Viburnum opulus,Viburnum,Yes,Shrub
+377,Viscum album,Viscum,Yes,Shrub

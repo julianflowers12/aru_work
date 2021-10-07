@@ -1,0 +1,177 @@
+2021-10-06 10:49:48,241 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 10:49:48,242 --- start push jflowers/mill-road-cemetry
+2021-10-06 10:49:48,368 got project info: local version v0 / server version v0
+2021-10-06 10:49:48,371 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 10:49:48,375 checkpoint - return value: (0, 1, 1)
+2021-10-06 10:49:48,381 checkpoint - new size 98304 checksum 4e6066e0e063b294543153c600b55d42460a84b7
+2021-10-06 10:49:48,382 push changes:
+{'added': [{'checksum': '4e6066e0e063b294543153c600b55d42460a84b7',
+            'chunks': ['08a616cb-8c25-4222-bcdb-54964861893f'],
+            'mtime': datetime.datetime(2021, 10, 6, 10, 49, 47, 547204, tzinfo=tzlocal()),
+            'path': 'mill-road.gpkg',
+            'size': 98304},
+           {'checksum': '649833a1c9a863f22c239450904adb08bac2e96e',
+            'chunks': ['5d4b6c4c-df1b-4b2f-af2e-0a1473efe13a'],
+            'mtime': datetime.datetime(2021, 10, 6, 10, 49, 47, 564109, tzinfo=tzlocal()),
+            'path': 'mill-road-cemetry.qgz',
+            'size': 5524}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2021-10-06 10:49:48,383 Making a temporary copy (full upload): mill-road.gpkg
+2021-10-06 10:49:48,650 got transaction ID 2100524c-2765-430c-9dd7-687292f691b8
+2021-10-06 10:49:48,651 will upload 2 items with total size 103828
+2021-10-06 10:49:48,653 Uploading /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz part=0
+2021-10-06 10:49:48,653 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-1oiha676/mill-road.gpkg part=0
+2021-10-06 10:49:48,813 Upload finished: /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz
+2021-10-06 10:49:48,894 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-1oiha676/mill-road.gpkg
+2021-10-06 10:49:48,969 Finishing transaction 2100524c-2765-430c-9dd7-687292f691b8
+2021-10-06 10:49:49,236 --- push finished - new project version v1
+2021-10-06 10:50:30,931 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 10:50:30,936 checkpoint - return value: (0, 24, 24)
+2021-10-06 10:50:30,942 checkpoint - new size 98304 checksum 124144f32c8aceb0bf348c2c2c19756669c4adac
+2021-10-06 10:50:35,932 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 10:50:35,936 checkpoint - return value: (0, 24, 24)
+2021-10-06 10:50:35,943 checkpoint - new size 98304 checksum f8ecd2d96ebe907c5d5a353e2a98cfc522bd5f41
+2021-10-06 10:50:52,186 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 10:50:52,191 checkpoint - return value: (0, 24, 24)
+2021-10-06 10:50:52,196 checkpoint - new size 98304 checksum 96fb2b90880141b3f6c4dd1514bf256d9cd4af9c
+2021-10-06 12:29:49,148 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 12:29:49,151 checkpoint - return value: (0, 24, 24)
+2021-10-06 12:29:49,156 checkpoint - new size 98304 checksum a28907ddc55e748eaa362246a4d3e05057df7725
+2021-10-06 12:29:49,429 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 12:29:49,430 --- start pull jflowers/mill-road-cemetry
+2021-10-06 12:29:49,588 got project info: local version v1 / server version v1
+2021-10-06 12:29:49,589 --- pull - nothing to do (already at server version)
+2021-10-06 12:29:49,991 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 12:29:49,991 --- start push jflowers/mill-road-cemetry
+2021-10-06 12:29:50,109 got project info: local version v1 / server version v1
+2021-10-06 12:29:50,112 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 12:29:50,116 checkpoint - return value: (0, 24, 24)
+2021-10-06 12:29:50,122 checkpoint - new size 98304 checksum 2cd4556418ed2defe7e89c16b7227762b84a4383
+2021-10-06 12:29:50,129 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '1134e0b1db4328413308c2c6e2229124c77c4abb',
+              'chunks': ['a2c6766b-105c-4e48-b0c6-e10b29d3f0c1'],
+              'mtime': datetime.datetime(2021, 10, 6, 12, 29, 49, 9684, tzinfo=tzlocal()),
+              'origin_checksum': '649833a1c9a863f22c239450904adb08bac2e96e',
+              'path': 'mill-road-cemetry.qgz',
+              'size': 6311}]}
+2021-10-06 12:29:50,397 got transaction ID d324fb70-71d5-4470-90b1-3c6d07426738
+2021-10-06 12:29:50,398 will upload 1 items with total size 6311
+2021-10-06 12:29:50,401 Uploading /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz part=0
+2021-10-06 12:29:50,572 Upload finished: /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz
+2021-10-06 12:29:50,593 Finishing transaction d324fb70-71d5-4470-90b1-3c6d07426738
+2021-10-06 12:29:50,842 --- push finished - new project version v2
+2021-10-06 12:31:42,958 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 12:31:42,963 checkpoint - return value: (0, 24, 24)
+2021-10-06 12:31:42,968 checkpoint - new size 98304 checksum 31ceb8f58291ef521960e2e7f70541c8aa15fa58
+2021-10-06 12:31:43,240 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 12:31:43,240 --- start pull jflowers/mill-road-cemetry
+2021-10-06 12:31:43,374 got project info: local version v2 / server version v2
+2021-10-06 12:31:43,374 --- pull - nothing to do (already at server version)
+2021-10-06 12:31:43,768 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 12:31:43,768 --- start push jflowers/mill-road-cemetry
+2021-10-06 12:31:43,915 got project info: local version v2 / server version v2
+2021-10-06 12:31:43,917 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 12:31:43,921 checkpoint - return value: (0, 24, 24)
+2021-10-06 12:31:43,927 checkpoint - new size 98304 checksum 22adafe8b253a7de60ef4aba4f51431ee2fe02b5
+2021-10-06 12:31:43,935 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '5760df66203fb0d78f714d2ae29750d72c6adcb6',
+              'chunks': ['f01717bf-6006-43da-ace8-e9db4b1678f6'],
+              'mtime': datetime.datetime(2021, 10, 6, 12, 31, 32, 122541, tzinfo=tzlocal()),
+              'origin_checksum': '1134e0b1db4328413308c2c6e2229124c77c4abb',
+              'path': 'mill-road-cemetry.qgz',
+              'size': 6281}]}
+2021-10-06 12:31:44,220 got transaction ID 12873ed2-20d5-4ddd-88e9-f3f2aaac51d9
+2021-10-06 12:31:44,220 will upload 1 items with total size 6281
+2021-10-06 12:31:44,221 Uploading /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz part=0
+2021-10-06 12:31:44,400 Upload finished: /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz
+2021-10-06 12:31:44,434 Finishing transaction 12873ed2-20d5-4ddd-88e9-f3f2aaac51d9
+2021-10-06 12:31:44,667 --- push finished - new project version v3
+2021-10-06 13:05:39,085 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:05:39,089 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:05:39,095 checkpoint - new size 98304 checksum 62c823ec436299735f7cc2ddd8baf138b6b10848
+2021-10-06 13:05:55,608 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:05:55,612 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:05:55,618 checkpoint - new size 98304 checksum 25f03382a07516bb1539f5f9703d305b334223b6
+2021-10-06 13:05:55,891 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 13:05:55,891 --- start pull jflowers/mill-road-cemetry
+2021-10-06 13:05:56,067 got project info: local version v3 / server version v4
+2021-10-06 13:05:56,072 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '772f035e80c7eade189bd57dfab0c8ea43e7c258',
+              'diff': {'checksum': 'e2aab24f24f5339656a9c3307a10bf48587862ce',
+                       'path': 'mill-road.gpkg-diff-37158155-9b01-4a13-a314-38ac48210a58',
+                       'size': 631},
+              'diffs': ['mill-road.gpkg-diff-37158155-9b01-4a13-a314-38ac48210a58'],
+              'history': {'v4': {'change': 'updated',
+                                 'checksum': '772f035e80c7eade189bd57dfab0c8ea43e7c258',
+                                 'diff': {'checksum': 'e2aab24f24f5339656a9c3307a10bf48587862ce',
+                                          'path': 'mill-road.gpkg-diff-37158155-9b01-4a13-a314-38ac48210a58',
+                                          'size': 631},
+                                 'mtime': '2021-10-06T12:05:51.193606Z',
+                                 'path': 'mill-road.gpkg',
+                                 'size': 98304}},
+              'mtime': '2021-10-06T12:05:51.193606Z',
+              'origin_checksum': '85c6e53b33b94c30b3d844d5a29c1b4e2e88340b',
+              'path': 'mill-road.gpkg',
+              'size': 98304}]}
+2021-10-06 13:05:56,073 will download 1 chunks, total size 631
+2021-10-06 13:05:56,074 Downloading mill-road.gpkg version=v4 diff=True part=0
+2021-10-06 13:05:56,215 Download finished: mill-road.gpkg
+2021-10-06 13:05:56,286 finalizing pull
+2021-10-06 13:05:56,304 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:05:56,306 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:05:56,311 checkpoint - new size 98304 checksum be5a10988ef0cb8e9f5a353a9468cf124c81ac03
+2021-10-06 13:05:56,317 updating file without rebase: mill-road.gpkg
+2021-10-06 13:05:56,330 update successful
+2021-10-06 13:05:56,330 --- pull finished -- at version v4
+2021-10-06 13:05:56,599 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 13:05:56,599 --- start push jflowers/mill-road-cemetry
+2021-10-06 13:05:56,756 got project info: local version v4 / server version v4
+2021-10-06 13:05:56,758 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:05:56,761 checkpoint - return value: (0, 29, 29)
+2021-10-06 13:05:56,767 checkpoint - new size 98304 checksum fafba7844a20ba8542737a983f0113a9947bc8d7
+2021-10-06 13:05:56,775 push changes:
+{'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2021-10-06 13:05:56,965 --- push jflowers/mill-road-cemetry - nothing to do
+2021-10-06 13:16:21,012 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:16:21,018 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:16:21,024 checkpoint - new size 98304 checksum eb45e941ca60f737476f7183334feb537ab3a730
+2021-10-06 13:16:21,296 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 13:16:21,296 --- start pull jflowers/mill-road-cemetry
+2021-10-06 13:16:21,424 got project info: local version v4 / server version v4
+2021-10-06 13:16:21,424 --- pull - nothing to do (already at server version)
+2021-10-06 13:16:21,827 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.16.11 (Darwin/12.0)
+2021-10-06 13:16:21,828 --- start push jflowers/mill-road-cemetry
+2021-10-06 13:16:21,954 got project info: local version v4 / server version v4
+2021-10-06 13:16:21,956 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:16:21,960 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:16:21,966 checkpoint - new size 98304 checksum 8931b11f0cfee7cfd9544e6e540c60260b7bfa83
+2021-10-06 13:16:21,974 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'd359f9e7a3db70b9abc317d79197c0f9fda97a11',
+              'chunks': ['ecb9e539-ff18-4eb6-a4cc-5473d703ff91'],
+              'mtime': datetime.datetime(2021, 10, 6, 13, 16, 16, 878131, tzinfo=tzlocal()),
+              'origin_checksum': '5760df66203fb0d78f714d2ae29750d72c6adcb6',
+              'path': 'mill-road-cemetry.qgz',
+              'size': 9819}]}
+2021-10-06 13:16:22,283 got transaction ID 8b94d1ef-6583-48fa-82f7-332d6940ce15
+2021-10-06 13:16:22,283 will upload 1 items with total size 9819
+2021-10-06 13:16:22,285 Uploading /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz part=0
+2021-10-06 13:16:22,441 Upload finished: /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road-cemetry.qgz
+2021-10-06 13:16:22,500 Finishing transaction 8b94d1ef-6583-48fa-82f7-332d6940ce15
+2021-10-06 13:16:22,725 --- push finished - new project version v5
+2021-10-06 13:17:36,506 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/mill-road/mill-road-cemetry/mill-road.gpkg
+2021-10-06 13:17:36,510 checkpoint - return value: (0, 24, 24)
+2021-10-06 13:17:36,516 checkpoint - new size 98304 checksum 8442fcf93925342c989a4ca4eeaaa1244b29e519
