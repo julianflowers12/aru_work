@@ -1,13 +1,7 @@
 ## Carbon footprint data from carbon.place
-
+library(pacman)
+p_load(caret, dbscan, rsample, factoextra, FactoMineR, umap, Rtsne, missMDA)
 library(data.table)
-library(caret)
-library(tidyverse)
-library(rsample)
-library(factoextra)
-library(FactoMineR)
-library(umap)
-library(dbscan)
 
 
 temp <- tempfile()
@@ -15,20 +9,26 @@ temp1 <- tempdir()
 
 download.file("https://github.com/creds2/CarbonCalculator/releases/download/1.0/PBCC_LSOA_data.zip", destfile = temp)
 
-unzip(temp, exdir = here::here("data"))
+str(temp)
 
-files <- list.files(here::here("data"), pattern = "csv")
+unzip(temp, exdir = here::here("temp1"))
+
+files <- list.files(temp1, pattern = "*.*")
 
 data <- fread(paste0(here::here("data"), "/", files[4]))
+
+data
 
 ## pca
 ### numeric only
 
-num_data <- data %>%
-  select_if(is.numeric)
+num_data <- data %>% select_if(is.numeric)
 
 num_data %>%
-  map_dbl(., ~sum(is.na(.x)))
+  map_dbl(., ~sum(is.na(.x))) 
+  
+  
+  %>%
   summarise(across, ~(is.na(.x)))
 
 num_data_no_gas <- num_data %>%
