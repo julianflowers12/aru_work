@@ -1,0 +1,22 @@
+---
+title: "test-bib1"
+author: "Julian Flowers"
+date: "27/09/2021"
+output: html_document
+bibliography: references.bib
+csl: harvard-cite-them-right.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+
+@digimap; @ecology
+
+@ukbiodi
+
+[@Andersen2014; @Clarke2015a]
+
+## Bibliography

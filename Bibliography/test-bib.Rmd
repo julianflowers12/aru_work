@@ -1,0 +1,11 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+editor_options:
+  chunk_output_type: inline
+bibliography: references.bib  
+---
+
+[@Stewart2012; @Spitzer2009; @Willis2012]

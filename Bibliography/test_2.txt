@@ -1,0 +1,609 @@
+text
+"                                         Invasive predators and global biodiversity loss
+                                         Tim S. Dohertya,b,1, Alistair S. Glenc, Dale G. Nimmod, Euan G. Ritchiea, and Chris R. Dickmane
+                                         a
+                                          Centre for Integrative Ecology, School of Life and Environmental Sciences, Deakin University, Geelong, VIC 3216, Australia; bCentre for Ecosystem
+                                         Management, School of Natural Sciences, Edith Cowan University, Joondalup, WA 6027, Australia; cLandcare Research, Auckland 1072, New Zealand;
+                                         d
+                                           Institute for Land, Water and Society, School of Environmental Science, Charles Sturt University, Albury, NSW 2640, Australia; and eDesert Ecology
+                                         Research Group, School of Life and Environmental Sciences, University of Sydney, Sydney, NSW 2006, Australia
+
+                                         Edited by Daniel S. Simberloff, The University of Tennessee, Knoxville, TN, and approved July 20, 2016 (received for review February 12, 2016)
+
+                                         Invasive species threaten biodiversity globally, and invasive mam-             include three canids, seven mustelids, five rodents, two procyo-
+                                         malian predators are particularly damaging, having contributed to              nids, three viverrids, two primates, two marsupials, two mon-
+                                         considerable species decline and extinction. We provide a global               gooses, and single representatives from four other families, with
+                                         metaanalysis of these impacts and reveal their full extent. Invasive           60% from the order Carnivora (Table S1). The 738 impacted
+                                         predators are implicated in 87 bird, 45 mammal, and 10 reptile                 species consist of 400 bird species from 78 families, 189 mammal
+                                         species extinctions—58% of these groups’ contemporary extinc-                  species from 45 families, and 149 reptile species from 26 families
+                                         tions worldwide. These figures are likely underestimated because               (Dataset S1). Invasive mammalian predators emerge as causal
+                                         23 critically endangered species that we assessed are classed as               factors in the extinction of 87 bird, 45 mammal, and 10 reptile
+                                         “possibly extinct.” Invasive mammalian predators endanger a fur-               species, which equates to 58% of modern bird, mammal, and reptile
+                                         ther 596 species at risk of extinction, with cats, rodents, dogs,              species extinctions globally (including those species classed as “ex-
+                                         and pigs threatening the most species overall. Species most at risk            tinct in the wild”). Invasive predators also threaten 596 species
+                                         from predators have high evolutionary distinctiveness and inhabit              classed as “vulnerable” (217 species), “endangered” (223), or “criti-
+                                         insular environments. Invasive mammalian predators are therefore               cally endangered” (156), of which 23 are classed as “possibly extinct.”
+                                         important drivers of irreversible loss of phylogenetic diversity                  To assess the comparative severity of predator impacts, we
+                                         worldwide. That most impacted species are insular indicates that               assigned each of 1,439 predator-threatened species cases a value
+                                         management of invasive predators on islands should be a global                 of either 0.25 (secondary cause of species decline), 0.75 (primary
+                                         conservation priority. Understanding and mitigating the impact of              cause of species decline), or 1.0 (species extinction attributed to
+                                         invasive mammalian predators is essential for reducing the rate of             the predator), and we weighted these values by the strength of
+                                         global biodiversity loss.                                                      evidence available, drawing on a total of 996 supporting references
+                                                                                                                        (Methods). The severity of predator impacts and the strength of
+                                         extinction   | feral cat | island | invasive mammal | trophic cascade          evidence supporting them [the inverse of the width of confidence
+                                                                                                                        intervals (CIs)] was higher for bird and mammal species compared
+
+
+
+
+                                                                                                                                                                                                                       ECOLOGY
+                                         I nvasive mammalian predators (“invasive predators” hereafter)
+                                           are arguably the most damaging group of alien animal species
+                                         for global biodiversity (1–3). Species such as cats (Felis catus),
+                                                                                                                        with reptile species (Fig. 1).
+                                                                                                                           Rodents are linked to the extinction of 75 species (52 bird, 21
+                                                                                                                        mammal, and 2 reptile species; 30% of all extinctions) and cats
+                                         rats (Rattus rattus), mongoose (Herpestes auropunctatus), and                  to 63 extinctions (40, 21, and 2 species, respectively; 26%)
+                                         stoats (Mustela erminea) threaten biodiversity through predation               whereas red foxes, dogs (Canis familiaris), pigs (Sus scrofa), and
+                                         (4, 5), competition (6), disease transmission (7), and facilitation            small Indian mongoose (H. auropunctatus) are implicated in 9–11
+                                         with other invasive species (8). The decline and extinction of                 extinctions each (Fig. 2). For all threatened and extinct species
+                                         native species due to invasive predators can have impacts that                 combined, cats and rodents threaten similar numbers of species
+                                         cascade throughout entire ecosystems (9). For example, pre-                    (430 and 420 species, respectively), followed by dogs (156 spe-
+                                         dation by feral cats and red foxes (Vulpes vulpes) has led to the              cies), pigs (140 species), mongoose (83 species), red foxes (48
+                                         decline or extinction of two thirds of Australia’s digging mammal              species), stoats (30 species) (Fig. 2), and the remaining predators
+                                         species over the past 200 y (10, 11). Reduced disturbance to
+                                         topsoil in the absence of digging mammals has led to impoverished                  Significance
+                                         landscapes where little organic matter accumulates and rates of
+                                         seed germination are low (10). In the Aleutian archipelago, pre-
+                                                                                                                            Invasive mammalian predators are arguably the most damag-
+                                         dation of seabirds by introduced Arctic foxes (Alopex lagopus) has
+                                                                                                                            ing group of alien animal species for global biodiversity. Thirty
+                                         lowered nutrient input and soil fertility, ultimately causing vege-
+                                                                                                                            species of invasive predator are implicated in the extinction or
+                                         tation to transform from grasslands to dwarf shrub/forb-dominated
+                                                                                                                            endangerment of 738 vertebrate species—collectively contrib-
+                                         systems (12).                                                                      uting to 58% of all bird, mammal, and reptile extinctions. Cats,
+                                            Mitigating the negative impacts of invasive mammalian pred-                     rodents, dogs, and pigs have the most pervasive impacts, and
+                                         ators is a primary goal of conservation agencies worldwide (1, 13,                 endemic island faunas are most vulnerable to invasive preda-
+                                         14). Regardless, there remains no global synthesis of the role of                  tors. That most impacted species are insular indicates that
+                                         invasive predators in species declines and extinctions (but see                    management of invasive predators on islands should be a
+                                         refs. 3 and 15). Here, we quantify the number of bird, mammal,                     global conservation priority. Understanding and mitigating the
+                                         and reptile species threatened by, or thought to have become                       impact of invasive mammalian predators is essential for re-
+                                         extinct (since AD 1500) due to, invasive mammalian predators.                      ducing the rate of global biodiversity loss.
+                                         We use metaanalysis to examine taxonomic and geographic
+                                         trends in these impacts and show how the severity of predator                  Author contributions: T.S.D., A.S.G., D.G.N., E.G.R., and C.R.D. designed research; T.S.D.
+                                         impacts varies according to species endemicity and evolutionary                and A.S.G. performed research; T.S.D. analyzed data; and T.S.D., A.S.G., D.G.N., E.G.R., and
+                                         distinctiveness.                                                               C.R.D. wrote the paper.
+                                                                                                                        The authors declare no conflict of interest.
+                                         Results and Discussion                                                         This article is a PNAS Direct Submission.
+                                         In total, 596 threatened and 142 extinct species (total 738) have              1
+                                                                                                                         To whom correspondence should be addressed. Email: tim.doherty.0@gmail.com.
+Downloaded by guest on October 5, 2021
+
+
+
+
+                                         suffered negative impacts from 30 species of invasive mammalian                This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+                                         predators from 13 families and eight orders. These species                     1073/pnas.1602480113/-/DCSupplemental.
+
+
+
+                                         www.pnas.org/cgi/doi/10.1073/pnas.1602480113                                                    PNAS | October 4, 2016 | vol. 113 | no. 40 | 11261–11265
+
+                                                                            Birds                                                  Mammals                           Reptiles                  (χ2 = 117.29, P < 0.001; birds 90%, mammals 55%, reptiles
+                                                           1.00                                                                                                                                91%). Insular endemic reptile species were more negatively af-
+                                         Model-estimated
+
+
+
+                                                           0.75                                                                                                                                fected by invasive mammalian predators than continental species,
+                                                                                                                                                                                               whereas mammal and bird species experienced similar impacts
+                                             impact
+
+
+
+                                                           0.50                                                                                                                                between the two groups (Fig. 1). If Australia is reclassified as an
+                                                           0.25                                                                                                                                island, insular endemic mammals experience more severe predator
+                                                                                                                                                                                               impacts than continental species (Fig. S1). We sourced evolu-
+                                                           0.00
+                                                                                                                                                                                               tionary distinctiveness scores from published databases (Methods)
+                                                                    tal         ula
+                                                                                    r
+                                                                                            nta
+                                                                                                l                            tal         ula
+                                                                                                                                             r
+                                                                                                                                                     nta
+                                                                                                                                                         l     tal         ula
+                                                                                                                                                                               r
+                                                                                                                                                                                       nta
+                                                                                                                                                                                           l
+                                                                  To      Ins            ne                          To            Ins            ne         To      Ins            ne         to show that species negatively affected by invasive predators were
+                                                                                     nti                                                      nti                               nti
+                                                                                 C o                                                      C o                               C o                more evolutionarily distinct than “nonimpacted” species for both
+                                                                                                                                                                                               bird (t = 3.32, P = 0.001) and mammal species (t = 3.31, P = 0.001)
+                                         Fig. 1. Model-estimated severity of impact of invasive predators on birds,
+                                         mammals, and reptiles for all species combined (Total), insular endemics
+                                                                                                                                                                                               (Fig. S2).
+                                         (Insular), and species found on continents (Continental). Error bars are 90%                                                                             Although it is often stated that invasive predators have con-
+                                         confidence intervals. Model estimates and confidence intervals are weighted                                                                           tributed to many modern extinctions (1, 2, 11, 17), our findings
+                                         by the strength of evidence available. See Table S5 for model estimates.                                                                              reveal the magnitude and pervasiveness of their impacts and link
+                                                                                                                                                                                               them to the majority (58%) of modern bird, mammal, and reptile
+                                                                                                                                                                                               species extinctions. This figure is likely an underestimate because
+                                         (range 1–14 species). The lower number of species impacted by                                                                                         23 critically endangered species negatively affected by invasive
+                                         some predators, such as red foxes and stoats, reflects the limited                                                                                    predators are currently classed as possibly extinct. Evolutionarily
+                                         number of locations in which these predators have established                                                                                         distinct species are most affected, meaning that invasive preda-
+                                         alien populations (16). The frequency of impacted species in each                                                                                     tors are drivers of irreversible loss of global phylogenetic di-
+                                         taxonomic class differed among predators (χ2 = 112.27, P <                                                                                            versity, affecting both mainland and island-endemic species.
+                                         0.001). Cats, rodents, and stoats threaten more bird than mammal                                                                                         Introduced rodents and cats are major agents of extinction,
+                                         or reptile species whereas red foxes threaten more mammal                                                                                             collectively being listed as causal factors in 44% of modern bird,
+                                         species (Fig. 2). Dogs threaten fewer reptile species, and pigs and                                                                                   mammal, and reptile species extinctions. We pooled the impacts
+                                         mongoose threaten fewer mammal species, compared with other                                                                                           of rodents across five species, but previous studies indicate that
+                                         taxonomic classes (Fig. 2). Although cats and rodents negatively                                                                                      R. rattus has negatively affected the most species, followed by
+                                         affect the most bird species, birds experience similar impact                                                                                         Rattus norvegicus and Rattus exulans (18–20). The role of the
+                                         across predator species (Fig. 3). Mammals experience lower, but                                                                                       house mouse (Mus musculus) is less well understood, but there is
+                                         more variable, impacts from pigs and stoats compared with the                                                                                         emerging evidence of severe predatory impacts on insular sea-
+                                         other predators (Fig. 3). The greatest impact on reptile species is                                                                                   bird (21) and lizard species (22). We found that cats, rodents,
+                                         from stoats, and the lowest from foxes (no impact) and pigs (Fig.                                                                                     dogs, and pigs have had the most pervasive effects across regions
+                                         3). The “significance” of differing relationships between invasive                                                                                    and taxonomic classes, supporting recent work by Bellard et al.
+                                         predators and impacted species classes is uncertain, however,                                                                                         (3), who identified these four taxa as the invasive species af-
+                                         because confidence intervals overlapped in most cases.                                                                                                fecting the greatest number of threatened vertebrates globally,
+                                            Central America (including the Caribbean) has experienced                                                                                          after chytrid fungus (Batrachochytrium dendrobatidis). However,
+                                         the most extinctions (33 species), followed by Micro-/Mela-/                                                                                          other predators have had large impacts in particular regions;
+                                         Polynesia (25), Australia (21), the Madagascar region (20), New                                                                                       stoats remain a major threat to New Zealand bird and reptile
+                                         Zealand (15), and Hawaii (11), with the remaining regions having                                                                                      species (23), and the red fox, along with the feral cat, is an im-
+                                         0–7 species extinctions each (Fig. 4). The taxonomy of impacted                                                                                       portant driver of Australian mammal species extinctions (11).
+                                         species varied among regions, with the highest numbers of im-                                                                                            Fewer reptile species were negatively affected by invasive
+                                         pacted mammal species occurring in Australia and Central                                                                                              mammalian predators, compared with bird and mammal species.
+                                         America, and most of the impacted reptile species occurring in                                                                                        Reptiles also had a lower average impact score, which may be
+                                         Micro-/Mela-/Polynesia and Central America (Fig. 4). Most im-                                                                                         because reptiles are less studied than birds and mammals (9),
+                                         pacted bird species are in Micro-/Mela-/Polynesia, New Zealand,                                                                                       with only 40% of the world’s reptiles having been assessed for the
+                                         the Madagascar region, Central America, and Hawaii (Fig. 4).                                                                                          Red List thus far (compared with ∼99% for birds and mammals)
+                                            Insular endemics accounted for 87% of extinct species (124                                                                                         (24). Further insights will likely emerge once the conservation
+                                         species) and 81% of the sum of all threatened/extinct species                                                                                         status of most reptiles has been determined. Detailed studies
+                                         (601 species). The proportions of total threatened/extinct species                                                                                    from individual regions nonetheless demonstrate that invasive
+                                         that were insular endemics varied between taxonomic classes                                                                                           predators can have severe impacts on local reptile assemblages
+
+
+
+                                                                                                                             300
+                                                                                                    and threatened species
+                                                                                                      Number of extinct
+
+
+
+
+                                                                                                                             200
+
+
+
+                                                                                                                             100
+
+
+
+                                                                                                                                   0
+                                                                                                                                         B M R               B M R               B M R         B M R     B M R      B M R       B M R
+
+                                         Fig. 2. Numbers of threatened and extinct bird (B), mammal (M), and reptile (R) species negatively affected by invasive mammalian predators. Gray bars are
+Downloaded by guest on October 5, 2021
+
+
+
+
+                                         the total number of extinct and threatened species, and red bars are extinct species (including those classed as extinct in the wild). Predators affecting <15
+                                         species are not shown here. Predators (L to R) are the cat, rodents, dog, pig, small Indian mongoose, red fox, and stoat.
+
+
+                                         11262 | www.pnas.org/cgi/doi/10.1073/pnas.1602480113                                                                                                                                                         Doherty et al.
+
+                                                                                                           Birds                        Mammals                          Reptiles
+                                                                                               1.00                        1.00                           1.00
+
+
+
+
+                                                                      Model-estimated impact
+                                                                                               0.75                        0.75                           0.75
+
+                                                                                               0.50                        0.50                           0.50
+
+                                                                                               0.25                        0.25                           0.25
+
+                                                                                               0.00                        0.00                           0.00
+
+
+
+                                                                                                         Ro at
+                                                                                                               nt
+                                                                                                                g
+                                                                                                        on Pig
+
+                                                                                                                e
+
+                                                                                                           St x
+                                                                                                                 t
+
+
+
+                                                                                                                                     Ro at
+                                                                                                                                           nt
+                                                                                                                                            g
+                                                                                                                                    on Pig
+
+                                                                                                                                            e
+
+                                                                                                                                       St x
+                                                                                                                                             t
+
+
+
+                                                                                                                                                                    Ro at
+                                                                                                                                                                          nt
+                                                                                                                                                                           g
+                                                                                                                                                                   on Pig
+
+                                                                                                                                                                           e
+
+                                                                                                                                                                      St x
+                                                                                                                                                                            t
+                                                                                                             oa
+
+
+
+
+                                                                                                                                         oa
+
+
+
+
+                                                                                                                                                                        oa
+                                                                                                             Fo
+
+
+
+
+                                                                                                                                         Fo
+
+
+
+
+                                                                                                                                                                        Fo
+                                                                                                            Do
+
+
+                                                                                                             os
+
+
+
+
+                                                                                                                                        Do
+
+
+                                                                                                                                         os
+
+
+
+
+                                                                                                                                                                       Do
+
+
+                                                                                                                                                                        os
+                                                                                                             C
+                                                                                                            de
+
+
+
+
+                                                                                                                                         C
+                                                                                                                                        de
+
+
+
+
+                                                                                                                                                                        C
+                                                                                                                                                                       de
+                                                                                                          go
+
+
+
+
+                                                                                                                                      go
+
+
+
+
+                                                                                                                                                                     go
+                                                                                                      M
+
+
+
+
+                                                                                                                                  M
+
+
+
+
+                                                                                                                                                                 M
+                                         Fig. 3. Severity of model-estimated impacts of invasive predator species on birds, mammals, and reptiles. Error bars are 90% confidence intervals. Model
+                                         estimates and confidence intervals are weighted by the strength of evidence available. See Table S5 for model estimates. To aid visual interpretation across all
+                                         estimates, the error bars for the effects of pigs and stoats on mammals are truncated at the limits of the y axis, but the values can be found in Table S5.
+
+
+
+                                         (e.g., ref. 25). Evolutionary exposure to native mammalian                                            That most impacted species are insular indicates that man-
+                                         predators might moderate such effects; few Australian reptiles                                     agement of invasive predators on islands should be a global
+                                         are threatened by cat and fox predation whereas more than 100                                      conservation priority. Given the many islands on which invasive
+                                         reptile species in the Caribbean/Central America and Micro-/                                       predators occur and the high costs involved in controlling or
+                                         Mela-/Polynesia are threatened with extinction by rodents, cats,                                   eradicating them, prioritization of islands for eradications is an
+                                         pigs, dogs, and mongoose (25, 26).                                                                 important exercise (30–33). Facilitation between multiple in-
+                                            Insular regions are most affected by invasive predators, and                                    vasive species (e.g., rodents providing abundant food for cats,
+                                         insular endemic reptile species, but not bird and mammal species,                                  thus maintaining high densities of the latter) can exacerbate their
+                                         are more heavily affected than continental species. This last                                      respective impacts on native species (1, 9). Thus, it is essential
+                                         finding contrasts with Blackburn et al. (13), who reported such an                                 that eradications adopt a whole-ecosystem approach to avoid the
+                                                                                                                                            ecological release of undesirable species (5, 34). Modeling can
+                                         effect for birds, as did Medina et al. (1) for all three taxonomic
+                                                                                                                                            help determine the order in which multiple species should be
+                                         classes. The difference in our results could arise because both
+                                                                                                                                            eradicated (35) and how best to allocate resources (36). On
+                                         previous studies assessed insular species only and used individual
+                                                                                                                                            continents or large islands where eradications are difficult, al-
+                                         populations (species × island) as the experimental unit whereas                                    ternative approaches are needed, such as predator-proof fencing
+                                         we assessed all species across their entire geographic ranges. The
+
+
+
+
+                                                                                                                                                                                                                      ECOLOGY
+                                                                                                                                            (37), improved land management (38, 39), restoration of top
+                                         isolation of many islands and a lack of natural predators mean                                     predators (40, 41), and lethal control (42).
+                                         that insular species often lack appropriate defensive traits, thus                                    Although we have documented the comparative severity of
+                                         making them naive to the threat of invasive predators (9, 27). The                                 impacts of invasive mammalian predators, we note that the
+                                         high extinction rates of ground-dwelling birds in Hawaii (28) and                                  strength of evidence available to quantify predator impacts was
+                                         New Zealand (29)—both of which lack native mammalian                                               often low (Dataset S1), particularly for reptile species. While
+                                         predators—are cases in point.                                                                      invasive predators are named as causal factors in large numbers
+
+
+
+
+                                                                                                                                       Europe
+                                                                   North
+                                                                  America
+                                                                                                                                                                      Asia
+                                                                                                         Central
+                                                   Hawaii                                                America        West
+                                                                                                                       African              Africa                                           SE Asia
+                                                                                                                       islands                                                                          Micro-/
+                                                                                                                                                                                                        Mela-/
+                                                                     Galapagos                                                                                                                         Polynesia
+                                                                                                          South
+                                                                                                                                                     Madagascar
+                                                                                                         America
+                                                                                                                                                       region
+                                          100                                                                               StH, Asc, TdC
+                                                                                                                                                                      Amsterdam &
+                                            50      [scale]                                                                                                                               Australia
+                                                                                                                                                                      St Paul Islands
+                                                                                                                                                                                                        New
+                                             0
+                                                                                                                                                                                                       Zealand
+                                              Re a l s
+
+                                                       s
+                                              am ds
+
+
+                                                   ile
+                                             M Bir
+                                                 m
+
+
+
+
+                                                                                                                   Sub-/Antarctica
+                                                pt
+
+
+
+
+                                                 Total number of extinct and threatened species
+                                                 Number of extinct species
+
+                                         Fig. 4. Numbers of threatened and extinct bird, mammal, and reptile species impacted by invasive predators in 17 regions (Fig. S3 and Table S2). Gray bars
+Downloaded by guest on October 5, 2021
+
+
+
+
+                                         represent the total number of extinct and threatened species, and red bars represent the number of extinct species (including those classed as extinct in the
+                                         wild). StH, Asc, and TdC indicate the islands of St. Helena, Ascension, and Tristan da Cunha, respectively.
+
+
+                                         Doherty et al.                                                                                                          PNAS | October 4, 2016 | vol. 113 | no. 40 | 11263
+
+                                         of extinctions and as key threats to many threatened species, the                     predator-threatened species cases, plus an additional 58 cases where the
+                                         lack of strong evidence suggests that there remains an urgent                         predator species were not named. The 996 references supporting the
+                                         need for research on the impacts of invasive predators relative to                    rankings are listed in Dataset S4.
+                                         other threats (e.g., habitat loss). Teasing apart the impacts of
+                                                                                                                               Statistical Analyses. We first summarized numbers of extinct and threatened
+                                         different threatening processes is challenging for extinct species
+                                                                                                                               species impacted by invasive predators, based on taxonomic classes and
+                                         and for those that have suffered historical declines, have small                      geographic regions where they occur, or occurred. We then used meta-
+                                         populations, and/or inhabit remote islands but should be more                         analysis in the metafor package version 1.9-6 in R version 3.1.2 (51, 52) to
+                                         feasible for many other threatened species. Understanding and                         analyze these trends based on three categorical variables: (i) taxonomic class
+                                         mitigating the impact of invasive mammalian predators is es-                          model (levels: Aves, Mammalia, Reptilia); (ii) insularity model [levels: insular
+                                         sential for reducing the rate of global biodiversity loss.                            endemic, or continental (either wholly or partially)]; and (iii) predator model
+                                                                                                                               [levels: rodent (Rodentia), cat, dog, red fox (V. vulpes), stoat (M. erminea),
+                                         Methods                                                                               small Indian mongoose (H. auropunctatus), and pig (S. scrofa)].
+                                         Data Collation. For all threatened species in the taxonomic classes Aves,                For the predator model, we excluded 19 predator species that impacted
+                                         Mammalia, and Reptilia, we downloaded data on taxonomy and conserva-                  fewer than 15 threatened species each (range 30–430 threatened species
+                                         tion status from the International Union for Conservation of Nature and               impacted by each of the seven remaining predators). We conducted separate
+                                         Natural Resources (IUCN) Red List in December 2014 (version 2014.3) using             tests for each of these variables using the restricted maximum-likelihood
+                                         the inbuilt search and export functions (n = 3,745 species) (Dataset S2). We          estimator. We pooled impacts across all predators for the taxonomic class
+                                         did not assess amphibians here because our preliminary research indicated             and insularity models; if a threatened species was impacted by multiple
+                                         that the invasive predators impacting them are mostly nonmammalian (e.g.,             predators, we used the highest impact and its associated weight. For ex-
+                                         snakes, fish, crayfish, and other amphibians). Threatened species were those          ample, if a bird species was impacted by both cats (impact = 0.75, weight =
+                                         listed as vulnerable, endangered, critically endangered, extinct, or extinct in       10) and rodents (impact = 0.25, weight = 100), we used the former pair of
+                                         the wild. We then used a custom R script (Dataset S3) to download addi-               values for the pooled category, which means that the models estimate the
+                                         tional Red List information on each species’ range and major threats.                 strongest predator impacts across taxonomic classes and insularity. To ex-
+                                             We filtered this database (n = 3,745 species) in Microsoft Access by searching    amine individual responses of the three taxonomic classes, we conducted
+                                         the “major threats” section for any of the following keywords: predator*,             separate analyses for birds, mammals, and reptiles across insular endemism
+                                         predation, cat, cats, fox*, dog, dogs, rat, rats, rodent*, Rattus, mouse, mice,       and predators. The response variable was the impact rankings described
+                                         stoat*, mongoose*, pig, pigs, mink, ferret*, weasel*, mustelid*, possum*,             above, such that higher effect sizes represented greater predator impacts.
+                                         macaque*, coati*, and civet*. These predators were chosen based on consul-            We inferred “significant” effects where the 90% confidence intervals of the
+                                         tation of the Global Invasive Species Database (43) and Long (16). This search        different predictor variable levels did not overlap. Data used in the analyses
+                                         returned 771 records, which we inspected to determine whether invasive alien          are available as Dataset S1 (see also Table S3).
+                                         predators were identified as a known or likely threat to each species (n = 703           Metaanalysis traditionally weights effect sizes based on each study’s
+                                         species identified as negatively impacted by invasive predators). We cross-           sample variance and/or size. However, these data do not exist for our da-
+                                         checked this list against previous reviews (1, 18, 20, 44–48) and added 35 ad-        tabase because each case consists of a predator × threatened species com-
+                                         ditional threatened species recorded as being negatively affected by invasive         bination that is assigned a categorical level of impact. Instead, we used a
+                                         predators, but not revealed in our Red List search. Given the small number of         weighting system similar to that of Jones et al. (19) and Medina et al. (1) that
+                                         additional species identified and the broad geographic coverage of the pre-           weights individual cases based on the type and strength of evidence pro-
+                                         vious studies used for cross-checking, we do not consider that this exercise          vided in each case. Assigned weights were as follows: 1 (lowest: no evidence
+                                         brings any systematic bias to our analyses.                                           provided apart from stating that the predator is thought to be a cause of
+                                             For each of the 738 study species, we recorded information on taxonomic           species decline or extinction), 10 (single line of correlative evidence), 100
+                                         classification (class, order, family), Red List status, insularity (insular endemic   (multiple lines of correlative evidence), or 1,000 (highest: experimental evi-
+                                         or found on continents also), and region (Fig. S3 and Table S2). Information          dence in a before–after and/or control–impact design). We used the inverse
+                                         on species distributions was sourced primarily from the Red List although             of the weights as the variance component in the metaanalysis. Examples of
+                                         other sources were consulted in a small number of cases. For the analyses,            correlative evidence included artificial nest experiments, correlation be-
+                                         we included in the extinct category four species classed as extinct in the wild.      tween species decline and predator introduction, absence of a species from
+                                             To find information on the impact of invasive predators on each of the            parts of its historical range now inhabited by predators, monitoring of
+                                         study species, we initially searched the Red List and Scopus database for             predation events, and analysis of predator diet. Examples of experimental
+                                         relevant material using species names and synonyms, followed by consul-               evidence included monitoring of population parameters in response to
+                                         tation of primary and gray literature cited therein. We defined impact as any         predator removal, and comparison of islands with and without predators.
+                                         inference that an invasive predator had caused a decline in the abundance or          The weights were assigned during the impact ranking exercise described
+                                         distribution of a species. In most cases, predation was inferred as the primary       above. We conducted a fail-safe analysis to determine the number of cases
+                                         mechanism of predator impacts although competition, disease transmission,             showing no effect that would be needed to eliminate a significant overall
+                                         and habitat disturbance were also cited in some cases. For accounts that              effect size (SI Text). We also conducted a sensitivity analysis to determine
+                                         referred only to “introduced/invasive predators” and not a specific species,          how the selection of impact values and the use of weights influenced the
+                                         we assigned the impact to a generic predator group. We took any reference             results (SI Text and Figs. S4 and S5).
+                                         to “domestic predators/carnivores/pets” to mean cats (F. catus) and dogs                 We used χ2 analyses to determine (i) whether the proportion of impacted
+                                         (C. familiaris). We did not distinguish the impacts of individual rodent species      species that were insular endemics varied among taxonomic classes and (ii)
+                                         because many accounts did not provide sufficient information to allow dis-            whether the proportion of impacted species in each taxonomic class differed
+                                         crimination of individual species effects and because the relative impacts of         among predators. We restricted the second analysis to those seven predators
+                                         the different rodent species have been reviewed elsewhere (18–20, 49, 50).            included in the predator model described above. Significant effects were
+                                             Given the difficulties in attributing causation in species declines and ex-       inferred at the 0.05 level.
+                                         tinctions, most inferences regarding the impact of invasive predators were
+                                         based on observational evidence, rather than experimental data. For this              Evolutionary Distinctiveness. We used evolutionary distinctiveness (ED) scores
+                                         reason, we used a similar approach to that of previous studies (1, 19) and coded      to examine whether invasive predators have had a disproportionate impact
+                                         the degree of predator impacts as follows: mixed (0.25, when the predator             on evolutionarily distinct species. ED scores were calculated based on the “fair
+                                         was a secondary cause of species decline); high (0.75, when the predator was a        proportion” metric: i.e., the weighted sum of branch lengths along phylo-
+                                         primary cause of species decline); and strong (1.0, when the extinction of the        genetic tree roots to tips, with weights based on the number of tips sharing
+                                         species was attributed to the predator). Unlike previous studies (1, 19), how-        that branch (see refs. 53–55 for detailed descriptions). This analysis was re-
+                                         ever, we did not include a “nil impact” level (e.g., 0.01) because such in-           stricted to extant birds (53) and mammals (54, 55) because data limitations
+                                         formation is not systematically reported in the literature. Other threats may         currently prevent ED scores being calculated for reptiles and extinct taxa
+                                         have contributed to the species’ declines/extinctions although assessing their        from all classes. We used general linear models to compare the ED scores of
+                                         relative importance was beyond the scope of this study. We assessed species           the impacted species against threatened species for which invasive predators
+                                         across their entire geographic ranges and thus did not code predator impacts          were not identified as a threat (“nonimpacted” species hereafter). We used
+Downloaded by guest on October 5, 2021
+
+
+
+
+                                         for individual populations (e.g., multiple islands). This exercise was con-           a gamma error distribution because the data were positive, continuous,
+                                         ducted between March and September 2015, and it revealed 1,381 individual             and skewed. Significant effects were inferred at the 0.05 level. Taxonomic
+
+
+                                         11264 | www.pnas.org/cgi/doi/10.1073/pnas.1602480113                                                                                                    Doherty et al.
+
+                                         differences between the Red List version 2014.3 and the source databases                         taxonomy, status, threats, and range. Grant Williamson is thanked for
+                                         (53, 55) are detailed in Table S4. Because ED scores were not available for                      writing and testing the custom R script. Comments from Corey Bradshaw,
+                                         extinct species, the values presented here are likely to be an underestimate                     Chris Johnson, and three anonymous reviewers greatly improved earlier
+                                         of the true effect sizes.                                                                        versions of this manuscript. T.S.D. was supported by scholarships from Edith
+                                                                                                                                          Cowan University and Earthwatch Institute Australia during the initial stages
+                                         ACKNOWLEDGMENTS. The IUCN and its many contributors are acknowl-                                 of this study, and C.R.D. by a fellowship from the Australian Research
+                                         edged for maintaining the Red List, which provided information on species                        Council.
+
+
+                                          1. Medina FM, et al. (2011) A global review of the impacts of invasive cats on island           30. Dawson J, et al. (2015) Prioritizing islands for the eradication of invasive vertebrates
+                                             endangered vertebrates. Glob Change Biol 17(11):3503–3510.                                       in the United Kingdom overseas territories. Conserv Biol 29(1):143–153.
+                                          2. Szabo JK, Khwaja N, Garnett ST, Butchart SHM (2012) Global patterns and drivers of           31. Jones HP, et al. (2016) Invasive mammal eradication on islands results in substantial
+                                             avian extinctions at the species and subspecies level. PLoS One 7(10):e47080.                    conservation gains. Proc Natl Acad Sci USA 113(15):4033–4038.
+                                          3. Bellard C, Genovesi P, Jeschke JM (2016) Global patterns in threats to vertebrates by        32. Russell JC, et al. (2016) Importance of lethal control of invasive predators for island
+                                             biological invasions. Proc Biol Sci 283(1823):20152454.                                          conservation. Conserv Biol 30(3):670–672.
+                                          4. Doherty TS, et al. (2015) A continental-scale analysis of feral cat diet in Australia.       33. McGeoch MA, et al. (2015) Prioritizing species, pathways, and sites to achieve con-
+                                             J Biogeogr 42(5):964–975.                                                                        servation targets for biological invasion. Biol Invasions 18(2):299–314.
+                                          5. Rayner MJ, Hauber ME, Imber MJ, Stamp RK, Clout MN (2007) Spatial heterogeneity              34. Bergstrom DM, et al. (2009) Indirect effects of invasive species removal devastate
+                                             of mesopredator release within an oceanic island system. Proc Natl Acad Sci USA                  World Heritage Island. J Appl Ecol 46(1):73–81.
+                                             104(52):20862–20865.                                                                         35. Bode M, Baker CM, Plein M (2015) Eradicating down the food chain: Optimal multi-
+                                          6. Harris DB, Macdonald DW (2007) Interference competition between introduced black                 species eradication schedules for a commonly encountered invaded island ecosystem.
+                                             rats and endemic Galápagos rice rats. Ecology 88(9):2330–2344.                                   J Appl Ecol 52(3):571–579.
+                                          7. Wyatt KB, et al. (2008) Historical mammal extinction on Christmas Island (Indian             36. Helmstedt KJ, et al. (2016) Prioritizing eradication actions on islands: It’s not all or
+                                             Ocean) correlates with introduced infectious disease. PLoS One 3(11):e3602–e3609.                nothing. J Appl Ecol 53(3):733–741.
+                                          8. Simberloff D (2011) How common are invasion-induced ecosystem impacts? Biol                  37. Moseby KE, Hill BM, Read JL (2009) Arid recovery: A comparison of reptile and small
+                                             Invasions 13(5):1255–1268.                                                                       mammal populations inside and outside a large rabbit, cat and fox-proof exclosure in
+                                          9. Courchamp F, Chapuis J-L, Pascal M (2003) Mammal invaders on islands: Impact,                    arid South Australia. Austral Ecol 34(2):156–169.
+                                             control and control impact. Biol Rev Camb Philos Soc 78(3):347–383.                          38. McGregor HW, Legge S, Jones ME, Johnson CN (2014) Landscape management of fire
+                                         10. Fleming PA, et al. (2014) Is the loss of Australian digging mammals contributing to a            and grazing regimes alters the fine-scale habitat utilisation by feral cats. PLoS One
+                                             deterioration in ecosystem function? Mammal Rev 44(2):94–108.                                    9(10):e109097.
+                                         11. Woinarski JCZ, Burbidge AA, Harrison PL (2015) Ongoing unraveling of a continental           39. Doherty TS, Dickman CR, Nimmo DG, Ritchie EG (2015) Multiple threats, or multi-
+                                             fauna: Decline and extinction of Australian mammals since European settlement. Proc              plying the threats? Interactions between invasive predators and other ecological
+                                                                                                                                              disturbances. Biol Conserv 190:60–68.
+                                             Natl Acad Sci USA 112(15):4531–4540.
+                                                                                                                                          40. Hunter DO, Britz T, Jones M, Letnic M (2015) Reintroduction of Tasmanian devils to
+                                         12. Croll DA, Maron JL, Estes JA, Danner EM, Byrd GV (2005) Introduced predators
+                                                                                                                                              mainland Australia can restore top-down control in ecosystems where dingoes have
+                                             transform subarctic islands from grassland to tundra. Science 307(5717):1959–1961.
+                                                                                                                                              been extirpated. Biol Conserv 191:428–435.
+                                         13. Blackburn TM, Cassey P, Duncan RP, Evans KL, Gaston KJ (2004) Avian extinction and
+                                                                                                                                          41. Ritchie EG, et al. (2012) Ecosystem restoration with teeth: What role for predators?
+                                             mammalian introductions on oceanic islands. Science 305(5692):1955–1958.
+                                                                                                                                              Trends Ecol Evol 27(5):265–271.
+                                         14. Doherty TS, Ritchie EG (May 16, 2016) Stop jumping the gun: A call for evidence-based
+                                                                                                                                          42. Reardon JT, et al. (2012) Predator control allows critically endangered lizards to re-
+                                             invasive predator management. Conserv Lett, 10.1111/conl.12251.
+
+
+
+
+                                                                                                                                                                                                                                         ECOLOGY
+                                                                                                                                              cover on mainland New Zealand. N Z J Ecol 36(2):141–150.
+                                         15. Bellard C, Cassey P, Blackburn TM (2016) Alien species as a driver of recent extinctions.
+                                                                                                                                          43. IUCN (2014) Global Invasive Species Database. Available at www.iucngisd.org/gisd/.
+                                             Biol Lett 12(2):20150623–20150624.
+                                                                                                                                              Accessed February 5, 2015.
+                                         16. Long J (2003) Introduced Mammals of the World (CSIRO Publishing, Melbourne).
+                                                                                                                                          44. Woinarski JCZ, Burbidge AA, Harrison P (2014) The Action Plan for Australian
+                                         17. Tershy BR, Shen KW, Newton KM, Holmes ND, Croll DA (2015) The importance of
+                                                                                                                                              Mammals 2012 (CSIRO Publishing, Melbourne).
+                                             islands for the protection of biological and linguistic diversity. Bioscience 65(6):
+                                                                                                                                          45. Hilton GM, Cuthbert RJ (2010) The catastrophic impact of invasive mammalian
+                                             592–597.
+                                                                                                                                              predators on birds of the UK Overseas Territories: A review and synthesis. Ibis 152(3):
+                                         18. Towns DR, Atkinson IAE, Daugherty CH (2006) Have the harmful effects of introduced
+                                                                                                                                              443–458.
+                                             rats on islands been exaggerated? Biol Invasions 8(4):863–891.
+                                                                                                                                          46. Duffy DC, Capece P (2012) Biology and impacts of Pacific Island invasive species. 7. The
+                                         19. Jones HP, et al. (2008) Severity of the effects of invasive rats on seabirds: A global
+                                                                                                                                              domestic cat (Felis catus). Pac Sci 66(2):173–212.
+                                             review. Conserv Biol 22(1):16–26.
+                                                                                                                                          47. Hays WS, Conant S (2007) Biology and impacts of Pacific Island invasive species. 1. A
+                                         20. Harris DB (2009) Review of negative effects of introduced rodents on small mammals
+                                                                                                                                              worldwide review of effects of the small Indian mongoose, Herpestes javanicus
+                                             on islands. Biol Invasions 11(7):1611–1630.                                                      (Carnivora: Herpestidae). Pac Sci 61(1):3–16.
+                                         21. Cuthbert RJ, Louw H, Parker G, Rexer-Huber K, Visser P (2013) Observations of mice           48. Shiels AB, Pitt WC, Sugihara RT, Witmer GW (2014) Biology and impacts of Pacific
+                                             predation on dark-mantled sooty albatross and Atlantic yellow-nosed albatross chicks             island invasive species. 11. Rattus rattus, the black rat (Rodentia: Muridae). Pac Sci
+                                             at Gough Island. Antarct Sci 25(06):763–766.                                                     68(2):145–184.
+                                         22. Norbury G, et al. (2014) Impacts of invasive house mice on post-release survival of          49. Capizzi D, Bertolino S, Mortelliti A (2014) Rating the rat: Global patterns and research
+                                             translocated lizards. N Z J Ecol 38(2):322–327.                                                  priorities in impacts and management of rodent pests. Mammal Rev 44(2):148–162.
+                                         23. O’Donnell C, Clapperton BK, Monks JM (2015) Impacts of introduced mammalian                  50. Banks PB, Hughes NK (2012) A review of the evidence for potential impacts of black
+                                             predators on indigenous birds of freshwater wetlands in New Zealand. N Z J Ecol                  rats (Rattus rattus) on wildlife and humans in Australia. Wildl Res 39(1):78–88.
+                                             39(1):19–33.                                                                                 51. Viechtbauer W (2010) Conducting meta-analyses in R with the metafor package.
+                                         24. Meiri S, Chapple DG (March 17, 2016) Biases in the current knowledge of threat status            J Stat Softw 36(3):1–48.
+                                             in lizards, and bridging the “assessment gap.” Biol Conserv, 10.1016/j.biocon.2016.03.009.   52. R Core Team (2014) R: A Language and Environment for Statistical Computing.
+                                         25. Hedges SB, Conn CE (2012) A new skink fauna from Caribbean islands (Squamata,                    (R Foundation for Statistical Computing, Vienna), Version 3.1.2. Available at www.
+                                             Mabuyidae, Mabuyinae). Zootaxa 3288:1–244.                                                       R-project.org/.
+                                         26. Hunt GR, Hay R, Veltman CJ (2010) Multiple kagu Rhynochetos jubatus deaths caused            53. Jetz W, et al. (2014) Global distribution and conservation of evolutionary distinctness
+                                             by dog attacks at a high-altitude study site on Pic Ningua, New Caledonia. Bird                  in birds. Curr Biol 24(9):919–930.
+                                             Conserv Int 6(04):295–306.                                                                   54. Isaac NJB, Turvey ST, Collen B, Waterman C, Baillie JEM (2007) Mammals on the EDGE:
+                                         27. Banks PB, Dickman CR (2007) Alien predation and the effects of multiple levels of prey           Conservation priorities based on threat and phylogeny. PLoS One 2(3):e296–e297.
+                                             naiveté. Trends Ecol Evol 22(5):229–230, author reply 230–231.                               55. Collen B, et al. (2011) Investing in evolutionary history: Implementing a phylogenetic
+                                         28. Boyer AG (2008) Extinction patterns in the avifauna of the Hawaiian islands. Divers              approach for mammal conservation. Philos Trans R Soc Lond B Biol Sci 366(1578):
+                                             Distrib 14(3):509–517.                                                                           2611–2622.
+                                         29. Duncan RP, Blackburn TM (2004) Extinction and endemism in the New Zealand avi-               56. Rosenberg MS (2005) The file-drawer problem revisited: A general weighted method
+                                             fauna. Glob Ecol Biogeogr 13(6):509–517.                                                         for calculating fail-safe numbers in meta-analysis. Evolution 59(2):464–468.
+Downloaded by guest on October 5, 2021
+
+
+
+
+                                         Doherty et al.                                                                                                            PNAS | October 4, 2016 | vol. 113 | no. 40 | 11265
+"
