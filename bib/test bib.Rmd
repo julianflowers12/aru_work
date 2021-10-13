@@ -1,0 +1,41 @@
+---
+title: "test_refs using visual rmd"
+output: 
+ github_document
+bibliography: refs.bib
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+See
+
+-   <https://bookdown.org/yihui/rmarkdown-cookbook/bibliography.html>
+
+-   <https://rstudio.github.io/visual-markdown-editing/citations>
+
+```{r}
+library(tidyverse)
+devtools::install_github("julianflowers/myScrapers")
+ss <- myScrapers::get_ss_data(search = "large blue butterfly reintroduction")
+ss$data |> 
+  filter(isOpenAccess == TRUE) %>%
+ gt::gt()
+
+
+dois <- ss$data %>% pluck("externalIds.DOI")
+```
+
+blah said \@forister2020
+
+\@kajzer-bonkRelativeContributionMatrix2016 \@Rasmussen2019
+
+\@Yu2018
+
+\@ntprese2016
+
+[\@hill2016; \@flowers2016; \@fox2017; \@mayer2010; \@flowers2005; \@flowers2013; \@soljak2008]
+
+## References
