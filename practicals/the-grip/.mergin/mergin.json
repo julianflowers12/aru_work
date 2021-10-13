@@ -1,0 +1,78 @@
+{
+  "name": "jflowers/the-grip",
+  "version": "v15",
+  "files": [
+    {
+      "checksum": "763883da82d2703d26a90422e71dc7daa26ec85c",
+      "mtime": "2021-10-09T11:48:05.795093Z",
+      "path": "the-grip.qgz",
+      "size": 11629
+    },
+    {
+      "checksum": "5e263a2d83cd24387cd114cacdab44f358a4b0c1",
+      "mtime": "2021-10-08T11:51:43.511200Z",
+      "path": "Survey_points.gpkg",
+      "size": 98304
+    },
+    {
+      "checksum": "2648e1beb7833651824c9bb8ca55e39f51e1eed4",
+      "mtime": "2021-10-09T10:03:11.587017Z",
+      "path": "trees.prj",
+      "size": 417
+    },
+    {
+      "checksum": "663b90c899fa25a111067be0c22ffc64dcf581c2",
+      "mtime": "2021-10-09T09:48:02.381870Z",
+      "path": "trees.cpg",
+      "size": 5
+    },
+    {
+      "checksum": "ce56a9b1095177ec8a5c5715005207638c8f4247",
+      "mtime": "2021-10-09T10:28:55.259517Z",
+      "path": "trees.dbf",
+      "size": 3927
+    },
+    {
+      "checksum": "311e7420d4b9372df880b8b979aae8dd167be3ff",
+      "mtime": "2021-10-09T10:15:47.924892Z",
+      "path": "trees.shp",
+      "size": 520
+    },
+    {
+      "checksum": "ca1687f2a832760e357925ed92f90e77ef6991a1",
+      "mtime": "2021-10-09T10:15:47.924895Z",
+      "path": "trees.shx",
+      "size": 220
+    },
+    {
+      "checksum": "a32dd760a732268f2da672eb8cdf7713d24c546d",
+      "mtime": "2021-10-09T11:40:56.791939Z",
+      "path": "trees-2.shp",
+      "size": 100
+    },
+    {
+      "checksum": "663b90c899fa25a111067be0c22ffc64dcf581c2",
+      "mtime": "2021-10-09T11:40:56.791941Z",
+      "path": "trees-2.cpg",
+      "size": 5
+    },
+    {
+      "checksum": "a32dd760a732268f2da672eb8cdf7713d24c546d",
+      "mtime": "2021-10-09T11:40:56.791942Z",
+      "path": "trees-2.shx",
+      "size": 100
+    },
+    {
+      "checksum": "d546c2fcaa2eaa97b44957f770bc026626d0108e",
+      "mtime": "2021-10-09T11:40:56.791942Z",
+      "path": "trees-2.dbf",
+      "size": 162
+    },
+    {
+      "checksum": "2648e1beb7833651824c9bb8ca55e39f51e1eed4",
+      "mtime": "2021-10-09T11:40:56.791943Z",
+      "path": "trees-2.prj",
+      "size": 417
+    }
+  ]
+}

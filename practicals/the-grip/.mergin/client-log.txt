@@ -1,0 +1,782 @@
+2021-10-08 12:51:43,076 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-08 12:51:43,076 --- start push jflowers/the-grip
+2021-10-08 12:51:43,222 got project info: local version v0 / server version v0
+2021-10-08 12:51:43,228 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-08 12:51:43,232 checkpoint - return value: (0, 0, 0)
+2021-10-08 12:51:43,236 checkpoint - new size 98304 checksum b3f4a43396007e9c48c97e7e9bb513187e6e3f8c
+2021-10-08 12:51:43,236 push changes:
+{'added': [{'checksum': 'affaa7aa17dce19466bb6fc2248b556e6400e3e9',
+            'chunks': ['7deb147b-0d94-4b82-9504-1ca6eab5188f'],
+            'mtime': datetime.datetime(2021, 10, 8, 12, 51, 42, 448244, tzinfo=tzlocal()),
+            'path': 'the-grip.qgz',
+            'size': 6253},
+           {'checksum': 'b3f4a43396007e9c48c97e7e9bb513187e6e3f8c',
+            'chunks': ['7f2b47e1-d2b1-4556-88f6-a4cced20c26c'],
+            'mtime': datetime.datetime(2021, 10, 8, 12, 51, 42, 396736, tzinfo=tzlocal()),
+            'path': 'Survey_points.gpkg',
+            'size': 98304}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': []}
+2021-10-08 12:51:43,238 Making a temporary copy (full upload): Survey_points.gpkg
+2021-10-08 12:51:43,552 got transaction ID e712b850-34de-43eb-b0c1-ec5677362cd7
+2021-10-08 12:51:43,552 will upload 2 items with total size 104557
+2021-10-08 12:51:43,555 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-08 12:51:43,555 Uploading /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-o1a1k4dr/Survey_points.gpkg part=0
+2021-10-08 12:51:43,733 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-08 12:51:43,840 Upload finished: /var/folders/bk/jrqs03tx5mq9s28mhml5xzhm0000gn/T/mergin-py-client-o1a1k4dr/Survey_points.gpkg
+2021-10-08 12:51:43,862 Finishing transaction e712b850-34de-43eb-b0c1-ec5677362cd7
+2021-10-08 12:51:44,196 --- push finished - new project version v1
+2021-10-08 12:54:41,057 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-08 12:54:41,062 checkpoint - return value: (0, 24, 24)
+2021-10-08 12:54:41,068 checkpoint - new size 98304 checksum a606c5d50266e302ecca9a8ecbd1dba90d8bf87a
+2021-10-08 12:54:41,345 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-08 12:54:41,345 --- start pull jflowers/the-grip
+2021-10-08 12:54:41,508 got project info: local version v1 / server version v1
+2021-10-08 12:54:41,509 --- pull - nothing to do (already at server version)
+2021-10-08 12:54:41,957 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-08 12:54:41,957 --- start push jflowers/the-grip
+2021-10-08 12:54:42,113 got project info: local version v1 / server version v1
+2021-10-08 12:54:42,116 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-08 12:54:42,120 checkpoint - return value: (0, 24, 24)
+2021-10-08 12:54:42,126 checkpoint - new size 98304 checksum 3703793aeba19f007bec2acc2839f021e69d656a
+2021-10-08 12:54:42,133 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'cead6d27230f5b15fac9578f74a81f84355c8b4a',
+              'chunks': ['6cf25edf-779c-4d29-be0d-59c616945b55'],
+              'mtime': datetime.datetime(2021, 10, 8, 12, 54, 40, 829394, tzinfo=tzlocal()),
+              'origin_checksum': 'affaa7aa17dce19466bb6fc2248b556e6400e3e9',
+              'path': 'the-grip.qgz',
+              'size': 6599}]}
+2021-10-08 12:54:42,449 got transaction ID 810caa38-0c74-45ac-b1ee-96d51d5f353d
+2021-10-08 12:54:42,450 will upload 1 items with total size 6599
+2021-10-08 12:54:42,452 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-08 12:54:42,654 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-08 12:54:42,659 Finishing transaction 810caa38-0c74-45ac-b1ee-96d51d5f353d
+2021-10-08 12:54:42,910 --- push finished - new project version v2
+2021-10-09 10:09:03,629 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:09:03,644 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:09:03,650 checkpoint - new size 98304 checksum 1622539c4385cb5568569386d0ded40c2bf5a57a
+2021-10-09 10:09:25,474 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:09:25,478 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:09:25,484 checkpoint - new size 98304 checksum 7f1035302d30347295687402035654525ab29f41
+2021-10-09 10:45:52,221 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:45:52,226 checkpoint - return value: (0, 25, 25)
+2021-10-09 10:45:52,231 checkpoint - new size 98304 checksum ac1289a8ad17538240ed2b1920d08902f5eade06
+2021-10-09 10:45:52,508 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:45:52,508 --- start pull jflowers/the-grip
+2021-10-09 10:45:52,652 got project info: local version v2 / server version v2
+2021-10-09 10:45:52,652 --- pull - nothing to do (already at server version)
+2021-10-09 10:45:53,074 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:45:53,075 --- start push jflowers/the-grip
+2021-10-09 10:45:53,243 got project info: local version v2 / server version v2
+2021-10-09 10:45:53,247 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:45:53,251 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:45:53,257 checkpoint - new size 98304 checksum adf1f14b074840e9b6f238e9f42ed30b89ac5326
+2021-10-09 10:45:53,265 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '165e595cf940d11111ffaf8a4093157a5d63ae26',
+              'chunks': ['7d51577b-db50-4b9f-9944-2d09e3864e4d'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 45, 52, 39391, tzinfo=tzlocal()),
+              'origin_checksum': 'cead6d27230f5b15fac9578f74a81f84355c8b4a',
+              'path': 'the-grip.qgz',
+              'size': 6717}]}
+2021-10-09 10:45:53,577 got transaction ID 47b6f572-4b6f-4b67-94b0-db2450509068
+2021-10-09 10:45:53,578 will upload 1 items with total size 6717
+2021-10-09 10:45:53,582 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 10:45:53,787 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 10:45:53,796 Finishing transaction 47b6f572-4b6f-4b67-94b0-db2450509068
+2021-10-09 10:45:54,079 --- push finished - new project version v3
+2021-10-09 10:48:01,020 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:48:01,025 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:48:01,031 checkpoint - new size 98304 checksum 27c464b96f8c70f8b3f1621011f43f0b87d6d275
+2021-10-09 10:48:01,303 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:48:01,303 --- start pull jflowers/the-grip
+2021-10-09 10:48:01,450 got project info: local version v3 / server version v3
+2021-10-09 10:48:01,450 --- pull - nothing to do (already at server version)
+2021-10-09 10:48:01,878 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:48:01,878 --- start push jflowers/the-grip
+2021-10-09 10:48:02,050 got project info: local version v3 / server version v3
+2021-10-09 10:48:02,055 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:48:02,059 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:48:02,064 checkpoint - new size 98304 checksum bd7cf8da97d326e0901340922754475edb8e151b
+2021-10-09 10:48:02,072 push changes:
+{'added': [{'checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+            'chunks': ['147c8e29-dee1-476c-b470-8eefbdda6826'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 47, 55, 204859, tzinfo=tzlocal()),
+            'path': 'trees.prj',
+            'size': 145},
+           {'checksum': '663b90c899fa25a111067be0c22ffc64dcf581c2',
+            'chunks': ['66ab70b0-1118-4011-9000-d1256e5f2f72'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 47, 55, 204547, tzinfo=tzlocal()),
+            'path': 'trees.cpg',
+            'size': 5},
+           {'checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+            'chunks': ['7f58f26b-6f3b-4848-9044-572f13f649a5'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 47, 55, 205256, tzinfo=tzlocal()),
+            'path': 'trees.dbf',
+            'size': 162}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '084a108ec2f672e11a42a61b3938aec45762c9d8',
+              'chunks': ['a538704b-44a6-4fac-ac4b-6183783d9fea'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 48, 0, 842287, tzinfo=tzlocal()),
+              'origin_checksum': '165e595cf940d11111ffaf8a4093157a5d63ae26',
+              'path': 'the-grip.qgz',
+              'size': 6877}]}
+2021-10-09 10:48:02,418 got transaction ID 0e4d328c-7a25-410c-b072-c5c871dbe526
+2021-10-09 10:48:02,419 will upload 4 items with total size 7189
+2021-10-09 10:48:02,421 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.prj part=0
+2021-10-09 10:48:02,422 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.cpg part=0
+2021-10-09 10:48:02,424 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.dbf part=0
+2021-10-09 10:48:02,425 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 10:48:02,606 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.cpg
+2021-10-09 10:48:02,613 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.prj
+2021-10-09 10:48:02,618 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 10:48:02,618 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.dbf
+2021-10-09 10:48:02,713 Finishing transaction 0e4d328c-7a25-410c-b072-c5c871dbe526
+2021-10-09 10:48:03,000 --- push finished - new project version v4
+2021-10-09 10:49:52,752 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:49:52,756 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:49:52,762 checkpoint - new size 98304 checksum 698eea5c92a7ed2dce41c0d2e277aaddbd59779c
+2021-10-09 10:51:33,496 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:51:33,501 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:51:33,507 checkpoint - new size 98304 checksum ecd2099516b547551871d94cda63f360918f4cff
+2021-10-09 10:51:33,775 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:51:33,775 --- start pull jflowers/the-grip
+2021-10-09 10:51:33,937 got project info: local version v4 / server version v4
+2021-10-09 10:51:33,937 --- pull - nothing to do (already at server version)
+2021-10-09 10:51:34,367 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:51:34,368 --- start push jflowers/the-grip
+2021-10-09 10:51:34,524 got project info: local version v4 / server version v4
+2021-10-09 10:51:34,529 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:51:34,532 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:51:34,538 checkpoint - new size 98304 checksum dc784df6e35490aa4f8ddaff347a77fb184c98ff
+2021-10-09 10:51:34,545 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'chunks': ['1827161e-ed8c-44f7-98a3-b97fcce9953d'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 51, 33, 278816, tzinfo=tzlocal()),
+              'origin_checksum': '084a108ec2f672e11a42a61b3938aec45762c9d8',
+              'path': 'the-grip.qgz',
+              'size': 7129}]}
+2021-10-09 10:51:34,864 got transaction ID 8eedfd52-a88a-4270-a49a-21fb7ddb437a
+2021-10-09 10:51:34,865 will upload 1 items with total size 7129
+2021-10-09 10:51:34,867 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 10:51:35,040 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 10:51:35,081 Finishing transaction 8eedfd52-a88a-4270-a49a-21fb7ddb437a
+2021-10-09 10:51:35,334 --- push finished - new project version v5
+2021-10-09 10:57:10,162 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:57:10,166 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:57:10,171 checkpoint - new size 98304 checksum 48e4c0a6a718cd746f743f8dbef9e13061e4c28f
+2021-10-09 10:57:43,438 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:57:43,442 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:57:43,448 checkpoint - new size 98304 checksum 3af334ecf4e3ed11dfb5c3c579de74a31e260ec2
+2021-10-09 10:59:31,171 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:59:31,174 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:59:31,180 checkpoint - new size 98304 checksum 854b014d52a643960effcb1bc3bd7255afc5d508
+2021-10-09 10:59:31,453 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:59:31,454 --- start pull jflowers/the-grip
+2021-10-09 10:59:31,603 got project info: local version v5 / server version v5
+2021-10-09 10:59:31,603 --- pull - nothing to do (already at server version)
+2021-10-09 10:59:32,039 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 10:59:32,040 --- start push jflowers/the-grip
+2021-10-09 10:59:32,191 got project info: local version v5 / server version v5
+2021-10-09 10:59:32,197 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 10:59:32,201 checkpoint - return value: (0, 24, 24)
+2021-10-09 10:59:32,206 checkpoint - new size 98304 checksum 5042c5d62a2d7ddb9d05995da02363821d727d2e
+2021-10-09 10:59:32,214 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['c5f114f4-2233-410b-8312-406072336aea'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['81b199be-d8d0-4b71-a578-2acb9f6f0dda'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['18ed421f-854a-4692-9935-d8fbaa57085d'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['0b240ac0-4a04-4166-8b0c-8eec31a89e53'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['1818ca4b-2da9-459d-9308-1675303e578b'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 10:59:32,510 Error starting transaction: Another process is running. Please try later.
+2021-10-09 10:59:32,510 --- push aborted
+2021-10-09 11:00:04,548 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:04,553 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:04,558 checkpoint - new size 98304 checksum 62c0164a9f5811fa9e2c309ef5c76fd3896a04af
+2021-10-09 11:00:04,847 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:04,847 --- start pull jflowers/the-grip
+2021-10-09 11:00:05,009 got project info: local version v5 / server version v5
+2021-10-09 11:00:05,009 --- pull - nothing to do (already at server version)
+2021-10-09 11:00:05,439 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:05,440 --- start push jflowers/the-grip
+2021-10-09 11:00:05,582 got project info: local version v5 / server version v5
+2021-10-09 11:00:05,587 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:05,591 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:05,597 checkpoint - new size 98304 checksum b2d0bb3b70559be2f116a8999b210421eb1bf3dd
+2021-10-09 11:00:05,605 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['3a55cfcc-8f76-473e-a337-03b51581f83f'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['a9376096-2c0e-43f5-af77-7893d4938de0'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['ffac928c-efb5-4b06-8043-06f0c40bc321'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['8462b579-31d7-4bf0-a35d-09f84e52e224'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['46ca030a-47e6-40a3-a762-e629ef5f9910'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 11:00:05,900 Error starting transaction: Another process is running. Please try later.
+2021-10-09 11:00:05,900 --- push aborted
+2021-10-09 11:00:39,623 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:39,627 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:39,633 checkpoint - new size 98304 checksum 44690268a8c2707d2d4b564044f5b54d85c399fb
+2021-10-09 11:00:39,900 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:39,900 --- start pull jflowers/the-grip
+2021-10-09 11:00:40,079 got project info: local version v5 / server version v5
+2021-10-09 11:00:40,079 --- pull - nothing to do (already at server version)
+2021-10-09 11:00:40,504 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:40,505 --- start push jflowers/the-grip
+2021-10-09 11:00:40,651 got project info: local version v5 / server version v5
+2021-10-09 11:00:40,657 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:40,660 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:40,666 checkpoint - new size 98304 checksum 120cc742a0cdc59065d53dd6be11e67c7536a64c
+2021-10-09 11:00:40,673 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['4896fa65-9759-4b8e-b99b-f83f464b27b3'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['bb2a5d9e-f7ab-4dd0-884b-9f54c8bbd45b'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['a8d3793f-32de-494e-a042-22d6c256086c'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['55a0a7bf-ef71-4aaf-9f41-04337bee47f0'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['7d9980db-efeb-4538-bef1-c05677c43f2d'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 11:00:40,967 Error starting transaction: Another process is running. Please try later.
+2021-10-09 11:00:40,967 --- push aborted
+2021-10-09 11:00:54,187 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:54,191 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:54,197 checkpoint - new size 98304 checksum 9bd0266fd75293ce0168441fb704317f310196f8
+2021-10-09 11:00:54,466 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:54,466 --- start pull jflowers/the-grip
+2021-10-09 11:00:54,608 got project info: local version v5 / server version v5
+2021-10-09 11:00:54,608 --- pull - nothing to do (already at server version)
+2021-10-09 11:00:55,050 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:00:55,051 --- start push jflowers/the-grip
+2021-10-09 11:00:55,204 got project info: local version v5 / server version v5
+2021-10-09 11:00:55,209 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:00:55,212 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:00:55,217 checkpoint - new size 98304 checksum 905c5607f287bffbe467fb6859f6656d0d89ceaf
+2021-10-09 11:00:55,223 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['53372361-c783-4954-b256-9ea30f5e4d44'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['64cbb0a2-ed15-4efb-bf3f-8283ddc527dd'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['a56477dc-e763-4d8f-9328-d861da8da60c'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['fcad95d5-b05e-4f70-a1ad-1a441873502b'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['a783c9e6-b838-4aeb-beb2-e816b917d5c4'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 11:00:55,540 Error starting transaction: Another process is running. Please try later.
+2021-10-09 11:00:55,540 --- push aborted
+2021-10-09 11:01:50,268 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:01:50,272 checkpoint - return value: (0, 0, 0)
+2021-10-09 11:01:50,278 checkpoint - new size 98304 checksum 6e1975c37c895ffe0a9106698edb8ae5bfa5293b
+2021-10-09 11:01:50,558 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:01:50,559 --- start pull jflowers/the-grip
+2021-10-09 11:01:50,712 got project info: local version v5 / server version v5
+2021-10-09 11:01:50,712 --- pull - nothing to do (already at server version)
+2021-10-09 11:01:51,139 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:01:51,140 --- start push jflowers/the-grip
+2021-10-09 11:01:51,286 got project info: local version v5 / server version v5
+2021-10-09 11:01:51,292 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:01:51,294 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:01:51,296 checkpoint - new size 98304 checksum 4810b11bc558f2d4da5d021af0c0dd22c45b7eab
+2021-10-09 11:01:51,300 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['42775c9c-a965-490b-ad1f-db098ea9d9cf'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['829b5f06-6605-4e02-a310-f83a9c7da695'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['540644c1-0b45-46f8-bd36-93fcee303482'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['84f1c16f-3b24-44b3-a19d-cd71741e463f'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['2c4f97e3-8be4-428f-aa79-5d073e5d4ee9'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 11:01:51,616 Error starting transaction: Another process is running. Please try later.
+2021-10-09 11:01:51,617 --- push aborted
+2021-10-09 11:03:10,275 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:03:10,279 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:03:10,285 checkpoint - new size 98304 checksum e834ca442612999f9726499c48d062ded1654537
+2021-10-09 11:03:10,555 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:03:10,555 --- start pull jflowers/the-grip
+2021-10-09 11:03:10,706 got project info: local version v5 / server version v5
+2021-10-09 11:03:10,706 --- pull - nothing to do (already at server version)
+2021-10-09 11:03:11,127 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:03:11,127 --- start push jflowers/the-grip
+2021-10-09 11:03:11,294 got project info: local version v5 / server version v5
+2021-10-09 11:03:11,300 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:03:11,303 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:03:11,309 checkpoint - new size 98304 checksum 25caaec573933bc27207e29ac55706bc98c300af
+2021-10-09 11:03:11,317 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['7f293cf1-2537-40f5-bc44-e3884a6622bb'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491375, tzinfo=tzlocal()),
+            'path': 'trees.shp',
+            'size': 100},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['428a1dd2-d6af-42f4-97ed-deab8a9364a1'],
+            'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 491511, tzinfo=tzlocal()),
+            'path': 'trees.shx',
+            'size': 100}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+              'chunks': ['4edb5ee3-338f-4bc2-933a-97ff1336ccbb'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 518748, tzinfo=tzlocal()),
+              'origin_checksum': '86813d76269ab91b40ed3e67a86745bd933124e0',
+              'path': 'trees.prj',
+              'size': 417},
+             {'checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'chunks': ['728fbf39-3ffd-472f-a779-4865cdc62655'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 14, 519531, tzinfo=tzlocal()),
+              'origin_checksum': '7ad229374f8c9fda03254d174f04209300438c3b',
+              'path': 'trees.dbf',
+              'size': 162},
+             {'checksum': '494885c94b2598639222662414a6a059e815259d',
+              'chunks': ['ff254368-708a-4bb1-b883-157f7b1cb7a8'],
+              'mtime': datetime.datetime(2021, 10, 9, 10, 59, 30, 982395, tzinfo=tzlocal()),
+              'origin_checksum': 'b0b4a3ad7a671642ca2b5fa1e7c15ffb33cb436e',
+              'path': 'the-grip.qgz',
+              'size': 7437}]}
+2021-10-09 11:03:11,664 got transaction ID de7f6268-141a-4907-a656-8487cb168ea8
+2021-10-09 11:03:11,665 will upload 5 items with total size 8216
+2021-10-09 11:03:11,668 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.shp part=0
+2021-10-09 11:03:11,668 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.shx part=0
+2021-10-09 11:03:11,669 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.prj part=0
+2021-10-09 11:03:11,670 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees.dbf part=0
+2021-10-09 11:03:11,817 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.shp
+2021-10-09 11:03:11,818 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 11:03:11,842 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.dbf
+2021-10-09 11:03:11,843 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.prj
+2021-10-09 11:03:11,844 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees.shx
+2021-10-09 11:03:12,026 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 11:03:12,093 Finishing transaction de7f6268-141a-4907-a656-8487cb168ea8
+2021-10-09 11:03:12,398 --- push finished - new project version v6
+2021-10-09 11:16:45,833 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:16:45,836 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:16:45,839 checkpoint - new size 98304 checksum 810ca0845fcc0153c6729846848ae764f2a033aa
+2021-10-09 11:16:46,109 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:16:46,110 --- start pull jflowers/the-grip
+2021-10-09 11:16:46,297 got project info: local version v6 / server version v7
+2021-10-09 11:16:46,300 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '539e4b642b2212c434f19b5191edefc88bf2d159',
+              'history': {},
+              'mtime': '2021-10-09T10:15:47.924896Z',
+              'origin_checksum': '26103ea30337671499aa00c743b84a169cd05bdd',
+              'path': 'trees.dbf',
+              'size': 3927},
+             {'checksum': '311e7420d4b9372df880b8b979aae8dd167be3ff',
+              'history': {},
+              'mtime': '2021-10-09T10:15:47.924892Z',
+              'origin_checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+              'path': 'trees.shp',
+              'size': 520},
+             {'checksum': 'ca1687f2a832760e357925ed92f90e77ef6991a1',
+              'history': {},
+              'mtime': '2021-10-09T10:15:47.924895Z',
+              'origin_checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+              'path': 'trees.shx',
+              'size': 220}]}
+2021-10-09 11:16:46,301 will download 3 chunks, total size 4667
+2021-10-09 11:16:46,302 Downloading trees.dbf version=v7 diff=False part=0
+2021-10-09 11:16:46,303 Downloading trees.shp version=v7 diff=False part=0
+2021-10-09 11:16:46,304 Downloading trees.shx version=v7 diff=False part=0
+2021-10-09 11:16:46,468 Download finished: trees.shx
+2021-10-09 11:16:46,470 Download finished: trees.shp
+2021-10-09 11:16:46,470 Download finished: trees.dbf
+2021-10-09 11:16:46,495 finalizing pull
+2021-10-09 11:16:46,498 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:16:46,500 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:16:46,503 checkpoint - new size 98304 checksum 88b7b71fdbaf4f6c859eb190aa85a15ec688c8c9
+2021-10-09 11:16:46,510 --- pull finished -- at version v7
+2021-10-09 11:16:46,777 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:16:46,777 --- start push jflowers/the-grip
+2021-10-09 11:16:46,967 got project info: local version v7 / server version v7
+2021-10-09 11:16:46,972 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:16:46,976 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:16:46,981 checkpoint - new size 98304 checksum c0c9f3b6887746ad09e1742c7001e9829d4f2172
+2021-10-09 11:16:46,988 push changes:
+{'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2021-10-09 11:16:47,328 --- push jflowers/the-grip - nothing to do
+2021-10-09 11:18:03,287 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:18:03,291 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:18:03,296 checkpoint - new size 98304 checksum e35c463db1b20e751578ce0720c73ed926205f40
+2021-10-09 11:18:03,568 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:18:03,568 --- start pull jflowers/the-grip
+2021-10-09 11:18:03,732 got project info: local version v7 / server version v7
+2021-10-09 11:18:03,732 --- pull - nothing to do (already at server version)
+2021-10-09 11:18:04,178 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:18:04,178 --- start push jflowers/the-grip
+2021-10-09 11:18:04,331 got project info: local version v7 / server version v7
+2021-10-09 11:18:04,337 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:18:04,342 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:18:04,347 checkpoint - new size 98304 checksum a33afcec7e1eb1213701dcb18e83ba180bb3a39e
+2021-10-09 11:18:04,354 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '66de1ebe1979ca4f7a0387ebef524edeb6920cf2',
+              'chunks': ['9e80b563-387b-44fb-adeb-ea73f5915a20'],
+              'mtime': datetime.datetime(2021, 10, 9, 11, 18, 3, 58037, tzinfo=tzlocal()),
+              'origin_checksum': '494885c94b2598639222662414a6a059e815259d',
+              'path': 'the-grip.qgz',
+              'size': 7436}]}
+2021-10-09 11:18:04,848 got transaction ID 025df698-c1e6-4af3-8189-1d064f51f7ab
+2021-10-09 11:18:04,848 will upload 1 items with total size 7436
+2021-10-09 11:18:04,850 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 11:18:05,169 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 11:18:05,274 Finishing transaction 025df698-c1e6-4af3-8189-1d064f51f7ab
+2021-10-09 11:18:05,573 --- push finished - new project version v8
+2021-10-09 11:25:15,207 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:25:15,211 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:25:15,216 checkpoint - new size 98304 checksum b480b03664caa492c351150580d3dc0920899b6e
+2021-10-09 11:25:15,490 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:25:15,490 --- start pull jflowers/the-grip
+2021-10-09 11:25:15,639 got project info: local version v8 / server version v9
+2021-10-09 11:25:15,642 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'd8263e9044b26a01cf797a112e775b229b27ce0a',
+              'history': {},
+              'mtime': '2021-10-09T10:25:09.643105Z',
+              'origin_checksum': '539e4b642b2212c434f19b5191edefc88bf2d159',
+              'path': 'trees.dbf',
+              'size': 3927}]}
+2021-10-09 11:25:15,643 will download 1 chunks, total size 3927
+2021-10-09 11:25:15,643 Downloading trees.dbf version=v9 diff=False part=0
+2021-10-09 11:25:15,795 Download finished: trees.dbf
+2021-10-09 11:25:15,857 finalizing pull
+2021-10-09 11:25:15,860 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:25:15,862 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:25:15,867 checkpoint - new size 98304 checksum e27bd7584e6b7d1f28daf18c36330a503218333d
+2021-10-09 11:25:15,875 --- pull finished -- at version v9
+2021-10-09 11:25:16,288 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:25:16,288 --- start push jflowers/the-grip
+2021-10-09 11:25:16,436 got project info: local version v9 / server version v9
+2021-10-09 11:25:16,442 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:25:16,445 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:25:16,450 checkpoint - new size 98304 checksum 4f02bbcd58218fc40484e80849056f1bca46c86c
+2021-10-09 11:25:16,457 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'd38f84f38028709723755460c6623d98b762c3ef',
+              'chunks': ['c9dcc9a2-bdc6-4c0d-829d-acd9b0c4403b'],
+              'mtime': datetime.datetime(2021, 10, 9, 11, 25, 15, 17522, tzinfo=tzlocal()),
+              'origin_checksum': '66de1ebe1979ca4f7a0387ebef524edeb6920cf2',
+              'path': 'the-grip.qgz',
+              'size': 7443}]}
+2021-10-09 11:25:16,785 got transaction ID 7777bcfb-7418-4e6e-bb3e-c29131ecb512
+2021-10-09 11:25:16,786 will upload 1 items with total size 7443
+2021-10-09 11:25:16,788 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 11:25:16,966 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 11:25:16,984 Finishing transaction 7777bcfb-7418-4e6e-bb3e-c29131ecb512
+2021-10-09 11:25:17,249 --- push finished - new project version v10
+2021-10-09 11:28:13,931 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:28:13,934 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:28:13,940 checkpoint - new size 98304 checksum 3a90ad2dd638f240ea96e9e8c5423dfe2a8a0414
+2021-10-09 11:28:14,211 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:28:14,212 --- start pull jflowers/the-grip
+2021-10-09 11:28:14,364 got project info: local version v10 / server version v11
+2021-10-09 11:28:14,367 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '9b00dd1c76fdc1b764ea13524b8b30d7e7bb47bf',
+              'history': {},
+              'mtime': '2021-10-09T10:28:05.256740Z',
+              'origin_checksum': 'd8263e9044b26a01cf797a112e775b229b27ce0a',
+              'path': 'trees.dbf',
+              'size': 3927}]}
+2021-10-09 11:28:14,368 will download 1 chunks, total size 3927
+2021-10-09 11:28:14,369 Downloading trees.dbf version=v11 diff=False part=0
+2021-10-09 11:28:14,522 Download finished: trees.dbf
+2021-10-09 11:28:14,565 finalizing pull
+2021-10-09 11:28:14,571 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:28:14,583 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:28:14,588 checkpoint - new size 98304 checksum b43ad42724e8832e0fb58b075850aafd732b6e42
+2021-10-09 11:28:14,597 --- pull finished -- at version v11
+2021-10-09 11:28:14,865 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:28:14,866 --- start push jflowers/the-grip
+2021-10-09 11:28:15,023 got project info: local version v11 / server version v11
+2021-10-09 11:28:15,029 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:28:15,033 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:28:15,038 checkpoint - new size 98304 checksum 2a9e09d43103a8a7a9cfef70fc776b5db27bab58
+2021-10-09 11:28:15,045 push changes:
+{'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2021-10-09 11:28:15,175 --- push jflowers/the-grip - nothing to do
+2021-10-09 11:29:00,066 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:29:00,069 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:29:00,074 checkpoint - new size 98304 checksum 0f03012781482fce0e4cb7265eed99c04b2ee1e2
+2021-10-09 11:29:00,342 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:29:00,342 --- start pull jflowers/the-grip
+2021-10-09 11:29:00,504 got project info: local version v11 / server version v12
+2021-10-09 11:29:00,507 pull changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': 'ce56a9b1095177ec8a5c5715005207638c8f4247',
+              'history': {},
+              'mtime': '2021-10-09T10:28:55.259517Z',
+              'origin_checksum': '9b00dd1c76fdc1b764ea13524b8b30d7e7bb47bf',
+              'path': 'trees.dbf',
+              'size': 3927}]}
+2021-10-09 11:29:00,508 will download 1 chunks, total size 3927
+2021-10-09 11:29:00,508 Downloading trees.dbf version=v12 diff=False part=0
+2021-10-09 11:29:00,653 Download finished: trees.dbf
+2021-10-09 11:29:00,722 finalizing pull
+2021-10-09 11:29:00,730 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:29:00,733 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:29:00,738 checkpoint - new size 98304 checksum 550a914f5f621f71fcee2a649a4e13d4e31fb894
+2021-10-09 11:29:00,748 --- pull finished -- at version v12
+2021-10-09 11:29:01,015 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:29:01,015 --- start push jflowers/the-grip
+2021-10-09 11:29:01,173 got project info: local version v12 / server version v12
+2021-10-09 11:29:01,178 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:29:01,182 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:29:01,188 checkpoint - new size 98304 checksum 7311ca3d1234f1e30581cf3adaa87483275f997f
+2021-10-09 11:29:01,195 push changes:
+{'added': [], 'removed': [], 'renamed': [], 'updated': []}
+2021-10-09 11:29:01,338 --- push jflowers/the-grip - nothing to do
+2021-10-09 11:37:10,863 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:37:10,866 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:37:10,872 checkpoint - new size 98304 checksum d021624a8b85bf88c53bd6d04795b4a01577b2de
+2021-10-09 11:37:11,146 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:37:11,146 --- start pull jflowers/the-grip
+2021-10-09 11:37:11,299 got project info: local version v12 / server version v12
+2021-10-09 11:37:11,300 --- pull - nothing to do (already at server version)
+2021-10-09 11:37:11,724 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 11:37:11,724 --- start push jflowers/the-grip
+2021-10-09 11:37:11,867 got project info: local version v12 / server version v12
+2021-10-09 11:37:11,873 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 11:37:11,877 checkpoint - return value: (0, 24, 24)
+2021-10-09 11:37:11,883 checkpoint - new size 98304 checksum e9e19a8f09b663f71e531f81ab6a22d89f8c16f5
+2021-10-09 11:37:11,890 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '6f06c12791ee99837ecc8abd385c5a297c6aa2fd',
+              'chunks': ['0e56fb50-a059-4582-9859-2e309ffac862'],
+              'mtime': datetime.datetime(2021, 10, 9, 11, 37, 10, 656438, tzinfo=tzlocal()),
+              'origin_checksum': 'd38f84f38028709723755460c6623d98b762c3ef',
+              'path': 'the-grip.qgz',
+              'size': 7729}]}
+2021-10-09 11:37:12,201 got transaction ID f7ca2984-566f-4382-ae58-0b0aa732b216
+2021-10-09 11:37:12,202 will upload 1 items with total size 7729
+2021-10-09 11:37:12,204 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 11:37:12,365 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 11:37:12,418 Finishing transaction f7ca2984-566f-4382-ae58-0b0aa732b216
+2021-10-09 11:37:12,652 --- push finished - new project version v13
+2021-10-09 12:40:55,447 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 12:40:55,450 checkpoint - return value: (0, 24, 24)
+2021-10-09 12:40:55,455 checkpoint - new size 98304 checksum 15e791a77108197706cadb710f6d1bb1ed26d3af
+2021-10-09 12:40:55,726 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 12:40:55,726 --- start pull jflowers/the-grip
+2021-10-09 12:40:55,890 got project info: local version v13 / server version v13
+2021-10-09 12:40:55,890 --- pull - nothing to do (already at server version)
+2021-10-09 12:40:56,316 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 12:40:56,316 --- start push jflowers/the-grip
+2021-10-09 12:40:56,464 got project info: local version v13 / server version v13
+2021-10-09 12:40:56,471 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 12:40:56,475 checkpoint - return value: (0, 24, 24)
+2021-10-09 12:40:56,480 checkpoint - new size 98304 checksum 6f42b5a52486d16e05b8d84f19bc8a69a7e66b28
+2021-10-09 12:40:56,488 push changes:
+{'added': [{'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['d2757f2e-ff0f-416d-8a56-14b9b1ff4153'],
+            'mtime': datetime.datetime(2021, 10, 9, 12, 40, 46, 204180, tzinfo=tzlocal()),
+            'path': 'trees-2.shp',
+            'size': 100},
+           {'checksum': '663b90c899fa25a111067be0c22ffc64dcf581c2',
+            'chunks': ['1db218ec-820b-4621-9e66-c7501ce05307'],
+            'mtime': datetime.datetime(2021, 10, 9, 12, 40, 46, 204476, tzinfo=tzlocal()),
+            'path': 'trees-2.cpg',
+            'size': 5},
+           {'checksum': 'a32dd760a732268f2da672eb8cdf7713d24c546d',
+            'chunks': ['0c77cf12-439e-4bca-a898-07209ae9c6d1'],
+            'mtime': datetime.datetime(2021, 10, 9, 12, 40, 46, 204241, tzinfo=tzlocal()),
+            'path': 'trees-2.shx',
+            'size': 100},
+           {'checksum': 'd546c2fcaa2eaa97b44957f770bc026626d0108e',
+            'chunks': ['24bacda7-8db0-420e-b685-cfaaf8302b0d'],
+            'mtime': datetime.datetime(2021, 10, 9, 12, 40, 46, 223820, tzinfo=tzlocal()),
+            'path': 'trees-2.dbf',
+            'size': 162},
+           {'checksum': '2648e1beb7833651824c9bb8ca55e39f51e1eed4',
+            'chunks': ['bf7b2e0a-468d-498f-8e6b-5078c30b094a'],
+            'mtime': datetime.datetime(2021, 10, 9, 12, 40, 46, 223051, tzinfo=tzlocal()),
+            'path': 'trees-2.prj',
+            'size': 417}],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '8bc2cf086b48ecddd8f65c28624e410366750710',
+              'chunks': ['d3167e14-b4ea-4dd9-9b1b-4b86d39d5c8e'],
+              'mtime': datetime.datetime(2021, 10, 9, 12, 40, 55, 242597, tzinfo=tzlocal()),
+              'origin_checksum': '6f06c12791ee99837ecc8abd385c5a297c6aa2fd',
+              'path': 'the-grip.qgz',
+              'size': 11902}]}
+2021-10-09 12:40:56,798 got transaction ID 6c109732-ccde-4bbf-94fc-ee5965eb2ee2
+2021-10-09 12:40:56,799 will upload 6 items with total size 12686
+2021-10-09 12:40:56,802 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees-2.shp part=0
+2021-10-09 12:40:56,802 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees-2.cpg part=0
+2021-10-09 12:40:56,804 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees-2.shx part=0
+2021-10-09 12:40:56,805 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees-2.dbf part=0
+2021-10-09 12:40:56,959 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees-2.cpg
+2021-10-09 12:40:56,960 Uploading /Users/julianflowers/aru_work/practicals/the-grip/trees-2.prj part=0
+2021-10-09 12:40:56,969 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees-2.shp
+2021-10-09 12:40:56,970 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 12:40:56,973 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees-2.shx
+2021-10-09 12:40:56,982 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees-2.dbf
+2021-10-09 12:40:57,111 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/trees-2.prj
+2021-10-09 12:40:57,142 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 12:40:57,187 Finishing transaction 6c109732-ccde-4bbf-94fc-ee5965eb2ee2
+2021-10-09 12:40:57,517 --- push finished - new project version v14
+2021-10-09 12:45:00,098 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 12:45:00,101 checkpoint - return value: (0, 24, 24)
+2021-10-09 12:45:00,106 checkpoint - new size 98304 checksum 2eb901890ddd209912d286b7b5789e4c22706e91
+2021-10-09 12:48:04,408 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 12:48:04,411 checkpoint - return value: (0, 24, 24)
+2021-10-09 12:48:04,416 checkpoint - new size 98304 checksum aac0a6eb7dd91a066d5e2347ee3a30e704f7c4ff
+2021-10-09 12:48:04,689 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 12:48:04,689 --- start pull jflowers/the-grip
+2021-10-09 12:48:04,841 got project info: local version v14 / server version v14
+2021-10-09 12:48:04,842 --- pull - nothing to do (already at server version)
+2021-10-09 12:48:05,272 --- version: Python-client/0.6.4 Plugin/2021.4.2 QGIS/3.20.3 (Darwin/12.0)
+2021-10-09 12:48:05,272 --- start push jflowers/the-grip
+2021-10-09 12:48:05,417 got project info: local version v14 / server version v14
+2021-10-09 12:48:05,424 checkpoint - going to add it in /Users/julianflowers/aru_work/practicals/the-grip/Survey_points.gpkg
+2021-10-09 12:48:05,427 checkpoint - return value: (0, 24, 24)
+2021-10-09 12:48:05,433 checkpoint - new size 98304 checksum 99dab74fb6b578c8aeb5fe9425e99b35829ec116
+2021-10-09 12:48:05,439 push changes:
+{'added': [],
+ 'removed': [],
+ 'renamed': [],
+ 'updated': [{'checksum': '763883da82d2703d26a90422e71dc7daa26ec85c',
+              'chunks': ['72172cf4-070b-4866-bb01-c5639738ab7b'],
+              'mtime': datetime.datetime(2021, 10, 9, 12, 48, 0, 901085, tzinfo=tzlocal()),
+              'origin_checksum': '8bc2cf086b48ecddd8f65c28624e410366750710',
+              'path': 'the-grip.qgz',
+              'size': 11629}]}
+2021-10-09 12:48:05,807 got transaction ID de2bfaeb-a340-4656-9b66-9d9f8cf8fa49
+2021-10-09 12:48:05,808 will upload 1 items with total size 11629
+2021-10-09 12:48:05,810 Uploading /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz part=0
+2021-10-09 12:48:06,010 Upload finished: /Users/julianflowers/aru_work/practicals/the-grip/the-grip.qgz
+2021-10-09 12:48:06,024 Finishing transaction de2bfaeb-a340-4656-9b66-9d9f8cf8fa49
+2021-10-09 12:48:06,299 --- push finished - new project version v15
