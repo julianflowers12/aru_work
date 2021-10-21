@@ -1,0 +1,31 @@
+---
+title: "GIS"
+subtitle: "E010"
+author: "205707"
+date: "`r Sys.Date()`"
+output: 
+    html_document:
+    pdf_document:
+    word_document:
+bibliography: ../Bibliography/references.bib
+csl: ../Bibliography/harvard-anglia-ruskin-university.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Instruction
+
+
+## Introduction
+
+@digimap;[@begon2005; @bhattach2007; @krebs2014]
+
+## Methods
+
+## Results
+
+## Discussion
+
+## References
