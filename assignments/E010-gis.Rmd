@@ -15,12 +15,19 @@ csl: ../Bibliography/harvard-anglia-ruskin-university.csl
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Instruction
+## Map
 
+```{r}
+
+library(here)
+
+knitr::include_graphics()
+
+```
 
 ## Introduction
 
-@digimap;[@begon2005; @bhattach2007; @krebs2014]
+@digimap;[@begon2005; @bhattac\@h2007; @krebs2014]
 
 ## Methods
 

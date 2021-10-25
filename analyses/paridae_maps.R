@@ -13,4 +13,5 @@ df %>%
              y = latitude_wgs84, 
              colour = common_name)) +
   geom_point() + 
-  facet_wrap(~start_date_year)
+  facet_grid(common_name ~ start_date_year)
+ 
