@@ -1,0 +1,666 @@
+Tue Oct 26 10:01:12 BST 2021
+MaxEnt version 3.4.4
+Checking header of /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/MAP_ready.asc
+Checking header of /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/MAT_ready.asc
+Checking header of /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/dem.asc
+Reading samples from Species.csv
+Read samples: max memory 4294967296, total allocated 270532608, free 177557504, used 92975104, increment 92975104
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/MAP_ready.asc size 2917909, max memory = 4294967296
+Reading file MAP_ready.asc
+FLOAT, 134632 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 198759368, used 71773240, increment -21201864
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/maxent.cache/MAP_ready.mxe
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/MAT_ready.asc size 4783382, max memory = 4294967296
+Reading file MAT_ready.asc
+FLOAT, 134632 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 206014768, used 64517840, increment -7255400
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/maxent.cache/MAT_ready.mxe
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/dem.asc size 2788007, max memory = 4294967296
+Reading file dem.asc
+SHORT, 134388 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 138619792, used 131912816, increment 67394976
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input/maxent.cache/dem.mxe
+Extractor: max memory 4294967296, total allocated 270532608, free 131347184, used 139185424, increment 7272608
+Extracting random background and sample data
+Warning: Sample at -4.643327, 55.939644 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -4.643327, 55.939644
+Warning: Sample at -0.688263, 54.523169 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.688263, 54.523169 which has no environmental data
+Warning: Sample at -3.462789, 54.341671 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.462789, 54.341671
+Warning: Sample at -3.462789, 54.341671 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.462789, 54.341671
+Warning: Sample at -3.462789, 54.341671 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.462789, 54.341671
+Warning: Sample at -3.440196, 54.355425 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.440196, 54.355425
+Warning: Sample at -3.440196, 54.355425 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.440196, 54.355425
+Warning: Sample at -3.440196, 54.355425 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.440196, 54.355425
+Warning: Sample at -3.440196, 54.355425 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.440196, 54.355425
+Warning: Sample at -3.440196, 54.355425 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.440196, 54.355425
+Warning: Sample at -3.424503, 54.346623 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.424503, 54.346623
+Warning: Sample at -0.236569, 54.247773 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.236569, 54.247773 which has no environmental data
+Warning: Sample at -0.236569, 54.247773 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.236569, 54.247773 which has no environmental data
+Warning: Sample at -3.303336, 54.163739 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.303336, 54.163739 which has no environmental data
+Warning: Sample at -3.303336, 54.163739 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.303336, 54.163739 which has no environmental data
+Warning: Sample at -3.24961, 54.159815 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.24961, 54.159815
+Warning: Sample at -0.099667, 53.886129 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.099667, 53.886129 which has no environmental data
+Warning: Sample at 0.047986, 53.793804 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.047986, 53.793804 which has no environmental data
+Warning: Sample at -0.56208, 53.712783 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -0.56208, 53.712783
+Warning: Sample at -0.410625, 53.710869 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.410625, 53.710869 which has no environmental data
+Warning: Sample at -0.259189, 53.708764 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.259189, 53.708764 which has no environmental data
+Warning: Sample at 0.043621, 53.703981 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.043621, 53.703981
+Warning: Sample at -3.135499, 53.626138 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.135499, 53.626138 which has no environmental data
+Warning: Sample at -3.103857, 53.572502 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.103857, 53.572502
+Warning: Sample at -3.103389, 53.554529 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.103389, 53.554529
+Warning: Sample at -3.080179, 53.532268 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.080179, 53.532268
+Warning: Sample at -3.074536, 53.526881 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.074536, 53.526881
+Warning: Sample at -3.067211, 53.526542 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.067211, 53.526542
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.130698, 53.446406 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.130698, 53.446406 which has no environmental data
+Warning: Sample at -3.00128, 53.4135 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.00128, 53.4135
+Warning: Sample at 0.226507, 53.393701 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.226507, 53.393701 which has no environmental data
+Warning: Sample at -2.9496482, 53.3706463 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -2.9496482, 53.3706463
+Warning: Sample at -4.469164, 53.156496 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -4.469164, 53.156496
+Warning: Sample at -4.469164, 53.156496 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -4.469164, 53.156496
+Warning: Sample at -4.469164, 53.156496 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -4.469164, 53.156496
+Warning: Sample at -4.319745, 53.159502 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -4.319745, 53.159502
+Warning: Sample at -4.347437, 53.132435 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -4.347437, 53.132435
+Warning: Sample at -4.347437, 53.132435 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -4.347437, 53.132435
+Warning: Sample at 0.312012, 53.069752 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.312012, 53.069752 which has no environmental data
+Warning: Sample at 0.312012, 53.069752 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.312012, 53.069752 which has no environmental data
+Warning: Sample at 0.672558, 52.985767 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.672558, 52.985767 which has no environmental data
+Warning: Sample at 0.672558, 52.985767 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.672558, 52.985767 which has no environmental data
+Warning: Sample at 0.755448, 52.988819 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.755448, 52.988819 which has no environmental data
+Warning: Sample at 0.8501261, 52.972503 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.8501261, 52.972503
+Warning: Sample at 0.902247, 52.96689 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.902247, 52.96689
+Warning: Sample at 0.902247, 52.96689 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.902247, 52.96689
+Warning: Sample at 0.902247, 52.96689 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.902247, 52.96689
+Warning: Sample at 0.902247, 52.96689 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.902247, 52.96689
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.05093, 52.963164 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.05093, 52.963164
+Warning: Sample at 1.082349, 52.954709 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.082349, 52.954709
+Warning: Sample at 1.1063094, 52.9539606 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.1063094, 52.9539606
+Warning: Sample at 1.206679, 52.945526 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.206679, 52.945526
+Warning: Sample at 1.20078, 52.94528 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.20078, 52.94528
+Warning: Sample at 1.205304, 52.946058 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.205304, 52.946058
+Warning: Sample at 1.203818, 52.946098 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.203818, 52.946098
+Warning: Sample at 1.205304, 52.946058 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.205304, 52.946058
+Warning: Sample at 1.203818, 52.946098 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.203818, 52.946098
+Warning: Sample at 1.20078, 52.94528 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.20078, 52.94528
+Warning: Sample at 1.202332, 52.946138 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.202332, 52.946138
+Warning: Sample at 1.250587, 52.944377 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.250587, 52.944377 which has no environmental data
+Warning: Sample at 1.538306, 52.822151 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.538306, 52.822151
+Warning: Sample at 1.53875, 52.822138 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.53875, 52.822138
+Warning: Sample at 1.59882, 52.789974 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.59882, 52.789974
+Warning: Sample at 1.59734, 52.790019 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.59734, 52.790019
+Warning: Sample at 1.649765, 52.760534 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.649765, 52.760534 which has no environmental data
+Warning: Sample at 1.66613, 52.752383 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.66613, 52.752383 which has no environmental data
+Warning: Sample at 1.741002, 52.588137 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.741002, 52.588137 which has no environmental data
+Warning: Sample at 1.76271, 52.582951 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.76271, 52.582951 which has no environmental data
+Warning: Sample at 1.74132, 52.52743 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.74132, 52.52743 which has no environmental data
+Warning: Sample at 1.7279, 52.42153 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.7279, 52.42153 which has no environmental data
+Warning: Sample at 1.69045, 52.337871 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.69045, 52.337871 which has no environmental data
+Warning: Sample at 1.739816, 52.313829 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.739816, 52.313829 which has no environmental data
+Warning: Sample at 1.617906, 52.26771 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.617906, 52.26771
+Warning: Sample at 1.618308, 52.26365 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.618308, 52.26365
+Warning: Sample at 1.617906, 52.26771 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.617906, 52.26771
+Warning: Sample at 1.618052, 52.269504 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.618052, 52.269504
+Warning: Sample at 1.618308, 52.26365 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.618308, 52.26365
+Warning: Sample at 1.618308, 52.26365 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.618308, 52.26365
+Warning: Sample at 1.61460123, 52.24473422 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.61460123, 52.24473422
+Warning: Sample at 1.616846, 52.245705 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.616846, 52.245705
+Warning: Sample at 1.616846, 52.245705 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.616846, 52.245705
+Warning: Sample at 1.62241, 52.24716 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.62241, 52.24716 which has no environmental data
+Warning: Sample at 1.624521, 52.249967 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.624521, 52.249967 which has no environmental data
+Warning: Sample at 1.627846, 52.245817 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.627846, 52.245817 which has no environmental data
+Warning: Sample at 1.611015, 52.173925 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.611015, 52.173925 which has no environmental data
+Warning: Sample at 1.578943, 52.138925 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.578943, 52.138925
+Warning: Sample at 1.453934, 52.034721 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.453934, 52.034721 which has no environmental data
+Warning: Sample at 1.27405, 51.967908 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.27405, 51.967908 which has no environmental data
+Warning: Sample at 1.173889, 51.941422 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.173889, 51.941422 which has no environmental data
+Warning: Sample at 0.869117, 51.79456 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.869117, 51.79456
+Warning: Sample at 0.869117, 51.79456 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.869117, 51.79456
+Warning: Sample at 0.971471, 51.796064 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.971471, 51.796064 which has no environmental data
+Warning: Sample at 0.928821, 51.777645 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.928821, 51.777645 which has no environmental data
+Warning: Sample at -3.842966, 51.616842 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.842966, 51.616842
+Warning: Sample at 0.843234, 51.613517 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.843234, 51.613517
+Warning: Sample at -2.794801, 51.561184 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -2.794801, 51.561184 which has no environmental data
+Warning: Sample at -2.794801, 51.561184 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -2.794801, 51.561184 which has no environmental data
+Warning: Sample at 0.629329, 51.536664 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.629329, 51.536664 which has no environmental data
+Warning: Sample at 0.665923, 51.533589 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.665923, 51.533589 which has no environmental data
+Warning: Sample at 0.728133, 51.530944 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.728133, 51.530944
+Warning: Sample at 0.767053, 51.525985 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.767053, 51.525985 which has no environmental data
+Warning: Sample at 0.773418, 51.523946 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.773418, 51.523946 which has no environmental data
+Warning: Sample at 0.770726, 51.524729 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.770726, 51.524729 which has no environmental data
+Warning: Sample at 0.809921, 51.530227 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.809921, 51.530227 which has no environmental data
+Warning: Sample at 0.809921, 51.530227 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.809921, 51.530227 which has no environmental data
+Warning: Sample at 0.518923, 51.482879 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.518923, 51.482879
+Warning: Sample at 0.518923, 51.482879 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.518923, 51.482879
+Warning: Sample at -3.656783, 51.462254 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.656783, 51.462254 which has no environmental data
+Warning: Sample at -3.656783, 51.462254 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.656783, 51.462254 which has no environmental data
+Warning: Sample at -3.081134, 51.468976 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.081134, 51.468976 which has no environmental data
+Warning: Sample at -3.081134, 51.468976 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.081134, 51.468976 which has no environmental data
+Warning: Sample at 0.45948, 51.4694 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.45948, 51.4694 which has no environmental data
+Warning: Sample at 0.322624, 51.446463 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.322624, 51.446463
+Warning: Sample at 0.32308, 51.455447 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.32308, 51.455447
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.379295, 51.452746 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.379295, 51.452746 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.373176, 51.449947 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.373176, 51.449947 which has no environmental data
+Warning: Sample at 0.721645, 51.455997 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.721645, 51.455997 which has no environmental data
+Warning: Sample at 0.72122, 51.45693 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.72122, 51.45693 which has no environmental data
+Warning: Sample at 0.721772, 51.455725 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.721772, 51.455725 which has no environmental data
+Warning: Sample at 0.804402, 51.44042 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.804402, 51.44042 which has no environmental data
+Warning: Sample at 1.378966, 51.425255 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.378966, 51.425255 which has no environmental data
+Warning: Sample at 1.378966, 51.425255 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.378966, 51.425255 which has no environmental data
+Warning: Sample at -3.378822, 51.386272 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.378822, 51.386272
+Warning: Sample at -3.375894, 51.384508 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.375894, 51.384508
+Warning: Sample at 0.592699, 51.386837 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.592699, 51.386837
+Warning: Sample at 0.592699, 51.386837 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.592699, 51.386837
+Warning: Sample at 0.600132, 51.391169 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.600132, 51.391169
+Warning: Sample at 0.733879, 51.395724 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.733879, 51.395724
+Warning: Sample at 0.750597, 51.383235 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.750597, 51.383235
+Warning: Sample at 0.750597, 51.383235 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.750597, 51.383235
+Warning: Sample at 0.750597, 51.383235 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.750597, 51.383235
+Warning: Sample at 0.74369, 51.387894 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.74369, 51.387894
+Warning: Sample at 0.750597, 51.383235 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.750597, 51.383235
+Warning: Sample at 0.915923, 51.383732 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.915923, 51.383732
+Warning: Sample at 0.932455, 51.393888 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.932455, 51.393888 which has no environmental data
+Warning: Sample at 0.9346, 51.39171 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.9346, 51.39171 which has no environmental data
+Warning: Sample at -3.222664, 51.377665 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.222664, 51.377665 which has no environmental data
+Warning: Sample at -3.222664, 51.377665 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.222664, 51.377665 which has no environmental data
+Warning: Sample at -3.222664, 51.377665 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.222664, 51.377665 which has no environmental data
+Warning: Sample at 0.908462, 51.379421 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.908462, 51.379421
+Warning: Sample at 0.892432, 51.345145 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.892432, 51.345145 which has no environmental data
+Warning: Sample at 0.934863, 51.342785 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.934863, 51.342785
+Warning: Sample at 0.94232, 51.347095 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.94232, 51.347095
+Warning: Sample at 0.948686, 51.345586 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.948686, 51.345586
+Warning: Sample at 0.949201, 51.342425 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.949201, 51.342425
+Warning: Sample at 0.949201, 51.342425 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.949201, 51.342425
+Warning: Sample at -3.113946, 51.338285 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.113946, 51.338285 which has no environmental data
+Warning: Sample at -3.113946, 51.338285 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.113946, 51.338285 which has no environmental data
+Warning: Sample at -3.108955, 51.339682 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -3.108955, 51.339682 which has no environmental data
+Warning: Sample at 1.372356, 51.335494 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.372356, 51.335494 which has no environmental data
+Warning: Sample at 1.358633, 51.31475 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.358633, 51.31475
+Warning: Sample at 1.363193, 51.318217 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.363193, 51.318217 which has no environmental data
+Warning: Sample at 1.371038, 51.317542 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.371038, 51.317542 which has no environmental data
+Warning: Sample at 1.37924, 51.282674 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.37924, 51.282674
+Warning: Sample at 1.375892, 51.285919 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.375892, 51.285919
+Warning: Sample at 1.369721, 51.299589 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.369721, 51.299589
+Warning: Sample at 1.388884, 51.267553 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.388884, 51.267553 which has no environmental data
+Warning: Sample at 1.401865, 51.249185 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.401865, 51.249185 which has no environmental data
+Warning: Sample at 1.395252, 51.159424 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.395252, 51.159424 which has no environmental data
+Warning: Sample at 1.226486, 51.101465 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.226486, 51.101465
+Warning: Sample at 1.269777, 51.104534 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.269777, 51.104534 which has no environmental data
+Warning: Sample at 1.277225, 51.108823 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.277225, 51.108823 which has no environmental data
+Warning: Sample at 1.007296, 51.032657 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 1.007296, 51.032657 which has no environmental data
+Warning: Sample at 0.944581, 50.933289 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.944581, 50.933289
+Warning: Sample at 0.956062, 50.923554 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.956062, 50.923554
+Warning: Sample at 0.729723, 50.913913 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.729723, 50.913913 which has no environmental data
+Warning: Sample at 0.699093, 50.896007 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.699093, 50.896007
+Warning: Sample at 0.693383, 50.893171 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.693383, 50.893171
+Warning: Sample at 0.699388, 50.89618 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.699388, 50.89618
+Warning: Sample at 0.692941, 50.892911 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.692941, 50.892911
+Warning: Sample at 0.694555, 50.893773 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.694555, 50.893773
+Warning: Sample at 0.691611, 50.892042 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.691611, 50.892042
+Warning: Sample at 0.701149, 50.897129 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.701149, 50.897129 which has no environmental data
+Warning: Sample at 0.701297, 50.897215 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.701297, 50.897215 which has no environmental data
+Warning: Sample at 0.618203, 50.862368 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.618203, 50.862368
+Warning: Sample at 0.635742, 50.870967 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.635742, 50.870967 which has no environmental data
+Warning: Sample at -1.362239, 50.842782 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.362239, 50.842782
+Warning: Sample at 0.509891, 50.844826 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.509891, 50.844826
+Warning: Sample at 0.59121, 50.8572385 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.59121, 50.8572385 which has no environmental data
+Warning: Sample at 0.59121, 50.8572385 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.59121, 50.8572385 which has no environmental data
+Warning: Sample at 0.59121, 50.8572385 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.59121, 50.8572385 which has no environmental data
+Warning: Sample at -0.290435, 50.827507 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -0.290435, 50.827507 which has no environmental data
+Warning: Sample at -1.128502, 50.809797 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.128502, 50.809797 which has no environmental data
+Warning: Sample at 0.482973, 50.818105 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.482973, 50.818105 which has no environmental data
+Warning: Sample at 0.050534, 50.782889 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.050534, 50.782889 which has no environmental data
+Warning: Sample at 0.050534, 50.782889 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.050534, 50.782889 which has no environmental data
+Warning: Sample at 0.063117, 50.794809 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at 0.063117, 50.794809
+Warning: Sample at 0.332929, 50.798718 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.332929, 50.798718 which has no environmental data
+Warning: Sample at -1.143351, 50.773935 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.143351, 50.773935 which has no environmental data
+Warning: Sample at -1.143351, 50.773935 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.143351, 50.773935 which has no environmental data
+Warning: Sample at -0.95524, 50.77837 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -0.95524, 50.77837
+Warning: Sample at -1.221717, 50.752003 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.221717, 50.752003 which has no environmental data
+Warning: Sample at -1.221717, 50.752003 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.221717, 50.752003 which has no environmental data
+Warning: Sample at 0.14785, 50.759597 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at 0.14785, 50.759597 which has no environmental data
+Warning: Sample at -3.437213, 50.601351 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -3.437213, 50.601351
+Warning: Sample at -2.495622, 50.573687 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -2.495622, 50.573687
+Warning: Sample at -1.930749, 50.574722 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.930749, 50.574722 which has no environmental data
+Warning: Sample at -1.930749, 50.574722 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.930749, 50.574722 which has no environmental data
+Warning: Sample at -1.930749, 50.574722 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -1.930749, 50.574722 which has no environmental data
+Warning: Sample at -2.45975, 50.51538 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -2.45975, 50.51538 which has no environmental data
+Warning: Sample at -4.950942, 50.200006 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -4.950942, 50.200006
+Warning: Sample at -5.093932, 50.124765 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -5.093932, 50.124765 which has no environmental data
+Warning: Sample at -5.564961, 50.070308 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -5.564961, 50.070308
+Warning: Sample at -5.564961, 50.070308 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -5.564961, 50.070308
+Warning: Sample at -5.564961, 50.070308 in Species.csv is missing some environmental data (e.g. dem)
+Warning: Skipping sample at -5.564961, 50.070308
+Warning: Sample at -5.162335, 50.005521 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -5.162335, 50.005521 which has no environmental data
+Warning: Sample at -5.140556, 49.992619 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -5.140556, 49.992619 which has no environmental data
+Warning: Sample at -5.140556, 49.992619 in Species.csv is missing some environmental data (e.g. MAP_ready)
+Warning: Skipping sample at -5.140556, 49.992619 which has no environmental data
+Time since start: 146.283
+131903 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes responsecurves jackknife "outputdirectory=/Users/julianflowers/Desktop/Week 7/1_MaxEnt/output" "projectionlayers=/Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection" "samplesfile=/Users/julianflowers/Desktop/Week 7/2_Species/Species.csv" "environmentallayers=/Users/julianflowers/Desktop/Week 7/1_MaxEnt/input" randomseed
+Species: Hippodamia_variegata
+Layers: MAP_ready MAT_ready dem
+Layertypes: Continuous Continuous Continuous
+responsecurves: true
+jackknife: true
+outputdirectory: /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output
+projectionlayers: /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection
+samplesfile: /Users/julianflowers/Desktop/Week 7/2_Species/Species.csv
+environmentallayers: /Users/julianflowers/Desktop/Week 7/1_MaxEnt/input
+randomseed: true
+
+getSamples: max memory 4294967296, total allocated 270532608, free 161001792, used 109530816, increment -29654608
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 158822624, used 111709984, increment 2179168
+Hippodamia_variegata: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 154711136, used 115821472, increment 4111488
+linearPredictor: max memory 4294967296, total allocated 270532608, free 154711136, used 115821472, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 154711136, used 115821472, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 154711136, used 115821472, increment 0
+Initial loss: 9.29302573859479
+Time since start: 147.78
+460: time = 1.288000 loss = 8.531413
+Resulting gain: 0.7616131633628278
+Projecting...
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/Hippodamia_variegata.asc
+Time since start: 148.868
+Writing /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/plots/Hippodamia_variegata.png
+Projecting...
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/MAP_ready.asc size 2921490, max memory = 4294967296
+Reading file MAP_ready.asc
+FLOAT, 134632 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 214597664, used 55934944, increment -59886528
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/maxent.cache/MAP_ready.mxe
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/MAT_ready.asc size 4783382, max memory = 4294967296
+Reading file MAT_ready.asc
+FLOAT, 134632 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 225666056, used 44866552, increment -11068392
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/maxent.cache/MAT_ready.mxe
+Converting file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/dem.asc size 2788007, max memory = 4294967296
+Reading file dem.asc
+SHORT, 134388 pixels with data
+readGrid: max memory 4294967296, total allocated 270532608, free 162654328, used 107878280, increment 63011728
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/projection/maxent.cache/dem.mxe
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/Hippodamia_variegata_projection.asc
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/Hippodamia_variegata_projection_clamping.asc
+Time since start: 150.046
+Writing /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/plots/Hippodamia_variegata_projection.png
+Writing /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/plots/Hippodamia_variegata_projection_clamping.png
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/Hippodamia_variegata_projection_novel.asc
+Writing file /Users/julianflowers/Desktop/Week 7/1_MaxEnt/output/Hippodamia_variegata_projection_novel_limiting.asc
+Hippodamia_variegata response curves
+Time since start: 151.064
+Response curve: only MAP_ready
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 173078328, used 97454280, increment -10424000
+Hippodamia_variegata MAP_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 171791576, used 98741032, increment 1286752
+linearPredictor: max memory 4294967296, total allocated 270532608, free 171791576, used 98741032, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 171791576, used 98741032, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 171791576, used 98741032, increment 0
+Initial loss: 9.29302573859479
+260: time = 0.388000 loss = 8.670219
+Resulting gain: 0.622807134369344
+Hippodamia_variegata response curves
+Response curve: only MAT_ready
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 80944648, used 189587960, increment 90846928
+Hippodamia_variegata MAT_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 79993744, used 190538864, increment 950904
+linearPredictor: max memory 4294967296, total allocated 270532608, free 79993744, used 190538864, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 79993744, used 190538864, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 79993744, used 190538864, increment 0
+Initial loss: 9.29302573859479
+260: time = 0.303000 loss = 8.865359
+Resulting gain: 0.427667173324938
+Hippodamia_variegata response curves
+Response curve: only dem
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 218056888, used 52475720, increment -138063144
+Hippodamia_variegata dem: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 216568888, used 53963720, increment 1488000
+linearPredictor: max memory 4294967296, total allocated 270532608, free 216568888, used 53963720, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 216568888, used 53963720, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 216568888, used 53963720, increment 0
+Initial loss: 9.29302573859479
+Time since start: 152.43
+360: time = 0.477000 loss = 9.004909
+Resulting gain: 0.28811648703971215
+Hippodamia_variegata response curves
+Jackknife: leave MAP_ready out
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 131556264, used 138976344, increment 85012624
+Hippodamia_variegata MAP_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 129014840, used 141517768, increment 2541424
+linearPredictor: max memory 4294967296, total allocated 270532608, free 129014840, used 141517768, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 129014840, used 141517768, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 129014840, used 141517768, increment 0
+Initial loss: 9.29302573859479
+440: time = 0.509000 loss = 8.769758
+Jackknife: leave MAT_ready out
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 194462984, used 76069624, increment -65448144
+Hippodamia_variegata MAT_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 191733952, used 78798656, increment 2729032
+linearPredictor: max memory 4294967296, total allocated 270532608, free 191733952, used 78798656, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 191733952, used 78798656, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 191733952, used 78798656, increment 0
+Initial loss: 9.29302573859479
+Time since start: 154.073
+460: time = 0.751000 loss = 8.643465
+Jackknife: leave dem out
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 127113096, used 143419512, increment 64620856
+Hippodamia_variegata dem: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 124284824, used 146247784, increment 2828272
+linearPredictor: max memory 4294967296, total allocated 270532608, free 124284824, used 146247784, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 124284824, used 146247784, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 124284824, used 146247784, increment 0
+Initial loss: 9.29302573859479
+360: time = 0.591000 loss = 8.565866
+Jackknife: only MAP_ready
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 146145328, used 124387280, increment -21860504
+Hippodamia_variegata MAP_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 144738752, used 125793856, increment 1406576
+linearPredictor: max memory 4294967296, total allocated 270532608, free 144738752, used 125793856, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 144738752, used 125793856, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 144738752, used 125793856, increment 0
+Initial loss: 9.29302573859479
+Time since start: 155.147
+260: time = 0.370000 loss = 8.670219
+Res.gain: 0.622807134369344
+Jackknife: only MAT_ready
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 207599568, used 62933040, increment -62860816
+Hippodamia_variegata MAT_ready: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 206323072, used 64209536, increment 1276496
+linearPredictor: max memory 4294967296, total allocated 270532608, free 206236160, used 64296448, increment 86912
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 206236160, used 64296448, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 206236160, used 64296448, increment 0
+Initial loss: 9.29302573859479
+260: time = 0.263000 loss = 8.865359
+Res.gain: 0.427667173324938
+Jackknife: only dem
+Making features
+makeFeatures: max memory 4294967296, total allocated 270532608, free 188934656, used 81597952, increment 17301504
+Hippodamia_variegata dem: 
+Regularization values: linear/quadratic/product: 0.050, categorical: 0.250, threshold: 1.000, hinge: 0.500
+992 samples
+Density: max memory 4294967296, total allocated 270532608, free 187535616, used 82996992, increment 1399040
+linearPredictor: max memory 4294967296, total allocated 270532608, free 187535616, used 82996992, increment 0
+FeaturedSpace: max memory 4294967296, total allocated 270532608, free 187535616, used 82996992, increment 0
+Sequential: max memory 4294967296, total allocated 270532608, free 187535616, used 82996992, increment 0
+Initial loss: 9.29302573859479
+360: time = 0.448000 loss = 9.004909
+Res.gain: 0.28811648703971215
+Ending
