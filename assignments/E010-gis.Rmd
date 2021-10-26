@@ -1,28 +1,84 @@
 ---
-title: "GIS"
-subtitle: "E010"
-author: "205707"
+title: "Submission for GI Module assignment MOD004809"
+subtitle: "Assignment MOD004809 E010"
+author: "SID: 205707"
 date: "`r Sys.Date()`"
 output: 
-    html_document:
-    pdf_document:
     word_document:
+    pdf_document:
+    html_document:
 bibliography: ../Bibliography/references.bib
 csl: ../Bibliography/harvard-anglia-ruskin-university.csl
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
+here::here()
 ```
 
-### Instruction
+## Submission for GI Module assignment E010
 
+### Map
 
-## Introduction
+```{r}
 
-@digimap;[@begon2005; @bhattach2007; @krebs2014]
+path <- here::here("assignments")
+knitr::include_graphics(paste0(path, "/Waterbirds-assignment-E10/waterbirds-E10-GIS.png"))
+```
+
+------------------------------------------------------------------------
+
+## Reflection for element 011
+
+### Background
+
+Despite being globally of least concern in IUCN ratings due its wide range, the Willow Tit (*Poecile montanus*) is on the British Red List for species and is one of the most threatened resident British birds. [@theiucn2021] Its frequency has declined by over 90% since the 1970s and has lost the southern and south-eastern part of its range. @thedecl
+
+According to the 4th British .. (BOCC) the Willow tit...@stanbury2017b; @eaton2015
+
+Three hypotheses for the decline have been proposed:
+
+-   Habitat loss
+
+-   Competition for nesting sites from other *Paridae* especially the Great Tit (*Parus major*) and Blue tit ()
+
+    -   It has been proposed that garden bird feeding has boosted the populations of other *Paridae* increasing potential competition (ref)
+
+-   Predation by Greater spotted woodpeckers and Grey squirrels
+
+In order to test
+
+1.  Have there been further declines in Willow tit counts?
+2.  What are the habitat preferences of the Willow tit
+3.  Habitat overlaps (terminology?) between the Willow tit and competitors/ predators
+
+### Data sources
+
+1.  Species observation counts from the NBN atlas data set ()
+
+2.  Habitat / land cover use from the Centre for Ecology and Hydrology (25m)
+
+3.  Climate data from WorldClim
 
 ## Methods
+
+1.  Trends in species observations
+
+2.  Habitat preferences for Willow tit
+
+3.  Trends in competitor / predator species in habitats occupied by Willow tits
+
+4.  ? Species distribution model based on presence/absence
+
+    1.  Climate variables
+
+    2.  Predator y/n
+
+    3.  Competitor y/n
+
+    4.  Habitat
+
+5.  
 
 ## Results
 
