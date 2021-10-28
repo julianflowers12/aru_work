@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 here::here()
 ```
 
+<<<<<<< HEAD
 ## Submission for GI Module assignment E010
 
 ### Map
@@ -41,9 +42,21 @@ Three hypotheses for the decline have been proposed:
 -   Habitat loss
 
 -   Competition for nesting sites from other *Paridae* especially the Great Tit (*Parus major*) and Blue tit ()
+=======
+## Map
+
+```{r}
+
+library(here)
+
+knitr::include_graphics()
+
+```
+>>>>>>> 1e4ab47e13732d76ab391331db3f9653eb8ba12a
 
     -   It has been proposed that garden bird feeding has boosted the populations of other *Paridae* increasing potential competition (ref)
 
+<<<<<<< HEAD
 -   Predation by Greater spotted woodpeckers and Grey squirrels
 
 In order to test
@@ -59,6 +72,9 @@ In order to test
 2.  Habitat / land cover use from the Centre for Ecology and Hydrology (25m)
 
 3.  Climate data from WorldClim
+=======
+@digimap;[@begon2005; @bhattac\@h2007; @krebs2014]
+>>>>>>> 1e4ab47e13732d76ab391331db3f9653eb8ba12a
 
 ## Methods
 
