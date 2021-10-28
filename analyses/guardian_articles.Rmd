@@ -21,9 +21,11 @@ knitr::opts_chunk$set(echo = FALSE, cache = TRUE)
 library(guardianapi)
 library(lubridate)
 library(tidyverse)
+devtools::install_github("julianflowers/myScrapers")
 library(myScrapers)
 library(textrank)
-
+library(tidytext)
+library(quanteda)
 ```
 
 ```{r get articles}
@@ -40,11 +42,11 @@ last_month <- guardianapi::gu_content(params$search, from_date = today() - days(
 last_month <- last_month %>%
   mutate(date = ymd(str_sub(web_publication_date, 1, 10))) %>%
   select(date, web_title, headline, body_text, short_url, section_name)
+```
 
-tldr <- last_month %>%
-  .[1:178, ] %>%
-  mutate(tldr = map(body_text, text_summariser)) %>%
-  unnest(tldr)
 
-tldr$tldr
+```{r tldr}
+last_month %>%
+  DT::datatable()
+
 ```
