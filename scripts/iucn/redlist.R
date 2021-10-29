@@ -22,7 +22,7 @@ taxize::comm2sci(" quail", db  = "itis" )
 
 rredlist::rl_use_iucn()
 
-rl_search("Manacus manacus") %>%
+rl_search("Chloris chloris") %>%
   glimpse()
 
 sp <- rl_sp_count()

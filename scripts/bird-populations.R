@@ -15,7 +15,10 @@ summary_trend_data <- readODS::read_ods(t, skip = 17) %>%
          long_term_percentage_change = str_remove(long_term_percentage_change, "\\(.+\\)")) %>%
   mutate_at(.vars = c(2:3, 6:5), as.numeric) 
 
-summary_trend_data
+summary_trend_data %>%
+  filter(str_detect(species, "Poecile"))
+
+
 
 temp <- tempfile()
 data <- "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/938264/Populations_wild_birds_UK_1970_2019.ods"
