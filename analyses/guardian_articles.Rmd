@@ -1,17 +1,19 @@
 ---
-title: "R Notebook"
+title: "Guardian articles"
 output:
   html_document:
     df_print: paged
 editor_options:
   chunk_output_type: inline
 params:
-  search: "wildlife conservation"
+  search: "COP26"
+  days: 60
 ---
 
 ```{r setup, include=FALSE}
 
-knitr::opts_chunk$set(echo = FALSE, cache = TRUE)
+knitr::opts_chunk$set(echo = FALSE, cache = FALSE, message = FALSE, warning = FALSE)
+devtools::install_github("rstudio/miniUI")
 
 
 ```
@@ -26,6 +28,7 @@ library(myScrapers)
 library(textrank)
 library(tidytext)
 library(quanteda)
+library(miniUI)
 ```
 
 ```{r get articles}
@@ -35,18 +38,27 @@ library(quanteda)
 
 guardianapi::gu_api_key(check_env = TRUE)
 
-last_month <- guardianapi::gu_content(params$search, from_date = today() - days(30), to_date = today())
+search_period <- guardianapi::gu_content(params$search, from_date = today() - days(params$days), to_date = today())
 
 #glimpse(last_month)
 
-last_month <- last_month %>%
+search_period <- search_period %>%
   mutate(date = ymd(str_sub(web_publication_date, 1, 10))) %>%
-  select(date, web_title, headline, body_text, short_url, section_name)
+  select(date, web_title, headline, body_text, short_url, section_name) %>%
+  arrange(desc(date))
+
+
 ```
 
 
+**Searches the Guardian for recent articles**
+
+* Search term: *`r params$search`*
+* Search period: `r glue::glue("Past ", params$days, " days")`
+* No articles: `r nrow(search_period)`
+
 ```{r tldr}
-last_month %>%
-  DT::datatable()
+search_period %>%
+  DT::datatable(filter = "top")
 
 ```
