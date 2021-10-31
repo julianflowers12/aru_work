@@ -19,9 +19,10 @@ library(tidyverse, quietly = TRUE)
 # Popular science articles
 
 ## Build it ... or not, and they will come
+
 Discussion of open-ended vs 'conventional' species targeted conservation - old wine in new bottles?
 
-Nature in Britain is in trouble. We have lost half our biodiversity over the last few hundred years according to recent analysis led by the [Natural History Museum](https://www.theguardian.com/p/j72x7), making Britain one of the most nature-depleted regions in Europe (see figure). 
+Nature in Britain is in trouble. We have lost half our biodiversity over the last few hundred years according to recent analysis led by the [Natural History Museum](https://www.theguardian.com/p/j72x7), making Britain one of the most nature-depleted regions in Europe (see figure).
 
 ```{r, echo=FALSE, results="hide"}
 path <- here::here("data/")
@@ -47,26 +48,22 @@ bii %>%
 
 ```
 
-Using an indicator called the [Biodiversity Intactness Index (BII)](https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/about-the-biodiversity-intactness-index.html) which calculates the percentage of species remaining and their frequency pre- and post- human impact in a given area, Britain is estimated to have only 50% of its pre-agrarian and industrial revolution biodiversity and continues a slow decline. 
+Using an indicator called the [Biodiversity Intactness Index (BII)](https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/about-the-biodiversity-intactness-index.html) which calculates the percentage of species remaining and their frequency pre- and post- human impact in a given area, Britain is estimated to have only 50% of its pre-agrarian and industrial revolution biodiversity and continues a slow decline.
 
-This loss is largely attributable to urbanisation and agricultural practices. The latter is nowhere more visible than in the Fens  - a vast wetland in the East of England - where only about 0.2% of the original undrained fen exists. Over the centuries the Fens have been systematically drained for agricultural land, which has degraded as top soil and peat have been lost.
+This loss is largely attributable to urbanisation and agricultural practices. The latter is nowhere more visible than in the Fens - a vast former wetland in the East of England - where only about 0.2% of the original undrained fen exists. Over the centuries the Fens have been systematically drained for agricultural land, which has degraded as top soil and peat have been lost.
 
-At Wicken Fen -  a remnant of undrained fen in a sea of agricultural land - the impact is clear to see. The fen is some 2-3 metres higher than than the surrounding area and is a mixture of pasture, grassland and woodland which sustains enormous biodiversty - over 9000 species at last count.
+At Wicken Fen - a tiny remnant of undrained fen in a vast sea of agricultural land - the impact is clear to see. The fen is some 2-3 metres higher than than the surrounding area and is a mixture of wetland, reedbedsm pasture, grassland and woodland which sustains enormous biodiversity - over 9000 species at last count.
 
+Restoring fenland is high on the agenda - landscape fragments are not sustainable - so there is a plan to knit together existing undrained fen remnants and restore tracts of arable farmland nearing their end of life to create a corridor restored fenland from Wicken to Cambridge, increasing the size of the reserve from 255 to 53 0 hectares.
 
+.As well as being a step to restoring habitat and biodiversity, restoring and rewetting also increases carbon capture and storage. It has been estimated that 100,000 tonnes of CO2 area released every year from peat loss on the Fens as a whole.
 
-The loss is attributed to change in farming practices
+Rewetting and rewilding. Open-ended landscape restoration. Big vision. Need the land. Maintining the original fen (oldest nature reserve in Britain 1899) is a high intensity task involving cutting reed on a 3 year rotation, preventing the fen from returning to carr and woodland. Sedge and reed was cut by hand although recently the NT has acquired a reed cutting machine.
 
+The restoration programme
 
-Wicken Fen and vision - oldest National Trust
-Minsmere  - oldest RSPB 
-Rewilding - Ken Hill
-Are they different sides of the same coin
-Divided by a common language
-
+\[Hectares\]
 
 ## Evidence based ecology
 
-If the recent coronavirus pandemic has taught us anything it is that there is an unprecendented public interest in data and science in public life, as well as growing . 
-
-
+If the recent coronavirus pandemic has taught us anything it is that there is an unprecendented public interest in data and science in public life, as well as growing .
