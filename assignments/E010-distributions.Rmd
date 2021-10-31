@@ -1,28 +1,72 @@
 ---
-title: "Distributions"
-subtitle: "E010"
-author: "SID"
+title: "Submission for MOD005246"
+subtitle: "Assignment E010"
+author: "SID: 205707"
 date: "`r Sys.Date()`"
 output: 
-    html_document:
-    pdf_document:
     word_document:
-bibliography: references.bib
-csl: Bibliography/harvard-anglia-ruskin-university.csl
+    pdf_document:
+    html_document:
+bibliography: ../Bibliography/references.bib
+csl: ../Bibliography/harvard-anglia-ruskin-university.csl
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse, quietly = TRUE)
 ```
 
-## Introduction
+# Popular science articles
 
-@digimap;[@begon2005; @bhattach2007; @krebs2014]
+## Build it ... or not, and they will come
+Discussion of open-ended vs 'conventional' species targeted conservation - old wine in new bottles?
 
-## Methods
+Nature in Britain is in trouble. We have lost half our biodiversity over the last few hundred years according to recent analysis led by the [Natural History Museum](https://www.theguardian.com/p/j72x7), making Britain one of the most nature-depleted regions in Europe (see figure). 
 
-## Results
+```{r, echo=FALSE, results="hide"}
+path <- here::here("data/")
+#list.files(path)
+bii <- read_csv(glue::glue(path, "resource.csv"),show_col_types = FALSE)
+```
 
-## Discussion
+```{r, echo=FALSE}
+bii %>%
+  janitor::clean_names() %>%
+  filter(str_detect(area_code, "154-") , 
+         scenario == "historical", 
+         variable == "bii") %>%
+  mutate(Country = str_remove(area_code, "001-150-154-")) %>%## UN M49 codes for Northern Europe
+  ggplot(aes(year, value, colour = Country)) +
+  geom_line() +
+  labs(title = "Biodiversity intactness in Northern European countries", 
+       subtitle = "Britain lags behind", 
+       y = "Biodiversity Intactness Index", 
+       caption = "Source = Natural History Museum data portal") +
+  theme_bw()
+  
 
-## References
+```
+
+Using an indicator called the [Biodiversity Intactness Index (BII)](https://www.nhm.ac.uk/our-science/data/biodiversity-indicators/about-the-biodiversity-intactness-index.html) which calculates the percentage of species remaining and their frequency pre- and post- human impact in a given area, Britain is estimated to have only 50% of its pre-agrarian and industrial revolution biodiversity and continues a slow decline. 
+
+This loss is largely attributable to urbanisation and agricultural practices. The latter is nowhere more visible than in the Fens  - a vast wetland in the East of England - where only about 0.2% of the original undrained fen exists. Over the centuries the Fens have been systematically drained for agricultural land, which has degraded as top soil and peat have been lost.
+
+At Wicken Fen -  a remnant of undrained fen in a sea of agricultural land - the impact is clear to see. The fen is some 2-3 metres higher than than the surrounding area and is a mixture of pasture, grassland and woodland which sustains enormous biodiversty - over 9000 species at last count.
+
+
+
+The loss is attributed to change in farming practices
+
+
+Wicken Fen and vision - oldest National Trust
+Minsmere  - oldest RSPB 
+Rewilding - Ken Hill
+Are they different sides of the same coin
+Divided by a common language
+
+
+## Evidence based ecology
+
+If the recent coronavirus pandemic has taught us anything it is that there is an unprecendented public interest in data and science in public life, as well as growing . 
+
+
