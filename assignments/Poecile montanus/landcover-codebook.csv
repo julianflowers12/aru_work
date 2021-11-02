@@ -1,0 +1,22 @@
+﻿UKCEH Aggregate class,AC identifier,UKCEH Land Cover Calss,LC Identifier
+Broadleaf,1,Deciduos woodland,1
+Coniferous,2,Coniferous woodland,2
+Arable,3,Arable,3
+Improved grassland,4,Improved grassland,4
+Semi-natural grassland,5,Neutral grassland,5
+,,Calcareous grassland,6
+,,Acid grassland,7
+,,Fen,8
+"Mountain, heath and bog",6,Heather,9
+,,Heather grassland,10
+,,Bog,11
+,,Inland rock,12
+Saltwater,7,Saltwater,13
+Freshwater,8,Freshwater,14
+Coastal ,9,Supralittoral rick,15
+,,Supralitoral sediment,16
+,,Littoral roick#,17
+,,Littoral sediment,18
+,,Saltmarsh,19
+Built up areas and gardens,10,Urban,20
+,,Suburban,21

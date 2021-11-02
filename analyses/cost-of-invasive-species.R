@@ -6,7 +6,6 @@ library(invacost)
 library(tidyverse)
 library(skimr)
 library(scales)
-options()
 data(invacost)
 dim(invacost)
 
@@ -30,10 +29,14 @@ dim(uk)
 
 
 uk %>%
-  group_by(Genus, Common_name) %>%
+  group_by(Genus, Species, Common_name) %>%
   summarise(mean_cost = mean(Cost_estimate_per_year_local_currency, na.rm = TRUE)) %>%
   arrange(-mean_cost) %>%
   mutate(mean_cost = scales::dollar_format(prefix = "£")(mean_cost)) %>%
+  ungroup() %>%
+  slice(1:10) %>% 
+  write_csv("inv_species.csv")
+  knitr::kable()
   #ungroup() %>%
   mutate(mean = parse_number(mean_cost)) %>%
   top_n(20) %>%
