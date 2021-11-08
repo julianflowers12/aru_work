@@ -1,0 +1,302 @@
+---
+title: "GGPLOT mapping"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r}
+library(pacman)
+p_load(ggvoronoi, sf, tidyverse, rnaturalearth, rnaturalearthdata, viridis, ggspatial, rworldmap, geojsonio, ggfortify, ggmap, ggspatial, rosm, raster, stars, patchwork, elevatr, rgdal, data.table, rgeoboundaries, tmap)
+
+pacman::p_install_gh("julianflowers/myScrapers")
+pacman::p_install_gh("wmgeolab/rgeoboundaries")
+
+library(rgeoboundaries)
+```
+
+## Raster population density
+
+```{r}
+path <- here::here()
+#read.table("/data/UK_residential_population_2011_1_km.asc")
+
+pop_dens_2020 <- raster(glue::glue(path, "/data/gbr_ppp_2020_UNadj.tif"))
+
+summary(pop_dens_2020)
+
+pop_dens <- as.data.frame(pop_dens_2020, xy = TRUE) %>%
+  filter(!is.na( gbr_ppp_2020_UNadj))
+
+q <- ggplot() +
+  geom_raster(data = pop_dens , aes(x = x, y = y, fill = gbr_ppp_2020_UNadj)) +
+  scale_fill_viridis_c() +
+  coord_quickmap()
+
+q
+
+
+pop_dens <- pop_dens %>%
+  filter(!is.na(gbr_ppp_2020_UNadj))
+
+head(pop_dens)
+
+
+pop_dens_crs <- pop_dens %>%
+  sf::st_as_sf(., coords = c("x", "y"), crs = 4326)
+
+pop_dens_crs %>%
+  ggplot() +
+  geom_sf(aes(colour = sqrt(gbr_ppp_2020_UNadj)))
+
+```
+
+## Elevation
+
+```{r}
+
+uk_bound <- geoboundaries("United Kingdom")
+elevation_data <- get_elev_raster(locations = uk_bound, z = 9, prj = "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs", clip = "locations")
+
+
+elev <- getData("SRTM", lon = -4, lat = 55)
+
+plot(elev)
+
+```
+
+## Grids
+
+```{r}
+
+grids1k <- st_read(glue::glue(path, "/data/Download_1841450/gb-grids_4219077/1km_grid_region.shp"))
+
+grids1k_df <- as.data.frame(grids1k, xy = TRUE)
+
+
+grids1k %>%
+  ggplot() +
+  geom_sf()
+
+
+
+
+```
+
+
+
+## Landcover
+
+```{r}
+
+land_use_change_from <- raster(glue::glue(path, "/data/LCC_GB_1990_to_2015.tif"), band = 4)
+
+land_use_1990 <- land_use_change_from <- raster(glue::glue(path, "/data/LCC_GB_1990_to_2015.tif"), band = 1)
+
+land_use_2015 <- land_use_change_from <- raster(glue::glue(path, "/data/LCC_GB_1990_to_2015.tif"), band = 2)
+
+brick(glue::glue(path, "/data/LCC_GB_1990_to_2015.tif")) %>%
+  plot()
+
+
+
+lucf <- raster::sampleRandom(land_use_change, size = 100000)
+
+summary(lucf)
+
+lucf <- as.data.frame(lucf, xy = TRUE)
+lucf %>%
+  count(lucf)
+
+```
+
+
+
+## Climate data
+
+```{r}
+clim_vars <- myScrapers::get_page_text("https://www.worldclim.org/data/bioclim.html")
+
+cmip <- myScrapers::get_page_text("https://www.wcrp-climate.org/wgcm-cmip")
+
+cmip_explained <- myScrapers::get_page_text("https://www.carbonbrief.org/cmip6-the-next-generation-of-climate-models-explained")
+
+```
+
+## Get climate data
+
+```{r}
+
+clim_data <- getData("worldclim",var="bio", res= 2.5)
+clim_data_rain <- getData("worldclim",var="prec", res= 2.5)
+clim_data
+summary(clim_data_rain)
+
+class(clim_data)
+
+clim_data_df <- as.data.frame(clim_data, xy= TRUE)
+clim_data_rain_df <- as.data.frame(clim_data_rain, xy= TRUE)
+clim_data_rain_long_uk <- clim_data_rain_df %>%
+  na.omit() %>%
+  filter(between(x, -9, 5), between(y, 50, 61)) %>%
+  pivot_longer(names_to = "metric", values_to = "values", cols = 3:ncol(.))
+
+clim_data_rain_df_long %>%
+  na.omit() %>%
+  filter(between(x, -9, 5), between(y, 50, 61)) %>%
+  select(x, y, prec1)
+
+ clim_data_rain_long_uk %>%
+  st_as_sf(., coords = c("x", "y"), crs = 4326) %>%
+  ggplot() +
+  geom_sf(aes(colour = values)) +
+  scale_colour_viridis() +
+  theme_void() +
+  ggtitle("Monthly rainfall") +
+  facet_wrap(~metric)
+
+  
+
+
+
+proj_clim_data <- raster::getData(name = 'CMIP5', var = 'bio', res = 5,
+        rcp = 45, model = 'IP', year = 50)
+
+?raster::getData
+
+
+glimpse(clim_data)
+
+names(clim_data[[c(1, 12)]])
+
+rain <- clim_data[[1]]
+rain@extent
+extent(rain)
+rain@extent <- extent(-10, 3, 49.5, 60.5)
+
+rain
+
+plot(crop(rain, rain))
+
+extent(rain_uk)
+
+points <- spsample(as(rain@extent, 'SpatialPolygons'),n=1000000, type="random")    
+
+values <- raster::extract(rain, points)
+
+df <- cbind.data.frame(coordinates(points),values)
+
+plot(rain)
+
+
+```
+
+
+
+
+```{r}
+
+register_google(key = "AIzaSyDN5z9-0oiQsJrgocxOit_xOjd9fDqsHVo")
+has_google_key()
+
+load_longlake_data()
+
+ggplot() +
+  annotation_map_tile(zoom = 13, cachedir = system.file("rosm.cache", package = "ggspatial")) +
+  geom_sf(data = longlake_waterdf, fill = NA, col = "grey50")
+#> Zoom: 13
+
+
+  
+
+
+```
+
+
+
+```{r}
+
+uk <- st_read("https://opendata.arcgis.com/datasets/ad26732b081049d797620753db953185_0.geojson")
+
+uk <- st_make_valid(uk)
+
+cities <- geocode(c("London", "Leeds", "Norwich", "Cambridge") )
+cities <- st_as_sf(cities, coords = c("lon", "lat"), crs= 4326)
+ggplot(uk) + 
+  geom_sf() +
+  geom_sf(data = cities, colour = "red")
+```
+
+
+
+```{r}
+
+
+p <- ggplot(uk) +
+    geom_sf() +
+    ggspatial::geom_osm() +
+    #annotation_scale(location = "bl", width_hint = 0.5) +
+    #annotation_north_arrow(location = "bl", 
+                           # which_north = "true",
+                           # pad_x = unit(0, "cm"), 
+                           # pad_y = unit(0.5,"cm"),      
+                           # style = north_arrow_fancy_orienteering) +
+    xlab("Longitude") + 
+    ylab("Latitude") +
+    ggtitle("UK map") +
+    scale_fill_viridis() +
+    coord_sf(crs = st_crs(4326), 
+             xlim = c(-10, 2), ylim = c(48, 62)) +
+    theme_void()
+
+p
+  
+```
+
+```{r}
+paridae <- read_csv("../data/Paridae 2010-2020.csv", show_col_types = FALSE) 
+
+paridae <- paridae %>% 
+  filter(!is.na(`Latitude (WGS84)`))
+
+paridae <- paridae %>%
+  janitor::clean_names() %>%
+  dplyr::select(scientific_name, common_name, start_date_year, latitude = latitude_wgs84, longitude = longitude_wgs84)
+
+sites <- st_as_sf(paridae, coords = c("longitude", "latitude"), 
+    crs = 4326, agr = "constant")
+
+paridae %>%
+  count(common_name, start_date_year) %>%
+  filter(start_date_year != 2020) %>%
+  ggplot(aes(factor(start_date_year), n, group = common_name, colour = common_name)) +
+  geom_line()
+
+paridae %>%
+  filter(common_name %in% c("Blue Tit", "Great Tit", "Willow Tit"),
+         start_date_year %in% c(2011, 2013, 2015, 2017, 2019)) %>%
+  ggplot(aes(x = longitude, y = latitude, colour = common_name)) +
+  geom_point() +
+  facet_grid(common_name ~ start_date_year)
+  
+```
+
+```{r}
+
+wt <- sites %>% filter(common_name == "Willow Tit")
+
+p +
+  geom_sf(data = wt, colour = "red") +
+  coord_sf() +
+  facet_wrap(~ start_date_year, nrow = 1)
+  
+
+
+```
+
+
+```{r}
+
+?raster
+```
+
